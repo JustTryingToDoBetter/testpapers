@@ -1,0 +1,4582 @@
+Files:
+- C:\Users\umorrja\projects\testpapers\grade11_mathematical_literacy_papers\2025\MATHS LITERACY P1 GR11 QP NOV2025_English_watermark.pdf
+- C:\Users\umorrja\projects\testpapers\grade11_mathematical_literacy_papers\2022\MATHS LIT P1 GR11 QP NOV2022_English.pdf
+- C:\Users\umorrja\projects\testpapers\grade11_mathematical_literacy_papers\2020\MATHS LIT P1 GR11 QP MEMO NOV2020 ENG D.pdf
+- C:\Users\umorrja\projects\testpapers\grade11_mathematical_literacy_papers\2020\MATHS LIT P1 GR11 QP NOV2020 ENG D.pdf
+- C:\Users\umorrja\projects\testpapers\grade11_mathematical_literacy_papers\2020\MATHS LIT P1 GR11 QP NOV2020_English.docx.pdf
+- C:\Users\umorrja\projects\testpapers\grade11_mathematical_literacy_papers\2020\MATHS LIT P1 GR11 QP NOV2020_English.pdf
+- C:\Users\umorrja\projects\testpapers\grade11_mathematical_literacy_papers\2017\MATHS LIT P1 GR11 QP NOV 2017_English.pdf
+- C:\Users\umorrja\projects\testpapers\grade11_mathematical_literacy_papers\2016\Gr11-MLIT-P1-N16-QP-Eng.pdf
+- C:\Users\umorrja\projects\testpapers\grade11_mathematical_literacy_papers\2015\MATHS LIT P1 QP GR11 SEPT 2015 ENG.pdf
+- C:\Users\umorrja\projects\testpapers\grade11_mathematical_literacy_papers\2013\Mathematical Literacy P1 Exemplar 2013 Eng.pdf
+
+--- Summary ---
+TABLE  1:  MOTOR TRADE SALES AT CURRENT PRICES THEN  
+                         (RAND IN MILLION)  
+Month  Year 2018  Year 2019  
+January  53 044  53 844  
+February  53 321  52 361  
+March  58 353  55 646  
+April  49 633  54 981  
+May 56 064  56 846  
+June 55 263  54 249  
+July 56 409  59 270 
+August  57 598  58 435  
+September  54 436  54 467  
+October  60 406  59 960  
+November  60 417  57 915  
+December  51 480  52 718  
+Total  666 424  670 692  
+                                                                                                        [Source: www.statssa.gov.za/Jan 2020]   
+  
+Use the information above to answer the following questions.
+of units             
+                                           (4) F 
+L2 
+    
+ 
+    
+2.1.3 % loss = 12 924,75 – 6 995,25  
+            = R5 929,50 
+            = 10075, 1292450, 5929u  
+            = 45,88%  
+OR 
+Percentage loss = 10012924,7525, 6995u  
+                          = 54,12% 
+                          = 100% – 54,12%  
+                          = 45,88% 1M Subtraction of values 
+1S Simplification  
+1M Dividing correct values 
+1M Multiply by 100%  
+ 
+OR 
+ 1M Dividing correct values 1M M
+ultiply by 100%  
+1S Simplification  
+1M Subtraction of %          
+                                           (4) F 
+L3 
+          
+    
+2.1.4 B = R8 038,07 – R6 995,25 
+    = R1 042,82 1MA Subtraction  1CA Correct answer          (2) F 
+L2 
+    
+2.1.5 R765,57   2RT Correct value 
+(2) F 
+L2 
+    
+2.1.6  % increase = 10075,33275,33202,366u 
+                   = 9,998% 
+                   = 10% 1RT Correct values 
+1SF Substitution 
+1S Simplification  
+1R Nearest %                     (4) F 
+L2 
+  
+    
+2.2.1 Number of plates 99 RT 
+ 2RT Number of plates 
+(2) F 
+L2 
+    
+2.2.2 Fixed expenses = R500 99 RT 2RT Fixed expenses 
+                                 (2) F 
+L2 
+    
+2.2.3 Income = R50 × Number of plates sold 9 M 9 A 1M Multiplication with R50  
+1A Correct formula           (2) F 
+L2 
+    
+2.2.4 R0 OR (No Profit) 99 RT 2RT No profit 
+                                 (2) F 
+L2 9 R   9 S 99 RT 
+  9 M  
+9 S 
+9M 9 CA 
+9 M 9 C 
+  9 CA 
+99RT 9C A 9 MA 
+9RT  9 M 
+9 M  
+9 SF 9 S 9 M 
+9 M 
+(EC/NOVEMBER 2020)  MATHEMATICAL LITERACY P1 5 
+Copyright reserved  Please turn over  
+2.2.5 Loss for 8 plates =  Expenses – Income 
+                                9RT          9 RT   
+                            =  740 – 400 9M 
+                            = R340 9A 
+OR 
+ 
+Expenses  = 500 + 8 × 30 = R740 9M 
+Income = 50  × 8 = R400 9M 
+Loss  = 740 – 400 = R340 9A 1RT R740 
+1RT R400  
+1M Subtraction 
+1A Loss  
+(From graph allow 3 40±10) 
+OR 
+IM for R 740 
+1M for R400  
+1M subtraction  
+1A for R340 exact answer (4) F 
+L3 
+ 
+    
+ 
+  
+ [30]  
+  
+6 MATHEMATICAL LITERACY P1 (EC/NOVEMBER 2020)  
+Copyright reserved  Please turn over  
+QUESTION 3: DATA HANDLING (18 marks) AND PROBABILITY (3 marks)   
+Ques.
+Solution Explanation T/L 
+3.1 Total number of spas 
+= 30 394 + 13 856 + 3 984 + 6 057 + 46 282 + 48 679 
+=149 252 9M 9A  
+1M Adding correct values 
+1A Total                           (2) D 
+L1 
+    
+3.2 Mean =  ଵସଽ  ଶହଶ
+଺ 9M  
+          = 24 875,33 
+          = 24 875 9 R  CA from 3.1 
+1M Division 
+1R Whole number    
+  (2) D 
+L2 
+ 
+ 
+    
+3.3 European spas as a % =  ସ଺ ଶ଼ଶ
+ଵସଽ  ଶହଶ×100 9M  
+                                   = 31% 9CA 1M Fraction with correct  
+      values and  
+      multiplication by 100 
+1CA Percentage               (2) D 
+L2 
+ 
+ 
+    
+3.4 Range = 48 679 – 3 984 
+           = 44 695  9S 
+Number of regions above range = 2 CA 9  
+1S Calculate range 
+1CA Number of regions  (2) D 
+L3 
+ 
+    
+3.5 30 394 : 48 679  = 1 : ସ଼ ଺଻ଽ
+ଷ଴ ଷଽସ 9M 9M 
+ 
+                           =1 : 1,60 9 CA 1M Ratio 
+1M Fraction 
+1CA Unit ratio   
+NPR                                 (3) D 
+L3 
+  
+    
+3.6 Revenue in sub-saharan Africa = 6,6 – 5,0 9M 
+                                                   = 1,6 9S 
+Total revenue for spas 
+= 22,9 + 6,6 + 1,6 + 2,8 + 33,3 + 26,5 9M 
+= $93,7 billion  9CA 1M Subtraction 
+1S Simplification 
+1M Addition 
+1CA Total revenue  
+Penalise 1 mark if not in 
+billions                            (4) D 
+L3 
+ 
+   
+    
+3.7 1,6; 2,8; 6,6; 22,9; 26,5; 33,3 9M 
+ 
+Median revenue = ଺,଺ ା ଶଶ,ଽ
+ଶ 9M 
+                       = $14,75 billion 9CA CA the value $1,6 from 3.6 
+included in the data  
+1M Arranging in order of 
+descending  or ascending  
+1M Concept of median  
+1CA Answer in billions   (3) D 
+L3 
+   
+ 
+    
+3.8 P (Regions with more than 40 000 spas)  
+ 
+                 = ଶ
+଺ × 100  9M 
+                 
+                 = 33,33% 9CA 1RT Correct numerator and  
+        denominator  
+1M Multiplication by 100 
+ 1CA 
+Percentage    
+NPR                                  (3) P 
+L2 
+   
+ 
+ [21]  
+  9RT 
+(EC/NOVEMBER 2020)  MATHEMATICAL LITERACY P1 7 
+Copyright reserved  Please turn over  
+QUESTION 4:  FINANCE (12 marks), DATA HANDLING (11 marks) AND  
+                           PROBABILITY (3 marks)  
+Ques.
+Study the table and answer the questions that follow:   
+  
+Table 3: Comparison between urban and rural food prices (selected food 
+items)   
+  
+Product  Rural food 
+prices  
+January 2015 
+(in Rands)  Urban food 
+prices  
+January 2015 
+(in Rands)  Price 
+difference 
+Rand per unit   
+Full cream Long Life Milk (1  ℓ) 12,03  12,59  0,56  
+Loaf of Brown Bread (700  g) 9,57 10,29  0,72  
+Loaf of White Bread (700  g) 10,31  11,42  1,11  
+Maize Meal (5  kg) 32,49  33,73  1,24  
+Margarine(500  g) 17,89  21,68  3,79  
+Rice (2  kg) 23,62  23,45  -0,17  
+Sunflower Oil (750  mℓ) 14,59  17,25  2,66  
+Ceylon/Black Tea (62,5g)  9,89 9,68 -0,21  
+White Sugar (2,5 kg)  29,63  26,31  -3,32  
+Average    A  
+[Source: Stats SA, 2015 ]  
+  
+4.1 Arrange the rural food prices in descending order.
+Study the till 
+slip belo w she received from Sparrow and answer the questions that follow: (*some 
+information is omitted*)   
+SPARROW SHOP  
+Roseplace.Tel: 716 1610   
+Customer:  Victoria   Prices  (R)  
+Parm Stew F/Cus  1 kg 22,49   
+Mc Beans  (Fresh Greenbeans)  1 kg 36,99#   
+A/Chix  B/P 4 -PCE  0,542 kg @ 53,99  p/kg 29,26   
+A/Chix B/P 4 -PCE 0,474 kg @ 53,99  p/kg 25,59   
+Flora regular margarine  per kg  2 @ ……..  1 kg 99,98   
+Sunday Times National  1’s 22,00   
+Bostik Prestik L  100 g  17,99   
+Koo PCH.Slice SR  410 g  9,99  
+Valpre Still  1,5 ℓ 13,49   
+Carrier bag 2 @ 0,50  24 ℓ 1,00  
+TOTAL  FOR 12 ITEMS   278,78   
+Tendered debit card   478,78   
+Change cash   200,00   
+Points earned:     
+Before This sale:  1639     
+This sale:  13    
+Total points : 1652     
+VAT rate  Excluding.
+26304/  
+132568   
+MODEL  Mercedes 
+Benz  Selling 
+dealer  25A Date  24/03/16   
+  
+Operation/Part no./Description  Quantity/  
+Time units  Unit 
+Price (R)  Unit Amount    
+Consumables 0100MSH  
+Engine Oil  U 5,50  29 159,50 S  
+MA271 180 05 09 Filter Oil  X 1 212,82 EACH  106,41 S  
+MA 001 986 19 71/ 1075 Cleaner 
+Solv  X 1 4,99 EACH  2,50 S  
+MA 000 989 08 07/13 Fluid  X 1 75,87 EACH  37,94 S  
+MA 204 890 2311 TS Wiper Blade  X 1 697,13 EACH  348,57 S  
+MA 201 565 456 03 Battery  X 1 2469 ,92 EACH  1234 ,96 S  
+MA 313 836 0319 Filter Combi  X 1 726,16 EACH  363,08 S  
+  
+ Goods 
+value  VAT 
+RATE  Taxable amount  
+(incl labour)   NET TOTAL  3390 ,96  
+    VAT/BTW  B  
+Parts  (X) 2093 ,46 14 %  3390 ,96 Rounding  0,09  
+Labour  A     
+Sublet  0,00     
+Deposit  0,00  TOTAL  3865 ,60  
+      
+Goods are supplied subject to ownership vesting in the seller until paid for in 
+full.
+
+--- Full Combined Text ---
+ 
+ 
+NATIONAL  
+SENIOR CERTIFICATE  
+ 
+ GRADE 11   
+ 
+NOVEMBER 202 5 
+ 
+MATHEMATICAL LITERACY P1  
+ 
+MARKS:  100 
+  
+TIME:  2 hours  
+ 
+ This question paper consists of 10 pages including 2 answer sheet s.  
+  
+This document was downloaded from www.ecexams.co.za.
+
+2 MATHEMATICAL LITERACY P1  (EC/NOVEMBER 2025)  
+Copyright reserved   Please turn over   
+INSTRUCTIONS AND INFORMATION   
+   
+1. Write your FULL NAME and SURNAME on the ANSWER BOOK .  
+   
+2. The question paper consists of FOUR QUESTIONS. Answer ALL the questions in the 
+ANSWER BOOK .  
+   
+3. Start EAC H question on a NEW  page .  
+   
+4. Number the answers correctly according to the numbering system used in this question 
+paper.   
+   
+5. Leave ONE  line open between two sub -questions , for example between QUESTION 2.1 
+and QUESTION 2.2.   
+   
+6. Use the ANSWER SHEETS attached to answer QUESTIONS 2.2.2, 2.2.3 and 3.2.   
+   
+7. You may use a non -programmable calculator.   
+   
+8. You may use appropriate mathematical instruments.   
+   
+9. Show ALL formulae and substitutions in ALL calculations.   
+   
+10. Round off your final numerical answers to TWO decimal places , unless stated otherwise .  
+   
+11. Write neatly and legibly.   
+   
+ 
+  
+This document was downloaded from www.ecexams.co.za.
+(EC/NOVEMBER 2025)  MATHEMATICAL LITERACY P1  3 
+Copyright reserved   Please turn over   
+QUESTION 1  
+  
+1.1 TABLE  1 presents the deposit slip details for funds to be credited to Cynthia Francis ’s 
+account . 
+ 
+TABLE  1: CYNTHIA FRANCIS’S DEPOSIT SLIP  
+Deposit Slip                                                                                             CFO BANK  
+Credit Cynthia Francis                                                                15 December 2024  
+Teller’s stamp  Paid by: Cynthia Francis   R c 
+Signature : C Francis  Notes  260 00 
+Cell no: 061  320 4988  Coins  16 70 
+Subtotal  276 70 
+Authorised by  Drawer’s name  Bank  Branch    
+Authority no.  1. A Troyd  BBC  Jamestown  340 00 
+ 2. Z Pasi  DBE  Bloemfontein  480 80 
+  Total    
+Account  no. 2 4 5 7 1 6 4 8 3 4 
+  
+    
+ 1.1.1  Write down Cynthia’s account number . (2) 
+    
+ 1.1.2  Determine how  many transfers were from other banks . (2) 
+    
+ 1.1.3  Write down the total amount of cash that she deposited.  (2) 
+    
+ 1.1.4 Calculate  the total of the amount deposited . (2) 
+    
+1.2 Zizo, a soccer fan, collected and analysed 2024/2025 goals scored  for the Premium 
+Soccer League. The goals scored  for the league are indicated below.  
+ 
+TABLE 2 : 2024/2025 PREMIER SOCCER LEAGUE GOALS SCORED  
+TEAMS  SFC ORP  SUN  AMA  TSG  KAC  CHI MGE  CTC  
+GOALS 
+SCORED   
+73  
+60  
+46  
+35  
+35  
+32  
+31  
+30  
+27 
+  
+   
+ Use the information above to answer the questions that follow.   
+   
+ 1.2.1  Choose the correct word to make the statement TRUE.   
+    
+  The above data is numerical / categorical.  (2) 
+    
+ 1.2.2  Write down the highest number of goals scored in the league.  (2) 
+    
+ 1.2.3  List the teams that have the same number of goals scored.  (2) 
+    
+  
+This document was downloaded from www.ecexams.co.za.
+4 MATHEMATICAL LITERACY P1  (EC/NOVEMBER 2025)  
+Copyright reserved   Please turn over   
+1.3 Choose a definition from COLUMN  B that  match es the term in COLUMN  A. Write 
+only the letter (A–F) next to the question number s (1.3.1  to 1.3.4) in the ANSWER 
+BOOK , for example 1.3.5 G .  
+   
+ Column A  Column B   
+ 1.3.1  Questionnaire  A the likelihood of something happening or not 
+happening   
+      
+ 1.3.2  Balance  B a record of income and expenditure   
+      
+ 1.3.3  Probability  C instrument used to collect data   
+      
+ 1.3.4  UIF D payment made into the bank account   
+      
+   E the difference between the deb its and credits   
+      
+  F unemployment insurance fund   
+ (4 x 2)  (8) 
+  [22] 
+  
+This document was downloaded from www.ecexams.co.za.
+(EC/NOVEMBER 2025)  MATHEMATICAL LITERACY P1  5 
+Copyright reserved   Please turn over   
+QUESTION 2  
+  
+2.1 Rowe has been  driving a demo car for the past four years. Over these four years he 
+managed to save 16% as a deposit of the price of the brand  new car he wants to buy. He 
+is interested in buying a 2025 Cherry Tiggo 7  Pro Max.  
+ 
+Rowe visited the dealer to purchase the car. The price of the car is R499  900,00.  
+ 
+NOTE : Focus will be on the price of the car only (no other initial costs).   
+    
+ Use the above information to answer the following questions.   
+   
+ 2.1.1 Calculate the amount Rowe saved for the deposit.  (2) 
+    
+ 2.1.2 Rowe secured a loan for the outstanding balance from the bank, agreeing to 
+repay it over 36 months with a 9, 5% annual simple interest rate.   
+ 
+Calculate how much  Rowe will pay if it takes him  exactly  36 months to pay the  
+loan.  (5) 
+    
+ 2.1.3  Determine the monthly instalment  Rowe will pay on the loan . (2) 
+    
+ 2.1.4  In the showroom there were different colours of the car Rowe wants to buy  
+(2 red, 3 silver, 4 grey and 5 black ). Calculate the probability , as a decimal , that 
+Rowe will choose a silver car . (3) 
+    
+2.2 Waterfront High School wants to renovate their netball  court. The school asked builders 
+from the comm unity to volunteer and assist with  the renovations. The school estimated 
+that it would take 3 builder s 12 days to finish renovations, or it  would take 12 builders 3 
+days to finish renov ations. The table below displays this information.  
+ 
+TABLE 3: NUMBER OF BUILDERS AND DAYS TO RENOVATE  THE   
+                   NETBALL COURT  
+Number  of builders  3 4 6 9 12 
+Number  of days 12    3 
+  
+    
+ Use the above information to answer the following questions.   
+    
+ 2.2.1  Derive a mathematical formula that represents the information given in the 
+table . (2) 
+    
+ 2.2.2  Complete the table above  by using  the ANSWER SHEET for QUESTION 2.2.2  
+provided . (3) 
+    
+ 2.2.3  Use ANSWER SHEET QUESTION 2.2.3  provided to draw a graph to represent 
+the data in TABLE 3.  (4) 
+    
+ 2.2.4  Choose the correct word to make the statement false.  
+ 
+The relationship represented by the graph in QUESTION 2.2.3  is direct  / 
+indirect proportion .  (2) 
+    
+2.3 Joyce’s sala ry is R20 600,00 per month. L ast year her monthly salary was R20  000,00. 
+Calculate the inflation rate.  (4) 
+   [27] 
+  
+This document was downloaded from www.ecexams.co.za.
+6 MATHEMATICAL LITERACY P1  (EC/NOVEMBER 2025)  
+Copyright reserved   Please turn over   
+  QUESTION 3  
+  
+3.1 The pie c hart below s hows the percentage of bachelor passes  obtained by candidates in  
+Cluster B Districts. The total number of bachelors  passes  in Cluster B District s is 20  910. 
+ 
+  
+    
+ 3.1.1  Determine the percentage of bachelor passes obtained by the Sarah Baartman 
+District.  (3) 
+    
+ 3.1.2  Calculate the number of candidates with bachelor passes in Buffalo City.  (3) 
+    
+ 3.1.3  Determine the median percentage of bachelors passes.  (3) 
+    
+ 3.1.4  Write down the  district that has  the least percentage of bachelor passes . (2) 
+    
+ 3.1.5  Calculate the mean percentage of bachelor passes in Cluster B.  (3) 
+    
+ 3.1.6  Determine the probability of randomly selecting a district with a bachelor pass of 
+less than 10%. Write your answer as a simplified fraction.  (3) 
+    
+3.2 A clinic recorded the distribution of a few antibiotics to a sample group of learners at a 
+school  to see whether they contracted TB .  The sample group was made up of nine 
+classes. The results are shown in the table below.  
+TABLE 4 : THE RESULTS OF LEARNERS WHO CONTRACTED TB  
+Classes  A B C D E F G H I 
+Number of antibiotics  35 30 10 50 45 35 20 55 10 
+Number of learners contracted TB  40 45 50 5 20 25 50 10 55 
+  
+   
+ Draw a scatter plot to illustrate the data in the table above. Use the ANSWER SHEET 
+provided  for QUESTION 3.2.  (6) 
+  [23] Amathole 
+East 20%
+Amathole West 
+8%
+Buffalo 
+City 26%
+Chris Hani West 
+12%Nelson 
+Mandela  
+27%Sarah Baartman
+Amathole East Amathole West Buffalo City
+Chris Hani West Nelson Mandela Sarah BaartmanBACHELOR PASS PER DISTRICT
+This document was downloaded from www.ecexams.co.za.
+(EC/NOVEMBER 2025)  MATHEMATICAL LITERACY P1  7 
+Copyright reserved   Please turn over   
+  QUESTION 4   
+    
+4.1 The invoice given below lists cleaning materials bought by Lily. Study the invoice and 
+answer the questions that follow.  
+INCOME AND EXPENDITURE  
+DESCRIPTION  QUANTITY  LITRES  PRICE PER 
+LITRE  COST  
+1. Water -based general purpose  
+    cleaner  2 25 R99, 00 R4 950 
+2. Pine fragrance disinfectant  
+    cleaner  2 25 R95, 00 R4 750  
+ Sub Total  … 
+VAT (15%)  R1 455  
+Total Due  … 
+  
+    
+ 4.1.1  Calculate the total cost for ALL  the material bought by Lily , including VAT . (4) 
+    
+ 4.1.2  Lily states  that the profit she makes from  selling  ONE 25 litre (25 ℓ) Pine 
+fragran ce disinfectant cleaner is R450,00, if she sells a litre at R135, 00.  
+ 
+Verify , showing ALL calculations, if her statement is VALID.  (6) 
+    
+ 4.1.3  The graph below shows the cost and selling price of all-purpose cleaner material 
+per litre.  Study the table and a nswer the questions that follow.   
+    
+  
+  
+    
+  (a) Give the value(s) of the point marked (W) on the graph and explain the  
+meaning of that point.  (2) 
+    
+  (b) Write down the for mula for Lily’s expenses if she must pay  rent of R2 00. 
+Cost = …  + … (2) 05001000150020002500300035004000
+0 5 10 15 20 25 30Cost/Selling price (Rands)
+Number of litresCOST AND SELLING PRICE OF ALL -PURPOSE CLEANER
+WINCOME
+EXPENSES
+This document was downloaded from www.ecexams.co.za.
+8 MATHEMATICAL LITERACY P1  (EC/NOVEMBER 2025)  
+Copyright reserved   Please turn over   
+  4.2 A South African company imports goods worth €45  000 from Europe.  
+ 
+The exchange rate is R1 = € 0,049669   
+   
+ Calculate the cost of the goods in South African Rand.  (3) 
+   
+4.3 Below are the March Test results for nine Grade 11 Mathematical Literacy  learners . 
+The test was out of 75 marks.  
+ 
+                                      15      60     75      67      68      73     60      75     58   
+   
+ The teacher claimed th at the range of the class is 80%. Show by means of calculations 
+whether the teacher’s claim is VALID  or not.  (5) 
+   
+4.4 The City of FY2024/25 split the residential prepaid tariffs into Prepaid Low (indigent) 
+and Prepaid High. Electricity tariffs for Prepaid Low are shown in TABLE 5.  
+ 
+TABLE 5: RESIDENTIAL PREPAID LOW INDIGENT (FY 2024/25)  
+ SIZE  TARIFF  (kWh/R)  
+(Excluding VAT)  
+Block 1  0 – 350 kWh  2,216  
+Block 2  ˃350 – 500 kWh  2,711  
+Block 3  ˃ 500 kWh  3,226  
+  
+   
+ Use TABLE 5 above to an swer the question that follows.   
+   
+ Calcula te how much a resident in this city pays a month , including VAT , when they 
+use 374 kWh of electricity.  (6) 
+  [28] 
+   
+ TOTAL:  100 
+This document was downloaded from www.ecexams.co.za.
+(EC/NOVEMBER 2025)  MATHEMATICAL LITERACY P1  9 
+Copyright reserved   Please turn over   
+ 
+  ANSWER SHEET  
+ 
+NAME OF SCHOOL:…………………………………………CLASS: ……………….  
+ 
+NAME OF LEARNER: ……………………………………………  
+ 
+QUESTION 2.2.2  
+ 
+NO. OF BUILDERS  3 4 6 7 12 
+NO. OF DAYS  12    3 
+ 
+ 
+QUESTION 2.2.3  
+ 
+ 
+ 02468101214
+0 2 4 6 8 10 12 14...................................
+...............................................................
+This document was downloaded from www.ecexams.co.za.
+10 MATHEMATICAL LITERACY P1  (EC/NOVEMBER 2025)  
+Copyright reserved   Please turn over   
+ ANSWER SHEET  
+ 
+NAME OF SCHOOL:……………………………………………   CLASS: ……………….  
+ 
+NAME OF LEARNER: ……………………………………………  
+ 
+QUESTION 3.2 
+ 
+CLASSES  A B C D E F G H I 
+Number of antibiotics  35 30 10 50 45 35 20 55 10 
+Number of learners contracted TB  40 45 50 5 20 25 50 10 55  
+ 
+ 51525354555
+10 15 20 25 30 35 40 45 50 55 60NUMBER OF LEARNERS CONTRACTED TB
+NUMBER OF ANTIBIOTICSSCATTER PLOT SHOWING ANTIBIOTICS AND NUMBER OF LEARNERS CONTRACTED 
+TB
+ 
+This document was downloaded from www.ecexams.co.za.
+
+ 
+ 
+NATIONAL  
+SENIOR CERTIFICATE  
+ 
+ GRADE 1 1  
+ 
+NOVEMBER  2022 
+ 
+MATHEMATICAL LITERACY P1  
+ 
+MARKS:  100 
+  
+TIME:  2 hours  
+ 
+ This qu estion paper consists of  12 pages , including  two answer sheets.   
+  
+
+2 MATHEMATICAL LITERACY P1  (EC/ NOVEMBER  2022) 
+Copyright reserved   Please turn over   
+INSTRUCTIONS AND INFORMATION   
+  
+1. This question paper consists of F OUR  questions. Answer ALL the questions.   
+   
+2. 2.1 Use ANSWER SHEET  1 for QUESTION 4.1.3 .  
+    
+ 2.2 Use ANSWER SHEET 2  for QUESTIONS 4.3.1 .  
+    
+ 2.3 Write your NAME  and GRADE in the spaces provide d on ANSWER SHEET  1 
+for QUESTION 4.1.3 AND on ANSWER SHEET 2  for QUESTION 4.3.1 .  
+Hand in the ANSWER SHEET S with your ANSWER BOOK.   
+   
+3. Number the answers  correctly according to the numbering system used in this question 
+paper.   
+   
+4. Diagrams are NOT  necessarily drawn to scale , unless stated otherwise .  
+   
+5. Round off ALL  final answers according to the context used, unless stated otherwise.   
+   
+6. Indicate units of measurement, where applicable.   
+   
+7. Start EACH question on a NEW page.   
+   
+8. Show ALL calculations clearly.   
+   
+9. Write neatly and legibly.   
+  
+(EC/ NOVEMBER  2022) MATHEMATICAL LITERACY P1  3 
+Copyright reserved   Please turn over   
+QUESTION 1   
+  
+1.1 Study  Ms Jane Bukirwa’s payslip for the month of October 2021 shown below and 
+answer the questions that follow.  
+ 
+GM’s Car Washing Co. Ltd.  
+8 Down Street,  
+Komani,  
+5319  
+Tel: _________  
+Cellphone  no.: __________   
+  
+ 
+                             [www.yorkshire.co.uk ] 
+Payslip for the month of October 2021  
+Employee ’s name:  Jane Bukirwa  
+Gender:                   Female  
+Occupation:            Clerk/Cashier  Paid days:               30 
+Leave without pay: 1    
+Pay slip no.:            10/2021   
+Earnings  Amount  Deductions  Amount  
+Basic  salary           R5 000  Salary advance  R650  
+Overtime hours  45  PAYE  R774  
+Overtime rate  R25  UIF: 1% of Total 
+Earnings   
+   R61,25  
+Overtime payment           R1 125  Other deductions  -         
+Total Payment            R6 125  Total deductions       ---- 
+Net Pay         R4 639,75    
+  
+   
+ 1.1.1  Write down Ms Jane Bukirwa’s occupation.  (2) 
+    
+ 1.1.2 Calculate  her total  deductions.  (2) 
+    
+ 1.1.3 Show by means of calculations how the overtime payment amount of R1 125 was 
+determined.  (2) 
+    
+ 1.1.4 Define the term ‘ net pay ’ according to the above context . (2) 
+    
+ 1.1.5 Calculate  the amount to be added to Jane Bukirwa’s basic salary , if the basic 
+salary is increased by 7,5 % for  November  2021.   (3) 
+  
+
+4 MATHEMATICAL LITERACY P1  (EC/ NOVEMBER  2022) 
+Copyright reserved   Please turn over   
+1.2 Grade 11 Mathematical Literacy learners wrote a test marked out 50 marks. Their 
+results are displayed on  the graph below showing the distribution of marks.  
+ 
+  
+   
+ Use the information displayed on the above graph to answer the questions that follow.   
+   
+ 1.2.1  Name the type of graph used to display the data of results.  (2) 
+    
+ 1.2.2  Determine the number of learners  that wrote  the test.  (2) 
+    
+ 1.2.3  How many learners scored within the modal class?  (2) 
+    
+ 1.2.4  Calculate the marks out of 50 for a learner that obtained 68% in the test.  (2) 
+  [19] 
+  
+
+(EC/ NOVEMBER  2022) MATHEMATICAL LITERACY P1  5 
+Copyright reserved   Please turn over   
+QUESTION 2   
+  
+2.1 Aunt Louis, an educator, compares the pension fund estimations for the year 202 1 
+and 202 2. She wants to resign at the end of 202 2. Study the information below and 
+answer the questions that follow s. 
+ 
+Normal retirement estimated  2022 2021 
+Monthly pension  (annuity) payable  
+ R26 383 R25 591  
+Lump sum (gratuity) payable  R919 363  R884 198  
+Discharge monthly pension payable  R23 248 R22 083  
+Discharge lump sum  (gratuity) payable  R799 313  R747 619  
+Monthly pension  (annuity) payable to spouse(s)  R13 692  R13 295  
+Lump sum  (gratuity) payable to beneficiaries  R2 592 409  R2 470 783  
+Resignation benefit  R2 836 836  -----------  
+  [Adapted from www.gepf.co.za ] 
+  
+   
+ 2.1.1  Write down the value of the lump sum payable to beneficiaries in 202 1. (2) 
+    
+ 2.1.2  The resignation benefit for the year 202 1 is R166  417 less than 202 2 benefit. 
+Calculate the resignation amount for the year 202 1. (3) 
+    
+ 2.1.3 Calculate  the annual  amount  for the year 202 2 that Aunt Louis will receive for 
+the monthly pension.  Round off your answer to the nearest R100. (3) 
+    
+ 2.1.4  Aunt Louis claimed that the lump sum (gratuity) payable for 202 2 is R35 615 
+more than the lump sum (gratuity) payable for 202 1. Verify the statement.  (3) 
+    
+ 2.1.5  Give ONE advantage of an employee contributing towards  the Pension Fund.  (2) 
+  
+6 MATHEMATICAL LITERACY P1  (EC/ NOVEMBER  2022) 
+Copyright reserved   Please turn over   
+2.2 John Matu sells Samsung cellphones. The price list given below shows the cost price and 
+profit for different types of cellphones in the year 2021. Study the price list and answer 
+the questions that follow. All prices include VAT 15%.  
+ 
+Samsung Galaxy A31  
+    Cost Price:  R3 299,25  
+           Profit:  R1 099,75  
+ 
+       Samsung Galaxy A72  
+          Cost Price:  R7 499,25  
+                 Profit:        R2 499,75  
+ 
+ 
+Samsung Galaxy S10  
+    Cost Price:  R11 099,25  
+           Profit:  R3 699,75  
+ 
+ Samsung Galaxy S21 Ultra  
+      Cost Price:  R21 749,25  
+             Profit:        R7 249,75  
+ 
+ 
+     [Source: www.samsung.com ]  
+   
+ 2.2.1  Determine the selling price of the Samsung Galaxy A72.  (2) 
+    
+ 2.2.2 Determine the ratio (in simplest form) of total profit to the total income from sale 
+of the four cellphones.  (4) 
+    
+ 2.2.3 John Matu  ran out of the cheaper phones. He placed an order for the cellphones 
+A31 and A72 in the ratio: A31  : A72  = 2 : 1. 
+A total of 15 cellphones were ordered.  
+Verify  with the necessary calculations that the total cost price for the order was  
+R70 488,75 . (5) 
+  
+
+(EC/ NOVEMBER  2022) MATHEMATICAL LITERACY P1  7 
+Copyright reserved   Please turn over   
+ 2.2.4 The cost price of Samsung A31 in the year 2020 was R3 399,75. It is costing less 
+this year due to new cellphones on the market.  
+Calculate the percentage decrease  on the cost  of the A31. Give your answer to 
+the nearest percentage.  
+You may use the following formula:  
+ 
+Percentage decrease  = new price – old price
+old price × 100%  (4) 
+   
+2.3 Mr John Matu received the statement  indicating water tariffs for the month of  
+March 2021.  Study the water tariffs table below from DJB Municipality.  
+ 
+DJB Municipality  
+Mr J. Matu :     March 2021 statement  
+Code  Water tariffs ( per k ℓ) 
+(Excluding VAT ) 
+WA0101  6,110 k ℓ @ R16,992900  
+WA0102  4,073 k ℓ @ R17,326130  
+WA0103  2,817 k ℓ @ R24,06370  
+                                                     Amount paid  R --- 
+  
+   
+ Use the information and the table above to answer the following question .  
+   
+ Mr J. Matu  asked his two sons to calculate  the amount (including VAT  = 15%) he has to 
+pay.  
+ 
+• Son A got R2 63,48 
+• Son B got R2 58,48 
+ 
+John claimed Son  B was correct. Verify showing ALL  your calculations whether the 
+statement is correct.  (5) 
+  [33] 
+  
+8 MATHEMATICAL LITERACY P1  (EC/ NOVEMBER  2022) 
+Copyright reserved   Please turn over   
+QUESTION 3   
+  
+Motor trade sales in the months (January –December) for the years 2018 and 2019 at current 
+prices then, are shown in the TABLE 1 below.  
+ 
+      TABLE  1:  MOTOR TRADE SALES AT CURRENT PRICES THEN  
+                         (RAND IN MILLION)  
+Month  Year 2018  Year 2019  
+January  53 044  53 844  
+February  53 321  52 361  
+March  58 353  55 646  
+April  49 633  54 981  
+May 56 064  56 846  
+June 55 263  54 249  
+July 56 409  59 270 
+August  57 598  58 435  
+September  54 436  54 467  
+October  60 406  59 960  
+November  60 417  57 915  
+December  51 480  52 718  
+Total  666 424  670 692  
+                                                                                                        [Source: www.statssa.gov.za/Jan 2020]   
+  
+Use the information above to answer the following questions.   
+  
+3.1 Write down the month and the year when trade sales were the lowest of the two years.  (2) 
+   
+3.2 Determine the range for  the amount of trade sales for the months in the year 2019.  (3) 
+   
+3.3 Write down the total amount of the trade sales for the year 2018 in words.  (2) 
+   
+3.4 Calculate the mean trade sales for the year 2018.  (3) 
+   
+3.5 Determine the median value of the trade sales for the months (Jan –Dec) in the year 
+2019.  (3) 
+   
+3.6 Express the amount of trade sales of October 2018 as a percentage of the total trade 
+sales for the year 2018.  (3) 
+   
+3.7 Determine the probability (as a fraction) of randomly selecting a month that shows a 
+decline in  the amount of trade sales from year 2018 to 2019.  (3) 
+  [19] 
+  
+(EC/ NOVEMBER  2022) MATHEMATICAL LITERACY P1  9 
+Copyright reserved   Please turn over   
+QUESTION 4   
+  
+4.1 Ms Jena started a shoe repair business 
+to repair old shoes , restore their quality 
+and make them user friendly.  
+Below are the weekly costs and charges 
+involved : 
+• Rent for the room  – R250  
+• Salaries – R400  
+• Materials required per pair of 
+shoes on average costed at R25  
+• On average each customer is 
+charged R75 per pair of shoes  
+• Income = R75 × n, (where n 
+represents  the number of pair s of 
+shoes)  
+• Expenses = R650 + R25 × n,  
+(where n represents  the number of 
+pairs of shoes)   
+ 
+  [Source: https://howtostatanllc.com/Shoe repair ] 
+  
+   
+ Use the above information to answer the  following  questions.   
+   
+ 4.1.1  Write down the weekly total fixed costs that Ms Jena pays per week.  (2) 
+    
+ 4.1.2  The TABLE 2 below shows the income and expenses from the business.  
+  
+TABLE 2: INCOME AND EXPENSES FOR THE SHOE REPAIR  
+                   BUSINESS  
+Number of pair of shoes (n)  0 5 10 15 18 20 
+Expenses  (R) 650 775 900 1 025 1 100 A 
+Income (R)  0 375 750 1 125 1 350 1 500 
+  
+    
+  (a) Calculate missing value A. (2) 
+     
+  (b) Ms Jena has learnt that starting a business is not easy. It takes time to get 
+your business known. Her records show that:  
+ 
+• In week 1  – She repaired 5 pairs of shoes  
+• In week 2  – She repaired 10 pairs of shoes  
+• In week 3  – She repaired 20 pairs of shoes  
+ 
+Use the information above and TABLE 2 to show by means of calculations 
+that Ms Jena made  a loss of R200 in the 3 weeks.  (5) 
+    
+ 4.1.3  A line graph showing the income from the repair of shoes has been drawn on 
+ANSWER SHEET  1. Use the same grid on ANSWER SHEET  1 to draw another 
+line graph showing the expenses of the repair of shoes.  (3) 
+    
+ 4.1.4  Use the graph to determine the number of pair of shoes at the break -even point.  (2) 
+  
+
+10 MATHEMATICAL LITERACY P1  (EC/ NOVEMBER  2022) 
+Copyright reserved   Please turn over   
+4.2 Ms Jane’s brother who lives in Japan sent her money to assist her in her business. He 
+sent Japanese yen (¥) 25 000. Determine the amount in Rands Ms Jane received.  
+ 
+You may use the exchange rate at the time: 1Yen (¥) =  R0,135  2364  (3) 
+   
+4.3 A Grade 11B Mathematical Literacy class at Nayani Secondary School participated 
+in a research project where their gender and weight ( kg) were recorded.  
+The raw data is indicated in TABLE 3 below:  
+ 
+TABLE 3: GENDER AND WEIGHTS FOR GR ADE  11B  
+Gender  Weights in kg 
+Female  58 67 73 68 80 65 90 78 108 59 67 79 75 
+Male  61 57 70 72 66 81 93 77 79 83 75 82  
+ 
+  
+   
+ Use the above information to answer the following questions .  
+   
+ 4.3.1 Complete the frequency table that the teacher left incomplete . Use ANSWER 
+SHEET 2.  
+ 
+Weight 
+Category  Female  Male  
+Tally  Frequency  Tally  Frequency  
+50–59 // 2 / 1 
+60–69 //// 4   
+70–79 //// 4   
+80–89 / 1   
+90–99 / 1   
+100–109 / 1   
+ (5) 
+   
+ Use the above information in TABLE 3 and your completed AN SWER SHEET  2 to 
+answer the questions that follow .  
+   
+ 4.3.2 In which category do most of the female s fall? (2) 
+    
+ 4.3.3 Calculate the number of m ales who weigh s 70 kilograms (kg) or more but less 
+than 90  kg. (2) 
+    
+ 4.3.4 Determine the probability (as a percentage) of randomly selecting a learner 
+weighing  70 kg or more  from the class.  (3) 
+   [29] 
+    
+  TOTAL : 100 
+ 
+  
+(EC/ NOVEMBER  2022) MATHEMATICAL LITERACY P1  11 
+Copyright reserved   Please turn over   
+ANSWER SHEET 1  
+ 
+QUESTION 4.1.3  
+ 
+NAME OF SCHOOL: ___________________________                                     GR 11: ________  
+ 
+NAME OF LEARNER: ___________________________  
+ 
+ 
+  Income and Expenses (R)
+Number of pairs of shoes (n)GRAPH FOR INCOME AND EXPENSES SHOE REPAIR 
+BUSINESS
+INCOME
+12 MATHEMATICAL LITERACY P1  (EC/ NOVEMBER  2022) 
+Copyright reserved   Please turn over   
+ANSWER SHEET 2  
+ 
+QUESTION 4.3.1  
+ 
+NAME OF SCHOOL: ______________________________ _____                 GR 11: _________  
+ 
+NAME OF LEARNER: _________________________________  
+ 
+Complete the frequency table that the teacher left incomplete:  
+Use the table in the ANSWER SHEET 2 . 
+ 
+Weight Category  Female  Male  
+Tally  Frequency  Tally  Frequency  
+50–59 // 2 // 2 
+60–69 //// 4   
+70–79 //// 4   
+80–89 / 1   
+90–99 / 1   
+100–109 / 1   
+ 
+ 
+ 
+
+ 
+ 
+NATIONAL 
+SENIOR CERTIFICATE  
+ 
+ GRADE 11   
+ 
+NOVEMBER 2020 
+ 
+MATHEMATICAL LITERACY P1 
+EXEMPLAR  
+ 
+MARKS:  100 
+  
+TIME: 2 hours 
+ 
+ This qu estion paper consists of 9 pages, including an answer s heet.  
+  
+*Imlit1*
+2 MATHEMATICAL LITERACY P1  (EC/NOVEMBER 2020)  
+Copyright reserved  Please turn over  
+INSTRUCTIONS AND INFORMATION  
+  
+1. This question paper consists of FOUR questions. Answer ALL the questions.  
+   
+2. 2.1 Use the ANSWER SHEET for QUESTION 4.3.2.   
+    
+ 2.2 Write your NAME and GRADE in the spaces provided on the ANSWER 
+SHEET for QUESTION 4.3.2.  
+Hand in the ANSWER SHEET with your ANSWER BOOK.  
+   
+3. Number the answers correctly according to the numbering system used in this 
+question paper.  
+   
+4. Maps and diagrams are not necessarily drawn to scale, unless stated otherwise.  
+   
+5. Round off ALL final answers according to the context used, unless stated otherwise.  
+   
+6. Indicate units of measurement, where applicable.  
+   
+7. Start EACH question on a NEW page.  
+   
+8. You may use an approved calculator (non-programmable and non-geographical), 
+unless stated otherwise.  
+   
+9. Show ALL calculations clearly.  
+   
+10. Write neatly and legibly.  
+  
+(EC/NOVEMBER 2020) MATHEMATICAL LITERACY P1 3 
+Copyright reserved  Please turn over  
+QUESTION 1  
+  
+1.1 Moses earns a gross salary of R10 500 per month.  The basic monthly expenses used 
+from the income are as follows:  
+ 
+Housing  expense 21%; Food 36%, Transport 10%; Cellphone bills 1,9 %. The rest is 
+for savings.  
+   
+ Use the above information to answer the following questions.  
+   
+ 1.1.1 Calculate the total gross salary per annum. (2) 
+    
+ 1.1.2 Determine the amount of the monthly food expense. (2) 
+    
+ 1.1.3 Write down the ratio of the housing percentage to the food percentage in the 
+simplest form. (2) 
+    
+ 1.1.4 Calculate Moses ’s percentage for savings from his salary. (3) 
+   
+1.2 Thando, a Mathematical Literacy teacher, collected and analysed test results of his 
+class.  The test was marked out of a total mark of 50. The results of the learners are 
+indicated below:  
+38 21 12 18 41 
+28 24 34 10 35 
+  
+   
+ Use the above information to answer the questions that follow.  
+   
+ 1.2.1 Is the above data primary or secondary? (2) 
+    
+ 1.2.2 Write down the highest mark obtained in the test. (2) 
+    
+ 1.2.3 Explain the meaning of the term ‘ median ’. (2) 
+    
+ 1.2.4 Write down the mark out of 50 for a learner who achieved 70% in the test. (2) 
+    
+ 1.2.5 Write down the number of learners who failed the test, if the pass mark is 20 
+out of 50.  (2) 
+   
+1.3 A shopkeeper bought a dress for R750 and sold it, making a loss of R50.  
+   
+ 1.3.1 Explain the meaning of the term ‘loss ’ in this context. (2) 
+    
+ 1.3.2 Calculate the percentage loss made on the sale. (2) 
+  [23] 
+  
+4 MATHEMATICAL LITERACY P1  (EC/NOVEMBER 2020)  
+Copyright reserved  Please turn over  
+QUESTION 2  
+  
+2.1 Mrs Rogue invested money monthly from 2016 to 2020 at Company A. She terminated her 
+investment and received the statement below from Old Mutual:  
+ 
+Contract number Contracting 
+party  Name of 
+Investment plan Start date 
+of contract Last 
+premium 
+due date 
+ 
+17801249   
+R. Rogue  Smart MAX 
+Focused  
+Education Plan/1  
+01/07/2016  
+30/06/2031 
+Fund value as at 23 March 2020 
+Investment fund Unit price (cents) Number of 
+units Fund value 
+Allan Gray Balanced Fund C Class 8 266,470 A R8 038,07 
+Total    R8 038,07 
+ 
+Difference between fund value and termination value 
+Fund value R8 038,07 
+Reduction fees and transaction charges B 
+Termination value R6 995,25 
+Withdrawals up to 23 March 2020 R765,57 
+  
+Expected premium details as at 23 March 2020 
+Current 
+premium 
+ Annual 
+Increase 
+rate Next 
+premium 
+increase New premium Investment 
+fund(s) Premium 
+Split 
+R332,75 
+monthly … 01/07/2020 R366,02 Allan Gray 
+Balanced Fund 
+C Class 100%  
+Total contributions since contract start date 
+Total premiums paid  R12 924,75 
+  
+   
+ 2.1.1 Write down the name of the investment plan that Mrs Rogue has. (2) 
+    
+ 2.1.2 Calculate the value of A, the number of units earned from the given fund value. (4) 
+    
+ 2.1.3 Show by means of calculations that Mrs Rogue lost 45,88% of the total premiums she 
+contributed towards the fund by terminating her investment before the last premium. (4) 
+    
+ 2.1.4 Calculate the value (in Rands) of B, the reduction fees and transaction charges. (2) 
+    
+ 2.1.5 Write down the withdrawal value as at 23 March 2020. (2) 
+  
+(EC/NOVEMBER 2020) MATHEMATICAL LITERACY P1 5 
+Copyright reserved  Please turn over  
+ 2.1.6 Calculate the percentage increase on the monthly premium. Give your final answer 
+to the nearest percentage. 
+You may use the following formula: 
+Percentage increase =  ࢝ࢋ࢔  ࢓࢛࢏࢓ࢋ࢘࢖  ି ࢚࢔ࢋ࢛࢘࢘ࢉ  ࢓࢛࢏࢓ࢋ࢘࢖
+࢚࢔ࢋ࢛࢘࢘ࢉ  ࢓࢛࢏࢓ࢋ࢘࢖× ૚૙૙ % (4) 
+   
+2.2 Alice sells food from a kiosk that she rents in a township. The expenses associated with 
+ingredients and labour for a plate amount to R30.  
+The formula for expense s:  Expenses = R500 + R30 × Number of plates  
+She sells food per plate. The graph below shows her expenses and income for a month. 
+  
+  
+ 
+ 
+   
+ Use the above information and the graph to answer the questions that follow.  
+   
+ 2.2.1 Write down the independent variable in the above context. (2) 
+    
+ 2.2.2 Determine the amount Alice pays as fixed expenses. (2) 
+    
+ 2.2.3 Write down the formula for the income if a plate is sold at R50, in the form of: 
+Income = … (2) 
+    
+ 2.2.4 Determine the profit at the break-even point. (2) 
+    
+ 2.2.5 Determine the loss when 8 plates are sold. (4) 
+   [30] 020040060080010001200140016001800
+0 5 10 15 20 25 30 35Amount in Rands(R )
+Number of platesALICE’S EXPENSES AND INCOME FROM SALES
+Expenses
+Income
+6 MATHEMATICAL LITERACY P1  (EC/NOVEMBER 2020)  
+Copyright reserved  Please turn over  
+QUESTION 3  
+  
+The Global Wellness Institute did research about the amount of spa revenue generated in 
+different regions of the world in 2017 . 
+ 
+     TABLE 1: NUMBER OF SPAS, REGIONS AND THE REVENUE  
+                        GENERATED 
+Regions Names of Regions Number of 
+Spas Revenue in 
+Billion dollars ($b) 
+P North America  30 394 22,9 
+Q Latin America-Caribbean 13 856 6,6 
+R Sub-Saharan Africa 3 984 … 
+S Middle East – North Africa 6 057 2,8 
+T Europe 46 282 33,3 
+V Asia – Pacific 48 679 26,5 
+ TOTAL … … 
+                                                                                        [Source: globalwellnessinstitute.org ]  
+  
+Use the information above to answer the questions that follow.  
+  
+3.1 Calculate the total number of spas used for the research in 2017. (2) 
+   
+3.2 Calculate the mean number of spas used. Give your final answer to the nearest whole 
+number. (2) 
+   
+3.3 Express the number of spas in Europe as a percentage of the total number of spas. (2) 
+   
+3.4 Determine the number of regions that lies above the range number of spas. (2) 
+   
+3.5 Write down the unit ratio of spas in regions P and V. (3) 
+   
+3.6 Calculate the total revenue in billion dollars for the spas if sub-Saharan Africa ’s 
+revenue is $5,0 billion less than Latin America-Caribbean ’s revenue . (4) 
+   
+3.7 Calculate the median revenue of the regions. (3) 
+   
+3.8 Determine the probability (as a percentage) of randomly selecting a region with more 
+than 40 000 spas. (3) 
+  [21] 
+  
+(EC/NOVEMBER 2020) MATHEMATICAL LITERACY P1 7 
+Copyright reserved  Please turn over  
+QUESTION 4  
+  
+4.1 GOOD BOYS CAR WASHING BAY is in an area where water is charged according 
+to the water tariffs structure shown in TABLE 2 below.  
+           
+     TABLE 2: WATER TARIFF STRUCTURE  
+Block Usage in 
+kilolitre (k Ɛ) Normal Charge per kilolitre 
+(kƐ) (Excluding VAT) 
+1 0 – 6 R0,00 
+2 +6 – 15 R9,35 
+3 +15 – 30 R11,16 
+4 +30 – 45 R12,53 
+5 +45 – 60 R13,98 
+6 60+ R15,34 
+ 
+NOTE:  VAT is Value Added Tax. The VAT rate is 15%.   
+   
+ Use TABLE 2 above to answer the question that follow.   
+   
+ Calculate how much GOOD BOYS CAR WASHING BAY pays a month including 
+VAT when they use 25 k Ɛ of water and give a reason why a step up (increasing block 
+rate) system of water tariffs is used to charge water consumption other than a flat 
+single rate. (6) 
+   
+4.2 Andile received a donation from his brother who works in Rwanda. The donation was  
+745 614,04  Rwanda Francs (RWF). The bank deducted 10% for bank charges. Andile 
+states that he will receive R12 750. Verify the statement with the necessary 
+calculations . 
+ 
+Use the exchange rate R 0,019 = 1 RWF  (6) 
+   
+4.3 Ibanda High School recorded absentees in the Grade 11 Mathematical Literacy class 
+during  the first week when schools reopened after the COVID-19 pandemic break. 
+The data is shown in the table below.  
+ 
+ Monday Tuesday Wednesday Thursday Friday 
+Girls 4 6 8 7 10 
+Boys 5 3 8 9 7 
+  
+   
+ Use the above information to answer the questions that follow.  
+   
+ 4.3.1 Determine the probability that a learner chosen at random was absent on 
+Wednesday. (3) 
+    
+ 4.3.2 Complete the double bar graph on the ANSWER SHEET provided by plotting 
+the missing bars for the number of boys and girls absent.  (5) 
+  
+8 MATHEMATICAL LITERACY P1  (EC/NOVEMBER 2020)  
+Copyright reserved  Please turn over  
+4.4 A Grade 11 Mathematical Literacy class at Ibanda High wrote an examination 
+marked out of 100 marks. The results arranged in ascending order are shown below. 
+ 
+23 41 42 50 50 51 54 55 56 57 
+60 61 65 66 66 67 68 69 70 70 
+70 72 C 74 76 79 82 85 86 88 
+  
+   
+ Use the above information to answer the questions that follow.  
+   
+ 4.4.1 The mean of the above data is equal to 64,2. A learner calculated that the 
+value of C in the above data is 74. Verify , with the necessary calculations, 
+whether the answer is valid. (4) 
+    
+ 4.4.2 The frequency table of the above data is shown below.  
+ 
+Class interval Frequency 
+20–29 1 
+30–39 D 
+40–49 2 
+50–59 7 
+60–69 8 
+70–80 8 
+80–89 4 
+ 
+Determine the value of D and give a reason for your answer. (2) 
+   [26] 
+    
+  TOTAL: 100 
+  
+(EC/NOVEMBER 2020) MATHEMATICAL LITERACY P1 9 
+Copyright reserved  Please turn over  
+ANSWER SHEET   
+  
+QUESTION 4.3.2  
+  
+NAME OF LEARNER:    
+  
+GRADE 11:    
+  
+  
+ 
+ 024681012
+Monday Tuesday Wednesday Thursday FridayNumber of absent learners
+Days of the weekNumber of absent  learners during the week 
+Girls Boys
+ 
+ 
+ 
+NATIONAL 
+SENIOR CERTIFICATE  
+ 
+ GRADE 11   
+ 
+NOVEMBER 2020  
+ 
+MATHEMATICAL LITERACY P1 
+MARKING GUIDELINE 
+EXEMPLAR  
+ 
+MARKS:  100 
+ 
+Symbol  Explanation  
+M  Method  
+MA  Method with accuracy  
+CA  Consistent accuracy  
+A  Accuracy  
+C  Conversion  
+S  Simplification  
+RT/RG/RM  Reading from a table/Reading from a graph/Read from map 
+F  Choosing the correct formula  
+SF  Substitution in a formula  
+J  Justification  
+P  Penalty, e.g. for no units, incorrect rounding off etc.  
+R  Rounding Off/Reason  
+AO Answer only 
+NPR No penalty for rounding 
+ 
+ 
+ This marking guideline consists of 8 pages.   
+
+2 MATHEMATICAL LITERACY P1 (EC/NOVEMBER 2020)  
+Copyright reserved  Please turn over  
+MARKING GUIDELINES  
+  
+NOTE:  
+  
+x If a candidate answers a question TWICE, only mark the FIRST attempt. 
+x If a candidate has crossed out (cancelled) an attempt to a question and NOT redone 
+the solution, mark the crossed out (cancelled version) 
+x Consistent accuracy (CA) applies in ALL aspects of th e marking guidelines, 
+however it stops at the second calculation error. 
+x If the candidate presents any extra solution when reading from a graph, table, layout 
+plan and map, then penalise for every extra incorrect item presented.  
+  
+LET WEL:  
+  
+x As ƌ kandidaat ƌ vraag TWEE keer beantwoord, merk slegs die EERSTE poging.  
+x As ƌ kandidaat ƌ antwoord van ƌ vraag doodtrek (kanselleer) en nie oordoen nie, 
+merk die doodgetrekte (gekanselleerde) poging. 
+x Volgehoue akkuraatheid (CA) word in ALLE aspekte van die nasienriglyn toegepas, 
+maar dit hou by die tweede berekeningsfout op. 
+x Wanneer ƌ kandidaat aflesings vanaf ƌ grafiek, tabel, uitlegplan en kaart geneem 
+en ekstra antwoorde gee, penaliseer vir elke ekstra verkeerde item.  
+  
+(EC/NOVEMBER 2020)  MATHEMATICAL LITERACY P1 3 
+Copyright reserved  Please turn over  
+QUESTION 1 [23 marks]   
+  
+Ques. Solution Explanation T&L 
+1.1.1 Annual gross salary = R10 500 × 12 
+                                 = R126 000                                                  1M Multiply by 12 
+1A Gross per annum         (2) F 
+L1 
+    
+1.1.2 Monthly food expense = R10 500 × 36% 
+                                     = R3 780 1M % Calculation 
+1CA Amount                     (2) F 
+L1 
+    
+1.1.3 Housing % : Food % 
+= 21% : 36%        
+= 7 : 12 9CA  
+1M Correct values and order  1C
+A Simplest form           (2) F 
+L1 
+    
+1.1.4 Savings % = 100% – (21% +36% +10% + 1,9%) 
+                  = 100% – 68,9%  
+                  = 31,1%  1M Adding correct values  
+1M Subtracting from 100  
+1CA Percentage                (3) F 
+L1 
+ 
+    
+1.2.1 Primary data 
+        2A Correct data type          
+                                          (2) D 
+L1 
+    
+1.2.2 41 99 RT 
+ 2RT Highest mark              
+                                          (2) D 
+L1 
+    
+1.2.3 Median is the middle value of a set of data which is arranged 
+from small to big. 2A Explanation                  
+                                          (2) D 
+L1 
+    
+1.2.4  35 
+                                                2A Correct mark                
+                                          (2) D 
+L1 
+    
+1.2.5 3 2RT No. of learners failed 
+                                          (2) D 
+L1 
+    
+1.3.1  Loss is when the cost is more than the income. 99 A 
+OR 
+Loss incurred when selling price is less than cost price of an 
+item. 99 A 2A Correct explanation      
+                                            (2) F 
+L1 
+ 
+    
+1.3.2 % loss =  ହ଴
+଻ହ଴× 100% 9M 
+            = 6,67% 9 CA 1M Fraction multiplied by  
+      100% 
+1CA Percentage    
+NPR                                  (2) F 
+L1 
+ [23]  
+  9 M 
+9 A 
+9M 
+9M 
+99A 
+99 RT 9M 
+9CA 
+99 A 9M 
+9CA 
+99A 
+4 MATHEMATICAL LITERACY P1 (EC/NOVEMBER 2020)  
+Copyright reserved  Please turn over  
+QUESTION 2:  FINANCE [30 marks]   
+Ques.  Solution  Explanation  Topic 
+/Level  
+2.1.1 SmartMAXFocussed Education Plan 1 2A Correct investment plan      
+                                           (2) F 
+L1 
+    
+2.1.2 Number of units = 
+100470, 8266 
+                           = R82,6647 
+                           = 6647,8207, 8038 
+                          = 97,23703104     1C Converted to Rands             
+1CA Value 
+ 
+1M Division 
+  
+1CA No. of units             
+                                           (4) F 
+L2 
+    
+ 
+    
+2.1.3 % loss = 12 924,75 – 6 995,25  
+            = R5 929,50 
+            = 10075, 1292450, 5929u  
+            = 45,88%  
+OR 
+Percentage loss = 10012924,7525, 6995u  
+                          = 54,12% 
+                          = 100% – 54,12%  
+                          = 45,88% 1M Subtraction of values 
+1S Simplification  
+1M Dividing correct values 
+1M Multiply by 100%  
+ 
+OR 
+ 1M Dividing correct values 1M M
+ultiply by 100%  
+1S Simplification  
+1M Subtraction of %          
+                                           (4) F 
+L3 
+          
+    
+2.1.4 B = R8 038,07 – R6 995,25 
+    = R1 042,82 1MA Subtraction  1CA Correct answer          (2) F 
+L2 
+    
+2.1.5 R765,57   2RT Correct value 
+(2) F 
+L2 
+    
+2.1.6  % increase = 10075,33275,33202,366u 
+                   = 9,998% 
+                   = 10% 1RT Correct values 
+1SF Substitution 
+1S Simplification  
+1R Nearest %                     (4) F 
+L2 
+  
+    
+2.2.1 Number of plates 99 RT 
+ 2RT Number of plates 
+(2) F 
+L2 
+    
+2.2.2 Fixed expenses = R500 99 RT 2RT Fixed expenses 
+                                 (2) F 
+L2 
+    
+2.2.3 Income = R50 × Number of plates sold 9 M 9 A 1M Multiplication with R50  
+1A Correct formula           (2) F 
+L2 
+    
+2.2.4 R0 OR (No Profit) 99 RT 2RT No profit 
+                                 (2) F 
+L2 9 R   9 S 99 RT 
+  9 M  
+9 S 
+9M 9 CA 
+9 M 9 C 
+  9 CA 
+99RT 9C A 9 MA 
+9RT  9 M 
+9 M  
+9 SF 9 S 9 M 
+9 M 
+(EC/NOVEMBER 2020)  MATHEMATICAL LITERACY P1 5 
+Copyright reserved  Please turn over  
+2.2.5 Loss for 8 plates =  Expenses – Income 
+                                9RT          9 RT   
+                            =  740 – 400 9M 
+                            = R340 9A 
+OR 
+ 
+Expenses  = 500 + 8 × 30 = R740 9M 
+Income = 50  × 8 = R400 9M 
+Loss  = 740 – 400 = R340 9A 1RT R740 
+1RT R400  
+1M Subtraction 
+1A Loss  
+(From graph allow 3 40±10) 
+OR 
+IM for R 740 
+1M for R400  
+1M subtraction  
+1A for R340 exact answer (4) F 
+L3 
+ 
+    
+ 
+  
+ [30]  
+  
+6 MATHEMATICAL LITERACY P1 (EC/NOVEMBER 2020)  
+Copyright reserved  Please turn over  
+QUESTION 3: DATA HANDLING (18 marks) AND PROBABILITY (3 marks)   
+Ques. Solution Explanation T/L 
+3.1 Total number of spas 
+= 30 394 + 13 856 + 3 984 + 6 057 + 46 282 + 48 679 
+=149 252 9M 9A  
+1M Adding correct values 
+1A Total                           (2) D 
+L1 
+    
+3.2 Mean =  ଵସଽ  ଶହଶ
+଺ 9M  
+          = 24 875,33 
+          = 24 875 9 R  CA from 3.1 
+1M Division 
+1R Whole number    
+  (2) D 
+L2 
+ 
+ 
+    
+3.3 European spas as a % =  ସ଺ ଶ଼ଶ
+ଵସଽ  ଶହଶ×100 9M  
+                                   = 31% 9CA 1M Fraction with correct  
+      values and  
+      multiplication by 100 
+1CA Percentage               (2) D 
+L2 
+ 
+ 
+    
+3.4 Range = 48 679 – 3 984 
+           = 44 695  9S 
+Number of regions above range = 2 CA 9  
+1S Calculate range 
+1CA Number of regions  (2) D 
+L3 
+ 
+    
+3.5 30 394 : 48 679  = 1 : ସ଼ ଺଻ଽ
+ଷ଴ ଷଽସ 9M 9M 
+ 
+                           =1 : 1,60 9 CA 1M Ratio 
+1M Fraction 
+1CA Unit ratio   
+NPR                                 (3) D 
+L3 
+  
+    
+3.6 Revenue in sub-saharan Africa = 6,6 – 5,0 9M 
+                                                   = 1,6 9S 
+Total revenue for spas 
+= 22,9 + 6,6 + 1,6 + 2,8 + 33,3 + 26,5 9M 
+= $93,7 billion  9CA 1M Subtraction 
+1S Simplification 
+1M Addition 
+1CA Total revenue  
+Penalise 1 mark if not in 
+billions                            (4) D 
+L3 
+ 
+   
+    
+3.7 1,6; 2,8; 6,6; 22,9; 26,5; 33,3 9M 
+ 
+Median revenue = ଺,଺ ା ଶଶ,ଽ
+ଶ 9M 
+                       = $14,75 billion 9CA CA the value $1,6 from 3.6 
+included in the data  
+1M Arranging in order of 
+descending  or ascending  
+1M Concept of median  
+1CA Answer in billions   (3) D 
+L3 
+   
+ 
+    
+3.8 P (Regions with more than 40 000 spas)  
+ 
+                 = ଶ
+଺ × 100  9M 
+                 
+                 = 33,33% 9CA 1RT Correct numerator and  
+        denominator  
+1M Multiplication by 100 
+ 1CA 
+Percentage    
+NPR                                  (3) P 
+L2 
+   
+ 
+ [21]  
+  9RT 
+(EC/NOVEMBER 2020)  MATHEMATICAL LITERACY P1 7 
+Copyright reserved  Please turn over  
+QUESTION 4:  FINANCE (12 marks), DATA HANDLING (11 marks) AND  
+                           PROBABILITY (3 marks)  
+Ques. Solution Explanation  T/L 
+4.1 Cost = 
+Kilolitre Cost 
+6 6 × 0 = 0 9M 
+9 9 × 9,35 = R84,15 
+10 10 × 11,16 = R111,6 
+Total = 25 litres 84,15 + 111,60 = R195,75  
+ R195 ×115% = R225,11 
+OR 
+ 
+Cost = ( 6 × 0) + (9 × 9,35)  + (10 × 11,16)  
+        = R84,15 + R111,60  
+        = R195,75  
+Including VAT = R195,75 × 15%   
+                         =  R29,3625 
+                         = R195,75 + R29,3625 
+                         = R225,11 
+                                                  
+Increased block rate t ariffs to encourage saving of water 9A 
+OR 
+Also assist small businesses or families with free water 9A 
+Accept any other sound reason .  
+ 1M 
+Cost of first 6 k Ɛ 
+ 
+1M Cost for both 9 and 10  
+       kilolitres 
+1CA  Total cost 
+ 
+1M Multiply by 15%  
+1CA Cost including VAT 
+ 
+  
+ 
+    
+    1A 
+Reason                            
+ 
+(6) F 
+L4 
+        
+ 
+           
+    
+4.2    R0,019 = 1 RWF  
+   R?         = 745 614,04 RWF   9M 
+   R?         = 0,019 × 745 614,04 9M 
+                = R14 166,66676 9S 
+Bank charges  = 14166,66676×ଵ଴
+ଵ଴଴  9M       
+                      = R1 416,666676 9A 
+Andile received =  R14 166,66676 – 1 416,66676 9 M 
+                          = R12 750    
+ 
+Statement is v alid. 9A  
+ 
+OR 
+Bank charges = ଵ଴
+ଵ଴଴ × 745 614,04 RWF 9M  
+                       = 74 561,404 9A 
+Andile received in RWF  = 745 614,04 – 74 561,404 9M 
+                                        = 671 052,636 9S 
+In Rands:    R0,019        = 1 RWF   
+                         R?          = 671 052,636 RWF  9M  
+Andile received  = R0,019 × 671 052,636 9M 
+                          = R12 750 
+Statement is valid 9CA 1M Concept of ratio 
+ 1M 
+Multiplication 
+1S Simplification value in R 
+1M Multiplication of 10% 
+1A Value of 10% 
+1M Subtraction 
+ 
+ 1A 
+Valid        
+ 
+OR 
+1M Multiplication of 10% 
+1A Value of 10% 
+1M Subtraction 
+1S Simplification value  
+ 1M 
+Concept of ratio 
+1M Multiplication 
+ 
+ 
+1CA Valid                       (6) F 
+L4 
+           
+ 
+       
+ 
+  9CA 9M 
+9M 9M 9M 9M 
+9M 
+9CA 9CA 
+8 MATHEMATICAL LITERACY P1 (EC/NOVEMBER 2020)  
+Copyright reserved  Please turn over  
+4.3.1 Total absentees = 67 9 M 
+Absentees on Wednesday  =16 9A 
+P(absent  on Wed) = ଵ଺
+଺଻ 9CA 1M Addition to 67 
+1A Absentees on Wed 
+1CA Fraction  
+(3) P 
+L2 
+ 
+ 
+    
+4.3.2 
+ 
+ 
+                                                                         1A  for Monday boys at 5 
+1A  for Tuesday g irls at 6 
+1A  for Thurs for g irls at 7 
+1A  for Thu rs for b oys at 9 
+1A  for Fri for boys at 7  
+     
+ 
+          
+(5) D 
+L2 
+        
+ 
+           
+   
+4.4.1 Value of C: 
+64,2 =  ஼ ା ଵ ଼ହଷ
+ଷ଴ 9M 
+64,2 × 30 = C + 1 853  
+ 
+C = 1 926 – 1 853 9M 
+    = 73 9CA 
+Answer invalid  
+1M Addition (1 853) and 
+division by  30 
+ 
+1M Subtraction  
+1CA Value of C    
+ 
+1A Invalid                        (4) D 
+L4 
+      
+    
+4.4.2 D = 0 9A 
+No learners scored 30 – 39 marks 9A  1A Value of D 
+1A Explanation  
+(CA value of D from 4. 4.1 
+included in the data)       (2) D 
+L4 
+  
+ [26]  
+   
+ TOTAL: 100 
+ 024681012
+Monday Tuesday Wednesday Thursday FridayNumber of absent learners
+Days of the weekNumber of absent learners during the week 
+Girls Boys9A 
+9A 
+Tuesday
+D9A 
+9O 9A 9A 
+ 
+
+ 
+ 
+NATIONAL 
+SENIOR CERTIFICATE  
+ 
+ GRADE 11   
+ 
+NOVEMBER 2020 
+ 
+MATHEMATICAL LITERACY P1 
+EXEMPLAR  
+ 
+MARKS:  100 
+  
+TIME: 2 hours 
+ 
+ This qu estion paper consists of 9 pages, including an answer s heet.  
+  
+
+2 MATHEMATICAL LITERACY P1  (EC/NOVEMBER 2020)  
+Copyright reserved  Please turn over  
+INSTRUCTIONS AND INFORMATION  
+  
+1. This question paper consists of FOUR  questions. Answer ALL the questions.  
+   
+2. 2.1 Use the ANSWER SHEET for QUESTION 4.3.2.   
+    
+ 2.2 Write your NAME and GRADE in the spaces provided on the ANSWER 
+SHEET for QUESTION 4.3.2.  
+Hand in the ANSWER SHEET with your ANSWER BOOK.  
+   
+3. Number the answers correctly according to the numbering system used in this 
+question paper.  
+   
+4. Maps and diagrams are not necessarily drawn to scale, unless stated otherwise.  
+   
+5. Round off ALL final answers according to th e context used, unless stated otherwise.  
+   
+6. Indicate units of measurement, where applicable.  
+   
+7. Start EACH question on a NEW page.  
+   
+8. You may use an approved calculator (non -programmable and non-geographical), 
+unless stated otherwise.  
+   
+9. Show ALL calculations clearly.  
+   
+10. Write neatly and legibly.  
+  
+(EC/NOVEMBER 2020) MATHEMATICAL LITERACY P1 3 
+Copyright reserved  Please turn over  
+QUESTION 1  
+  
+1.1 Moses earns a gross salary of R10 500 per m onth.  The basic monthly expenses used 
+from the income are as follows:  
+ 
+Housing  expense 21%; Food 36%, Trans port 10%; Cellphone bills 1,9 %. The rest is 
+for savings.  
+   
+ Use the above information to answer the following questions.  
+   
+ 1.1.1 Calculate the total gross salary per annum. (2) 
+    
+ 1.1.2 Determine the amount of the monthly food expense. (2) 
+    
+ 1.1.3 Write down the ratio of the housing percentage to the food percentage in the 
+simplest form. (2) 
+    
+ 1.1.4 Calculate Moses ’s percentage for savings from his salary. (3) 
+   
+1.2 Thando, a Mathematical Literacy teacher, co llected and analysed test results of his 
+class.  The test was marked out of a total mark of 50. The results of the learners are 
+indicated below:  
+38 21 12 18 41 
+28 24 34 10 35 
+  
+   
+ Use the above information to answer the questions that follow.  
+   
+ 1.2.1 Is the above data primary or secondary? (2) 
+    
+ 1.2.2 Write down the highest mark obtained in the test. (2) 
+    
+ 1.2.3 Explain the meaning of the term ‘ median ’. (2) 
+    
+ 1.2.4 Write down the mark out of 50 for a learner who achieved 70% in the test. (2) 
+    
+ 1.2.5 Write down the number of learners who failed the test, if the pass mark is 20 
+out of 50.  (2) 
+   
+1.3 A shopkeeper bought a dress for R750 and sold it, making a loss of R50.  
+   
+ 1.3.1 Explain the meaning of the term ‘loss ’ in this context. (2) 
+    
+ 1.3.2 Calculate the percentage loss made on the sale. (2) 
+  [23] 
+  
+4 MATHEMATICAL LITERACY P1  (EC/NOVEMBER 2020)  
+Copyright reserved  Please turn over  
+QUESTION 2  
+  
+2.1 Mrs Rogue invested money monthly from 2016 to 2020 at Company A. She terminated her 
+investment and received the statement below from Old Mutual:  
+ 
+Contract number Contracting 
+party  Name of 
+Investment plan Start date 
+of contract Last 
+premium 
+due date 
+ 
+17801249   
+R. Rogue  Smart MAX 
+Focused  
+Education Plan/1  
+01/07/2016  
+30/06/2031 
+Fund value as at 23 March 2020 
+Investment fund Unit price (cents) Number of 
+units Fund value 
+Allan Gray Balanced Fund C Class 8 266,470 A R8 038,07 
+Total    R8 038,07 
+ 
+Difference between fund value and termination value 
+Fund value R8 038,07 
+Reduction fees and transaction charges B 
+Termination value R6 995,25 
+Withdrawals up to 23 March 2020 R765,57 
+  
+Expected premium details as at 23 March 2020 
+Current 
+premium 
+ Annual 
+Increase 
+rate Next 
+premium 
+increase New premium Investment 
+fund(s) Premium 
+Split 
+R332,75 
+monthly … 01/07/2020 R366,02 Allan Gray 
+Balanced Fund 
+C Class 100%  
+Total contributions since contract start date 
+Total premiums paid  R12 924,75 
+  
+   
+ 2.1.1 Write down the name of the invest ment plan that Mrs Rogue has. (2) 
+    
+ 2.1.2 Calculate the value of A, the number of units earned from the given fund value. (4) 
+    
+ 2.1.3 Show by means of calculations that Mrs Ro gue lost 45,88% of the total premiums she 
+contributed towards the fund by terminating her investment before the last premium. (4) 
+    
+ 2.1.4 Calculate the value (in Rands) of B, the reduction fees and transaction charges. (2) 
+    
+ 2.1.5 Write down the withdrawal value as at 23 March 2020. (2) 
+  
+(EC/NOVEMBER 2020) MATHEMATICAL LITERACY P1 5 
+Copyright reserved  Please turn over  
+ 2.1.6 Calculate the percentage increase on the monthly premium. Give your final answer 
+to the nearest percentage. 
+You may use the following formula: 
+Percentage increase =  ࢝ࢋ࢔  ࢓࢛࢏࢓ࢋ࢘࢖  ି ࢚࢔ࢋ࢛࢘࢘ࢉ  ࢓࢛࢏࢓ࢋ࢘࢖
+࢚࢔ࢋ࢛࢘࢘ࢉ  ࢓࢛࢏࢓ࢋ࢘࢖× ૚૙૙ % (4) 
+   
+2.2 Alice sells food from a kiosk that she rents in a township. The expenses associated with 
+ingredients and labour for a plate amount to R30.  
+The formula for expense s:  Expenses = R500 + R30 × Number of plates  
+She sells food per plate. The graph below shows her expenses and income for a month. 
+  
+  
+ 
+ 
+   
+ Use the above information and the graph to answer the questions that follow.  
+   
+ 2.2.1 Write down the independent var iable in the above context. (2) 
+    
+ 2.2.2 Determine the amount Alice pays as fixed expenses. (2) 
+    
+ 2.2.3 Write down the formula for the income if a plate is sold at R50, in the form of: 
+Income = … (2) 
+    
+ 2.2.4 Determine the profit at the break-even point. (2) 
+    
+ 2.2.5 Determine the loss when 8 plates are sold. (4) 
+   [30] 020040060080010001200140016001800
+0 5 10 15 20 25 30 35Amount in Rands(R )
+Number of platesALICE’S EXPENSES AND INCOME FROM SALES
+Expenses
+Income
+6 MATHEMATICAL LITERACY P1  (EC/NOVEMBER 2020)  
+Copyright reserved  Please turn over  
+QUESTION 3  
+  
+The Global Wellness Institute did research a bout the amount of spa revenue generated in 
+different regions of the world in 2017 . 
+ 
+     TABLE 1: NUMBER OF SPAS, REGIONS AND THE REVENUE  
+                        GENERATED 
+Regions Names of Regions Number of 
+Spas Revenue in 
+Billion dollars ($b) 
+P North America  30 394 22,9 
+Q Latin America-Caribbean 13 856 6,6 
+R Sub-Saharan Africa 3 984 … 
+S Middle East – North Africa 6 057 2,8 
+T Europe 46 282 33,3 
+V Asia – Pacific 48 679 26,5 
+ TOTAL … … 
+                                                                                        [Source: globalwellnessinstitute.org ]  
+  
+Use the information above to answer the questions that follow.  
+  
+3.1 Calculate the total number of spas used for the research in 2017. (2) 
+   
+3.2 Calculate the mean number of spas used. Gi ve your final answer to the nearest whole 
+number. (2) 
+   
+3.3 Express the number of spas in Europe as a percentage of the total number of spas. (2) 
+   
+3.4 Determine the number of regions that lies above the range number of spas. (2) 
+   
+3.5 Write down the unit ratio of spas in regions P and V. (3) 
+   
+3.6 Calculate the total revenue in billion dol lars for the spas if sub-Saharan Africa ’s 
+revenue is $5,0 billion less than Latin America-Caribbean ’s revenue . (4) 
+   
+3.7 Calculate the median revenue of the regions. (3) 
+   
+3.8 Determine the probability (as a percentage) of  randomly selecting a region with more 
+than 40 000 spas. (3) 
+  [21] 
+  
+(EC/NOVEMBER 2020) MATHEMATICAL LITERACY P1 7 
+Copyright reserved  Please turn over  
+QUESTION 4  
+  
+4.1 GOOD BOYS CAR WASHING BAY is in an area where water is charged according 
+to the water tariffs structure shown in TABLE 2 below.  
+           
+     TABLE 2: WATER TARIFF STRUCTURE  
+Block Usage in 
+kilolitre (k ℓ) Normal Charge per kilolitre 
+(kℓ) (Excluding VAT) 
+1 0 – 6 R0,00 
+2 +6 – 15 R9,35 
+3 +15 – 30 R11,16 
+4 +30 – 45 R12,53 
+5 +45 – 60 R13,98 
+6 60+ R15,34 
+ 
+NOTE:  VAT is Value Added Tax. The VAT rate is 15%.   
+   
+ Use TABLE 2 above to answer the question that follow.   
+   
+ Calculate how much GOOD BOYS CAR WASHING BAY pays a month including 
+VAT when they use 25 k ℓ of water and give a reason why a step up (increasing block 
+rate) system of water tariffs is used to char ge water consumption other than a flat 
+single rate. (6) 
+   
+4.2 Andile received a donation from his brother who works in Rwanda. The donation was  
+745 614,04  Rwanda Francs (RWF). The bank deduc ted 10% for bank charges. Andile 
+states that he will receive R12 750. Verify the statement with the necessary 
+calculations . 
+ 
+Use the exchange rate R 0,019 = 1 RWF  (6) 
+   
+4.3 Ibanda High School recorded absentees in the Grade 11 Mathematical Literacy class 
+during  the first week when schools reopened after the COVID-19 pandemic break. 
+The data is shown in the table below.  
+ 
+ Monday Tuesday Wednesday Thursday Friday 
+Girls 4 6 8 7 10 
+Boys 5 3 8 9 7 
+  
+   
+ Use the above information to answer the questions that follow.  
+   
+ 4.3.1 Determine the probability that a learner chosen at random was absent on 
+Wednesday. (3) 
+    
+ 4.3.2 Complete the double bar graph on the A NSWER SHEET provided by plotting 
+the missing bars for the number of boys and girls absent.  (5) 
+  
+8 MATHEMATICAL LITERACY P1  (EC/NOVEMBER 2020)  
+Copyright reserved  Please turn over  
+4.4 A Grade 11 Mathematical Literacy class at Ibanda High wrote an examination 
+marked out of 100 marks. The results arranged in ascending order are shown below. 
+ 
+23 41 42 50 50 51 54 55 56 57 
+60 61 65 66 66 67 68 69 70 70 
+70 72 C 74 76 79 82 85 86 88 
+  
+   
+ Use the above information to answer the questions that follow.  
+   
+ 4.4.1 The mean of the above data is equal to 64,2. A learner calculated that the 
+value of C in the above data is 74. Verify , with the necessary calculations, 
+whether the answer is valid. (4) 
+    
+ 4.4.2 The frequency table of the above data is shown below.  
+ 
+Class interval Frequency 
+20–29 1 
+30–39 D 
+40–49 2 
+50–59 7 
+60–69 8 
+70–80 8 
+80–89 4 
+ 
+Determine the value of D and give a reason for your answer. (2) 
+   [26] 
+    
+  TOTAL: 100 
+  
+(EC/NOVEMBER 2020) MATHEMATICAL LITERACY P1 9 
+Copyright reserved  Please turn over  
+ANSWER SHEET   
+  
+QUESTION 4.3.2  
+  
+NAME OF LEARNER:    
+  
+GRADE 11:    
+  
+  
+ 
+ 024681012
+Monday Tuesday Wednesday Thursday FridayNumber of absent learners
+Days of the weekNumber of absent  learners during the week 
+Girls Boys
+ 
+
+ 
+ 
+NATIONAL  
+SENIOR CERTIFICATE  
+ 
+ GRADE 1 1  
+ 
+NOVEMBER  2020 
+ 
+MATHEMATICAL LITERACY P1  
+EXEMPLAR  
+ 
+MARKS:  100 
+  
+TIME:  2 hours  
+ 
+ This qu estion paper consists of 9 pages , including  an answer  sheet.  
+  
+
+2 MATHEMATICAL LITERACY P1  (EC/ NOVEMBER  2020) 
+Copyright reserved   Please turn over   
+INSTRUCTIONS AND INFORMATION   
+  
+1. This question paper consists of F OUR  questions. Answer ALL the questions.   
+   
+2. 2.1 Use the ANSWER SHEET  for QUESTION  4.3.2.   
+    
+ 2.2 Write your NAME  and GRADE in the spaces provide d on the ANSWER 
+SHEET for QUESTION 4.3.2.  
+Hand in the ANSWER SHEET with  your ANSWER BOOK.   
+   
+3. Number the answers  correctly according to the numbering system used in this 
+question paper.   
+   
+4. Maps and d iagrams are not necessarily drawn to scale , unless stated otherwise .  
+   
+5. Round off ALL  final answers according to the context used, unless stated otherwise.   
+   
+6. Indicate units of measurement, where applicable.   
+   
+7. Start EACH question on a NEW page.   
+   
+8. You may use an approved calculator (non -programmable and non -geographical), 
+unless stated otherwise.   
+   
+9. Show ALL calculations clearly.   
+   
+10. Write neatly and legibly.   
+  
+(EC/ NOVEMBER  2020) MATHEMATICAL LITERACY P1  3 
+Copyright reserved   Please turn over   
+QUESTION 1   
+  
+1.1 Moses earns  a gross salary of R10 500 per month.  The basic  monthly  expenses used 
+from the income are as follows:  
+ 
+Housing  expense 21%; Food 36%, Transport 10%; Cellphone bills 1 ,9%. The rest is 
+for savings.   
+   
+ Use the above information to answer the following questions .  
+   
+ 1.1.1  Calculate the total gross salary  per annum.  (2) 
+    
+ 1.1.2 Determine the  amount of the monthly  food expense.  (2) 
+    
+ 1.1.3  Write down the ratio of the housing percentage to the food percentage in the 
+simplest form . (2) 
+    
+ 1.1.4  Calculate Moses ’s percentage for savings from  his salary.  (3) 
+   
+1.2 Thando, a Mathematical Literacy teacher , collected and analysed test results of his 
+class.  The test was marked out of a total mark of 50. The results of the learners are 
+indicated below:  
+38 21 12 18 41 
+28 24 34 10 35 
+  
+   
+ Use the above information to answer the questions that follow.   
+   
+ 1.2.1  Is the above data primary or secondary ? (2) 
+    
+ 1.2.2  Write down the highest mark obtained in the test . (2) 
+    
+ 1.2.3  Explain the meaning of the term ‘ median ’. (2) 
+    
+ 1.2.4  Write down the mark out of 50 for a learner who achieved  70% in the test.  (2) 
+    
+ 1.2.5  Write down the number of learners who failed the test , if the pass mark is 20 
+out of 50.  (2) 
+   
+1.3 A shopkeeper bought a dress  for R750 and sold it , making a loss of R50.   
+   
+ 1.3.1 Explain the meaning of the term ‘loss’ in this context.  (2) 
+    
+ 1.3.2 Calculate the percentage loss made on the sale . (2) 
+  [23] 
+  
+4 MATHEMATICAL LITERACY P1  (EC/ NOVEMBER  2020) 
+Copyright reserved   Please turn over   
+QUESTION 2   
+  
+2.1 Mrs Rogu e invested money monthly from 2016 to 2020  at Company A . She terminated her 
+investment and received the statement below from Old Mutual:  
+ 
+Contract number  Contracting 
+party  Name of 
+Investment plan  Start date  
+of contract  Last 
+premium  
+due date  
+ 
+17801249   
+R. Rogue  Smart  MAX  
+Focused  
+Education Plan/1   
+01/07/2016   
+30/06/2031  
+Fund value as at 23 March 2020  
+Investment fund  Unit price  (cents)  Number of 
+units  Fund value  
+Allan Gray Balanced Fund C Class  8 266,470  A R8 038,07  
+Total     R8 038,07  
+ 
+Difference between fund value and termination value  
+Fund value  R8 038,07  
+Reduction fees and transaction charges  B 
+Termination value  R6 995,25  
+Withdrawals up to 23 March 2020  R765,57  
+  
+Expected premium details as at 23 March 2020  
+Current  
+premium  
+ Annual  
+Increase  
+rate Next 
+premium  
+increase  New premium  Investment 
+fund(s)  Premium  
+Split  
+R332,75  
+monthly  … 01/07/2020  R366,02  Allan Gray 
+Balanced Fund  
+C Class  100%  
+Total contributions since contract start date  
+Total premiums paid   R12 924,75  
+  
+   
+ 2.1.1 Write down the name of the investment plan that Mrs Rogue  has. (2) 
+    
+ 2.1.2 Calculate the value of A, the number of units earned from the given fund value.  (4) 
+    
+ 2.1.3 Show by means of calculations that Mrs Rogue lost 45,88% of the total premiums she 
+contributed towards the fund by terminating her investment before the last premium.  (4) 
+    
+ 2.1.4 Calculate the value (in Rands) of B, the reduction fees and transaction charges.  (2) 
+    
+ 2.1.5 Write down the withdrawal value as at 23 March 2020.  (2) 
+  
+(EC/ NOVEMBER  2020) MATHEMATICAL LITERACY P1  5 
+Copyright reserved   Please turn over   
+ 2.1.6 Calculate the percentage increase  on the monthly premium. Give your final answer 
+to the nearest percentage . 
+You may use the following formula : 
+Percentage increase =   𝒏𝒆𝒘  𝒑𝒓𝒆𝒎𝒊𝒖𝒎  − 𝒄𝒖𝒓𝒓𝒆𝒏𝒕  𝒑𝒓𝒆𝒎𝒊𝒖𝒎
+𝒄𝒖𝒓𝒓𝒆𝒏𝒕  𝒑𝒓𝒆𝒎𝒊𝒖𝒎× 𝟏𝟎𝟎 % (4) 
+   
+2.2 Alice sells food from a kiosk  that she rents in a township. The expenses associated with 
+ingredients and labour for a plate amount to R30.  
+The formula for expense s:  Expenses = R500 + R30 × Number of plates  
+She sells food per plate. The graph below shows her expenses and income for a month.  
+  
+  
+ 
+ 
+   
+ Use the above information and the graph to answer the questions that follow.   
+   
+ 2.2.1  Write down the  independent variable in the above context . (2) 
+    
+ 2.2.2  Determine the amount  Alice  pays as fixed expenses.  (2) 
+    
+ 2.2.3  Write down the formula for the income if a plate is sold at R50 , in the form of:  
+Income  = … (2) 
+    
+ 2.2.4  Determine the profit at the break -even point.  (2) 
+    
+ 2.2.5  Determine the loss when 8 plates are sold.  (4) 
+   [30] 020040060080010001200140016001800
+0 5 10 15 20 25 30 35Amount in Rands(R )
+Number of platesALICE’S EXPENSES AND INCOME FROM SALES
+Expenses
+Income
+6 MATHEMATICAL LITERACY P1  (EC/ NOVEMBER  2020) 
+Copyright reserved   Please turn over   
+QUESTION 3   
+  
+The Global Wellness Institute did research  about the amount  of spa revenue generated  in 
+different regions of the world in 2017 . 
+ 
+     TABLE 1: NUMBER OF SPAS, REGIONS AND THE REVENUE  
+                        GENERATED  
+Regions  Names of Regions  Number of  
+Spas  Revenue in  
+Billion dollars ($b)  
+P North America  30 394  22,9 
+Q Latin America -Caribbean  13 856  6,6 
+R Sub-Saharan Africa  3 984  … 
+S Middle East  – North Africa  6 057  2,8 
+T Europe  46 282  33,3 
+V Asia – Pacific  48 679  26,5 
+ TOTAL  … … 
+                                                                                        [Source: globalwellnessinstitute.org ]  
+  
+Use the information above to answer the questions that follow.   
+  
+3.1 Calculate the  total number of spas used for the research  in 2017.  (2) 
+   
+3.2 Calculate the mea n number of spas used. Give your  final answer to the nearest whole  
+number.  (2) 
+   
+3.3 Express the number of spas in Europe as a percentage of the total number of s pas. (2) 
+   
+3.4 Determine the number of regions  that lies above the range number of spas. (2) 
+   
+3.5 Write down the unit ratio of spas in region s P and V. (3) 
+   
+3.6 Calculate the total revenue in billion dollars  for the spas if sub-Saharan Africa ’s 
+revenue is $5,0  billion  less than Latin America -Caribbean ’s revenue . (4) 
+   
+3.7 Calculate the median revenue  of the regions.  (3) 
+   
+3.8 Determine the probability (as a percentage) of randomly selecting a region with more 
+than 40 000 spas. (3) 
+  [21] 
+  
+(EC/ NOVEMBER  2020) MATHEMATICAL LITERACY P1  7 
+Copyright reserved   Please turn over   
+QUESTION 4   
+  
+4.1 GOOD BOYS CAR WASHING BAY is in an area where water is charged according 
+to the water tariffs structure shown in TABLE 2 below.  
+           
+     TABLE  2: WATER  TARIFF STRUCTURE  
+Block  Usage in 
+kilolitre (kℓ) Normal  Charge per kilolitre 
+(kℓ) (Excluding VAT)  
+1 0 – 6 R0,00 
+2 +6 – 15 R9,35 
+3 +15 – 30 R11,16 
+4 +30 – 45 R12,53 
+5 +45 – 60 R13,98 
+6 60+ R15,34 
+ 
+NOTE:   VAT is Value Added Tax. The VAT rate is 15%.   
+   
+ Use TABLE 2  above to answer the question that follow.   
+   
+ Calculate  how much GOOD BOYS CAR WASHING BAY pa ys a month including 
+VAT when they use 25 k ℓ of water and give a reason why a step up (increasing block 
+rate) system of water tariffs is used to charge water consumption other than a flat 
+single rate . (6) 
+   
+4.2 Andile received a donation from his brother who works in Rwanda. The donation was       
+745 614,04  Rwanda Francs (RWF). The bank deducted 10% for bank charges. Andile 
+states that he will receive R12 750. Verify the statement  with the necessary 
+calculations . 
+ 
+Use the exchange rate R 0,019 = 1  RWF  (6) 
+   
+4.3 Ibanda High School  recorded  absentees  in the Grade 11 Mathematical Literacy  class  
+during  the first week when schools reopened after the COVID -19 pandemic  break. 
+The data is shown in the table below.  
+ 
+ Monday  Tuesday  Wednesday  Thursday  Friday  
+Girls  4 6 8 7 10 
+Boys  5 3 8 9 7 
+  
+   
+ Use the above information to answer the questions that follow .  
+   
+ 4.3.1 Determine the probability that a learner chosen at random was absent on 
+Wednesday . (3) 
+    
+ 4.3.2  Complete the double bar graph on the ANSWER SHEET provided by plotting 
+the missing bars for the number of boys and girls  absent .  (5) 
+  
+8 MATHEMATICAL LITERACY P1  (EC/ NOVEMBER  2020) 
+Copyright reserved   Please turn over   
+4.4 A Grade 11  Mathematical Literacy class at Ibanda High wrote an examination 
+marked out of 100 marks. The results arranged in ascending order are shown below.  
+ 
+23 41 42 50 50 51 54 55 56 57 
+60 61 65 66 66 67 68 69 70 70 
+70 72 C 74 76 79 82 85 86 88 
+  
+   
+ Use the above information to answer the questions that follow.   
+   
+ 4.4.1 The mean of the above data is equal to 64,2. A learner calculated  that the 
+value of C in the above data is 74. Verify , with the necessary calculations, 
+whether the answer  is valid . (4) 
+    
+ 4.4.2 The frequency table of the above data is shown below.  
+ 
+Class interval  Frequency  
+20–29 1 
+30–39 D 
+40–49 2 
+50–59 7 
+60–69 8 
+70–80 8 
+80–89 4 
+ 
+Determine the value  of D and give a reason  for your answer . (2) 
+   [26] 
+    
+  TOTAL : 100 
+  
+(EC/ NOVEMBER  2020) MATHEMATICAL LITERACY P1  9 
+Copyright reserved   Please turn over   
+ANSWER SHEET    
+  
+QUESTION 4.3.2   
+  
+NAME  OF LEARNER :    
+  
+GRADE 11:    
+  
+  
+ 
+ 024681012
+Monday Tuesday Wednesday Thursday FridayNumber of absent learners
+Days of the weekNumber of absent  learners during the week 
+Girls Boys
+ 
+
+ 
+ 
+NATIONAL  
+SENIOR CERTIFICATE  
+ 
+ GRADE 1 1  
+ 
+NOVEMBER  2020 
+ 
+MATHEMATICAL LITERACY P1  
+EXEMPLAR  
+ 
+MARKS:  100 
+  
+TIME:  2 hours  
+ 
+ This qu estion paper consists of 9 pages , including  an answer  sheet.  
+  
+
+2 MATHEMATICAL LITERACY P1  (EC/ NOVEMBER  2020) 
+Copyright reserved   Please turn over   
+INSTRUCTIONS AND INFORMATION   
+  
+1. This question paper consists of F OUR  questions. Answer ALL the questions.   
+   
+2. 2.1 Use the ANSWER SHEET  for QUESTION  4.3.2.   
+    
+ 2.2 Write your NAME  and GRADE in the spaces provide d on the ANSWER 
+SHEET for QUESTION 4.3.2.  
+Hand in the ANSWER SHEET with  your ANSWER BOOK.   
+   
+3. Number the answers  correctly according to the numbering system used in this 
+question paper.   
+   
+4. Maps and d iagrams are not necessarily drawn to scale , unless stated otherwise .  
+   
+5. Round off ALL  final answers according to the context used, unless stated otherwise.   
+   
+6. Indicate units of measurement, where applicable.   
+   
+7. Start EACH question on a NEW page.   
+   
+8. You may use an approved calculator (non -programmable and non -geographical), 
+unless stated otherwise.   
+   
+9. Show ALL calculations clearly.   
+   
+10. Write neatly and legibly.   
+  
+(EC/ NOVEMBER  2020) MATHEMATICAL LITERACY P1  3 
+Copyright reserved   Please turn over   
+QUESTION 1   
+  
+1.1 Moses earns  a gross salary of R10 500 per month.  The basic  monthly  expenses used 
+from the income are as follows:  
+ 
+Housing  expense 21%; Food 36%, Transport 10%; Cellphone bills 1 ,9%. The rest is 
+for savings.   
+   
+ Use the above information to answer the following questions .  
+   
+ 1.1.1  Calculate the total gross salary  per annum.  (2) 
+    
+ 1.1.2 Determine the  amount of the monthly  food expense.  (2) 
+    
+ 1.1.3  Write down the ratio of the housing percentage to the food percentage in the 
+simplest form . (2) 
+    
+ 1.1.4  Calculate Moses ’s percentage for savings from  his salary.  (3) 
+   
+1.2 Thando, a Mathematical Literacy teacher , collected and analysed test results of his 
+class.  The test was marked out of a total mark of 50. The results of the learners are 
+indicated below:  
+38 21 12 18 41 
+28 24 34 10 35 
+  
+   
+ Use the above information to answer the questions that follow.   
+   
+ 1.2.1  Is the above data primary or secondary ? (2) 
+    
+ 1.2.2  Write down the highest mark obtained in the test . (2) 
+    
+ 1.2.3  Explain the meaning of the term ‘ median ’. (2) 
+    
+ 1.2.4  Write down the mark out of 50 for a learner who achieved  70% in the test.  (2) 
+    
+ 1.2.5  Write down the number of learners who failed the test , if the pass mark is 20 
+out of 50.  (2) 
+   
+1.3 A shopkeeper bought a dress  for R750 and sold it , making a loss of R50.   
+   
+ 1.3.1 Explain the meaning of the term ‘loss’ in this context.  (2) 
+    
+ 1.3.2 Calculate the percentage loss made on the sale . (2) 
+  [23] 
+  
+4 MATHEMATICAL LITERACY P1  (EC/ NOVEMBER  2020) 
+Copyright reserved   Please turn over   
+QUESTION 2   
+  
+2.1 Mrs Rogu e invested money monthly from 2016 to 2020  at Company A . She terminated her 
+investment and received the statement below from Old Mutual:  
+ 
+Contract number  Contracting 
+party  Name of 
+Investment plan  Start date  
+of contract  Last 
+premium  
+due date  
+ 
+17801249   
+R. Rogue  Smart  MAX  
+Focused  
+Education Plan/1   
+01/07/2016   
+30/06/2031  
+Fund value as at 23 March 2020  
+Investment fund  Unit price  (cents)  Number of 
+units  Fund value  
+Allan Gray Balanced Fund C Class  8 266,470  A R8 038,07  
+Total     R8 038,07  
+ 
+Difference between fund value and termination value  
+Fund value  R8 038,07  
+Reduction fees and transaction charges  B 
+Termination value  R6 995,25  
+Withdrawals up to 23 March 2020  R765,57  
+  
+Expected premium details as at 23 March 2020  
+Current  
+premium  
+ Annual  
+Increase  
+rate Next 
+premium  
+increase  New premium  Investment 
+fund(s)  Premium  
+Split  
+R332,75  
+monthly  … 01/07/2020  R366,02  Allan Gray 
+Balanced Fund  
+C Class  100%  
+Total contributions since contract start date  
+Total premiums paid   R12 924,75  
+  
+   
+ 2.1.1 Write down the name of the investment plan that Mrs Rogue  has. (2) 
+    
+ 2.1.2 Calculate the value of A, the number of units earned from the given fund value.  (4) 
+    
+ 2.1.3 Show by means of calculations that Mrs Rogue lost 45,88% of the total premiums she 
+contributed towards the fund by terminating her investment before the last premium.  (4) 
+    
+ 2.1.4 Calculate the value (in Rands) of B, the reduction fees and transaction charges.  (2) 
+    
+ 2.1.5 Write down the withdrawal value as at 23 March 2020.  (2) 
+  
+(EC/ NOVEMBER  2020) MATHEMATICAL LITERACY P1  5 
+Copyright reserved   Please turn over   
+ 2.1.6 Calculate the percentage increase  on the monthly premium. Give your final answer 
+to the nearest percentage . 
+You may use the following formula : 
+Percentage increase =   𝒏𝒆𝒘  𝒑𝒓𝒆𝒎𝒊𝒖𝒎  − 𝒄𝒖𝒓𝒓𝒆𝒏𝒕  𝒑𝒓𝒆𝒎𝒊𝒖𝒎
+𝒄𝒖𝒓𝒓𝒆𝒏𝒕  𝒑𝒓𝒆𝒎𝒊𝒖𝒎× 𝟏𝟎𝟎 % (4) 
+   
+2.2 Alice sells food from a kiosk  that she rents in a township. The expenses associated with 
+ingredients and labour for a plate amount to R30.  
+The formula for expense s:  Expenses = R500 + R30 × Number of plates  
+She sells food per plate. The graph below shows her expenses and income for a month.  
+  
+  
+ 
+ 
+   
+ Use the above information and the graph to answer the questions that follow.   
+   
+ 2.2.1  Write down the  independent variable in the above context . (2) 
+    
+ 2.2.2  Determine the amount  Alice  pays as fixed expenses.  (2) 
+    
+ 2.2.3  Write down the formula for the income if a plate is sold at R50 , in the form of:  
+Income  = … (2) 
+    
+ 2.2.4  Determine the profit at the break -even point.  (2) 
+    
+ 2.2.5  Determine the loss when 8 plates are sold.  (4) 
+   [30] 020040060080010001200140016001800
+0 5 10 15 20 25 30 35Amount in Rands(R )
+Number of platesALICE’S EXPENSES AND INCOME FROM SALES
+Expenses
+Income
+6 MATHEMATICAL LITERACY P1  (EC/ NOVEMBER  2020) 
+Copyright reserved   Please turn over   
+QUESTION 3   
+  
+The Global Wellness Institute did research  about the amount  of spa revenue generated  in 
+different regions of the world in 2017 . 
+ 
+     TABLE 1: NUMBER OF SPAS, REGIONS AND THE REVENUE  
+                        GENERATED  
+Regions  Names of Regions  Number of  
+Spas  Revenue in  
+Billion dollars ($b)  
+P North America  30 394  22,9 
+Q Latin America -Caribbean  13 856  6,6 
+R Sub-Saharan Africa  3 984  … 
+S Middle East  – North Africa  6 057  2,8 
+T Europe  46 282  33,3 
+V Asia – Pacific  48 679  26,5 
+ TOTAL  … … 
+                                                                                        [Source: globalwellnessinstitute.org ]  
+  
+Use the information above to answer the questions that follow.   
+  
+3.1 Calculate the  total number of spas used for the research  in 2017.  (2) 
+   
+3.2 Calculate the mea n number of spas used. Give your  final answer to the nearest whole  
+number.  (2) 
+   
+3.3 Express the number of spas in Europe as a percentage of the total number of s pas. (2) 
+   
+3.4 Determine the number of regions  that lies above the range number of spas. (2) 
+   
+3.5 Write down the unit ratio of spas in region s P and V. (3) 
+   
+3.6 Calculate the total revenue in billion dollars  for the spas if sub-Saharan Africa ’s 
+revenue is $5,0  billion  less than Latin America -Caribbean ’s revenue . (4) 
+   
+3.7 Calculate the median revenue  of the regions.  (3) 
+   
+3.8 Determine the probability (as a percentage) of randomly selecting a region with more 
+than 40 000 spas. (3) 
+  [21] 
+  
+(EC/ NOVEMBER  2020) MATHEMATICAL LITERACY P1  7 
+Copyright reserved   Please turn over   
+QUESTION 4   
+  
+4.1 GOOD BOYS CAR WASHING BAY is in an area where water is charged according 
+to the water tariffs structure shown in TABLE 2 below.  
+           
+     TABLE  2: WATER  TARIFF STRUCTURE  
+Block  Usage in 
+kilolitre (kℓ) Normal  Charge per kilolitre 
+(kℓ) (Excluding VAT)  
+1 0 – 6 R0,00 
+2 +6 – 15 R9,35 
+3 +15 – 30 R11,16 
+4 +30 – 45 R12,53 
+5 +45 – 60 R13,98 
+6 60+ R15,34 
+ 
+NOTE:   VAT is Value Added Tax. The VAT rate is 15%.   
+   
+ Use TABLE 2  above to answer the question that follow.   
+   
+ Calculate  how much GOOD BOYS CAR WASHING BAY pa ys a month including 
+VAT when they use 25 k ℓ of water and give a reason why a step up (increasing block 
+rate) system of water tariffs is used to charge water consumption other than a flat 
+single rate . (6) 
+   
+4.2 Andile received a donation from his brother who works in Rwanda. The donation was       
+745 614,04  Rwanda Francs (RWF). The bank deducted 10% for bank charges. Andile 
+states that he will receive R12 750. Verify the statement  with the necessary 
+calculations . 
+ 
+Use the exchange rate R 0,019 = 1  RWF  (6) 
+   
+4.3 Ibanda High School  recorded  absentees  in the Grade 11 Mathematical Literacy  class  
+during  the first week when schools reopened after the COVID -19 pandemic  break. 
+The data is shown in the table below.  
+ 
+ Monday  Tuesday  Wednesday  Thursday  Friday  
+Girls  4 6 8 7 10 
+Boys  5 3 8 9 7 
+  
+   
+ Use the above information to answer the questions that follow .  
+   
+ 4.3.1 Determine the probability that a learner chosen at random was absent on 
+Wednesday . (3) 
+    
+ 4.3.2  Complete the double bar graph on the ANSWER SHEET provided by plotting 
+the missing bars for the number of boys and girls  absent .  (5) 
+  
+8 MATHEMATICAL LITERACY P1  (EC/ NOVEMBER  2020) 
+Copyright reserved   Please turn over   
+4.4 A Grade 11  Mathematical Literacy class at Ibanda High wrote an examination 
+marked out of 100 marks. The results arranged in ascending order are shown below.  
+ 
+23 41 42 50 50 51 54 55 56 57 
+60 61 65 66 66 67 68 69 70 70 
+70 72 C 74 76 79 82 85 86 88 
+  
+   
+ Use the above information to answer the questions that follow.   
+   
+ 4.4.1 The mean of the above data is equal to 64,2. A learner calculated  that the 
+value of C in the above data is 74. Verify , with the necessary calculations, 
+whether the answer  is valid . (4) 
+    
+ 4.4.2 The frequency table of the above data is shown below.  
+ 
+Class interval  Frequency  
+20–29 1 
+30–39 D 
+40–49 2 
+50–59 7 
+60–69 8 
+70–80 8 
+80–89 4 
+ 
+Determine the value  of D and give a reason  for your answer . (2) 
+   [26] 
+    
+  TOTAL : 100 
+  
+(EC/ NOVEMBER  2020) MATHEMATICAL LITERACY P1  9 
+Copyright reserved   Please turn over   
+ANSWER SHEET    
+  
+QUESTION 4.3.2   
+  
+NAME  OF LEARNER :    
+  
+GRADE 11:    
+  
+  
+ 
+ 024681012
+Monday Tuesday Wednesday Thursday FridayNumber of absent learners
+Days of the weekNumber of absent  learners during the week 
+Girls Boys
+ 
+
+ 
+ 
+NATIONAL  
+SENIOR CERTIFICATE  
+ 
+ GRADE 1 1  
+ 
+NOV EMBER 201 7 
+ 
+MATHEMATICAL LITERACY P1  
+ 
+MARKS:  100 
+  
+TIME:  2 hours  
+ 
+ This question paper consists of 1 3 pages including an answer sheet.   
+  
+
+2 MATHEMATICAL LITERACY P1  (EC/NOVEMBER  2017 ) 
+Copyright reserved   Please turn over   
+INSTRUCTIONS AND INFORMATION   
+  
+1. This question paper consists of FIVE questions. Answer ALL the questions.   
+   
+2. Use the ANSWER SHEET provided to answer QUESTION 5.2 .2.  
+   
+3. Write your NAME  and GRADE  on your ANSWER SHEET and hand it  in with 
+your ANSWER BOOK .  
+   
+4. Number the answers correctly according to the numbering system used in this 
+question paper.   
+   
+5. Start EACH question on a NEW page.   
+   
+6. You may use an approved calculator (non -programmable and non-graphical), unless 
+stated otherwise.   
+   
+7. Show ALL calculations clearly.   
+   
+8. Round off ALL the final answers appropriately according to the given context, 
+unless stated otherwise.   
+   
+9. Indicate units of measurement, where applicable.   
+   
+10. Maps and diagrams are NOT necessarily drawn to scale, unless stated otherwise.   
+   
+11. Write neatly and legibly.   
+  
+(EC/NOVEMBER 2017)  MATHEMATICAL LITERACY P1  3 
+Copyright reserved   Please turn over   
+QUESTION 1   
+  
+1.1 Study the payslip below and answer the questions that follow .  
+   
+ Payslip for the period 1 January 2017 – 31 January 2017   
+   
+ Name of 
+Employer :  Date of Payment : 
+ 
+ LND Pty Ltd   5 Feb 2017   
+ Name of 
+Employee :  Method  of Payment : 
+ 
+ Thando Peter   Cash   
+     
+ ITEM  AMOUNT  
+(R) OVERTIME 
+DETAILS   
+ 
+ Basic salary  25 820 Overtime hours  5  
+ Total allowances  
+(breakdown below)  6 455 Total worked 
+overtime pay R1 290  
+ 
+ (i)  Transport  3 873 Item Amount   
+ (ii)  Uniform  2 582  Other additional 
+Payments  
+(Breakdown 
+below)  R38 730  
+ 
+ Deductions   Annual Bonus  R38 730   
+ (i)    UIF 258,20    
+ (ii)   Income Tax  4 956,38 Net Pay  ----------   
+ (iii)  Loan 2 582     
+ (iv)  Pension Fund  1 956,50    
+   
+ 1.1.1  Write down the month in which the salary was paid . (2) 
+    
+ 1.1.2  Calculate the total deductions for this employee.   (2) 
+    
+ 1.1.3  Write down the acronym UIF in full. (2) 
+    
+ 1.1.4  The employee decided to share R1 290 between his two children Linda 
+and Ludwe in the ratio 3  : 2 respectively. Calculate the amount Linda will 
+receive.  (2) 
+  
+4 MATHEMATICAL LITERACY P1  (EC/NOVEMBER  2017 ) 
+Copyright reserved   Please turn over   
+1.2 Asisipho drew the diagram below showing her mother’s room.   
+   
+ 
+  
+   
+ Calculate the perimeter  of the room  in centimetres . (2) 
+   
+1.3 Study the strip map below and answer the questions that follow .  
+   
+ 
+1 : 250 000   
+   
+ 1.3.1  Write down the compass direction of Lauterbach from Hanau.  (2) 
+    
+ 1.3.2  Explain the m eaning of 1 : 250 000 on the chart . (2) 
+   
+1.4 Bonny recorded Graaff Reinet ’s tempe ratures in degrees Celsius from 
+Wednesday, 13th of September to Friday, 22nd of September 2017.Study the 
+information below and answer the questions that follow .  
+   
+ Dates  13 14 15 16 17 18 19 20 21 22  
+ Min. 8 8 11 7 7 9 12 12 12 12  
+ Max. 25 21 26 17 19 23 29 28 26 27  
+ [Source: accuweather.com ]  
+   
+ 1.4.1  Arrange the maximum (max .) temperatures from smallest to biggest.  (2) 
+    
+ 1.4.2  Write down the lowest minimum value of the data.  (2) 
+    
+ 1.4.3  Write down the meaning of the “ mode ” in a data.  (2) 
+  [20] 
+  
+
+(EC/NOVEMBER 2017)  MATHEMATICAL LITERACY P1  5 
+Copyright reserved   Please turn over   
+QUESTION 2   
+  
+2.1 Quzini High School soccer and rugby  teams are planning a tour to Port 
+Elizabeth. The team’s manager, Lwando obtained a quotation for 
+accommodation costs per night at Red Lodge shown in TABLE 1 below .  
+ 
+               TABLE 1: RED LODGE ACCOMMODATION COSTS   
+Type of room  Cost per night per u nit 
+2 Sleeper  R855  
+4 Sleeper  R1 035 
+6 Sleeper  R1 400 
+8 Sleeper  R1 495 
+Executive (Honey moon)  R1 450 
+ 
+NOTE : These prices exclude VAT (VALUE ADDED TAX = 14%)   
+ 
+   
+ Use the table above to answer the questions that follow .  
+   
+ 2.1.1  Write down the  cost for the executive room.  (2) 
+    
+ 2.1.2  Express the cost for the executive room as a percentage of the cost of a 
+room where 8 sleep. Give your answer to ONE  decimal point.  (4) 
+    
+ 2.1.3  Calculate the total amount to be paid per day for accommodation if the 
+learners use the  rooms as follows:    
+  1 room where 8 sleep   
+  2  rooms where 4 sleep   
+  3  rooms where 6 sleep   (4) 
+    
+ 2.1.4 Hence, c alculate the total cost including Value Added Tax (VAT of 
+14%) of accommodation if the learners will stay for four days and 
+return on the fifth day.  (5) 
+  
+6 MATHEMATICAL LITERACY P1  (EC/NOVEMBER  2017 ) 
+Copyright reserved   Please turn over   
+2.2 A deposit of 12, 5 % of the total accommodation cost excluding VAT is 
+required to secure the booking and the balance is payable on the day of arrival.   
+   
+ 2.2.1  Calculate the amount that must be paid  as deposit . (3) 
+    
+ 2.2.2  Calculate the balance amount to be paid on the day of arrival.  (2) 
+    
+ 2.2.3  Write in words the balance amount to be paid on the arrival day.  (2) 
+   
+ The school received a  donation of 20 US Dollars ($)  from an ex-rugby player 
+to cater for transport.   
+   
+ 2.2.4  Convert the $ 20  to rands.   
+Given  $ 1 = R14, 2058.  (3) 
+   
+2.3 Study the parking tariffs below and answer the questions that follow .  
+   
+ MALL A:  PARKING TARIFFS   
+ Monday – Thursday  Friday, Saturday, Sunday  and Public 
+Holidays   
+      
+ 0 hour – 1,5 hours  R0,00  0 hour – 1,5 hours  R5,00   
+ 1,5 hours – 2,5 hours  R9,00  1,5 hours – 2,5 hours  R10,00   
+ 2,5 hours – 3,5 hours  R12,00  2,5 hours – 3,5 hours  R10,00   
+ 3,5 hours – 4,5 hours  R14,00  3,5 hours – 4,5 hours  R10,00   
+ 4,5 hours – 5,5 hours  R16,00  4,5 hours – 5,5 hours  R10,00   
+ 5,5 hours – 6,5 hours  R19,00  5,5 hours – 6,5 hours  R10,00   
+ 6,5 hours + R35,00  6,5 hours + R30,00   
+ Lost ticket  R35,00  Lost ticket  R35,00   
+   
+ Quzini High Schoo l’s bus is expected to park at  Mall A ’s parking area during 
+the week. The parking is for 2, 6 hours daily, from the 2nd to the 5th day of t he 
+tour while the learners enjoy a breakfast.  Calculate the total amount of money 
+to be paid for parking.  (2) 
+ [27] 
+  
+(EC/NOVEMBER 2017)  MATHEMATICAL LITERACY P1  7 
+Copyright reserved   Please turn over   
+QUESTION 3   
+  
+3.1 Dogs ar e fed according to their weight  to keep them healthy. Nikki keeps two dogs , 
+Tiger and Tommy , which  weigh 22 kg and 42 k g respectively.   
+Study the dog food specifications label in TABLE 2 below to answer the  questions 
+that follow .  
+   
+ TABLE 2:  DAILY FOOD REQUIREMENT S ACCORDING TO WEIGHT   
+   
+ Size of dog  Weight of dog  Daily food requirement   
+ Small  Up to 20 kg  250 g  
+ Medium  20 – 40 kg Minimum 250  g – Maximum 500  g  
+ Large  40 kg+ Minimum 500 g – Maximum 750  g  
+   
+ 3.1.1  Calculate the amount of daily minimum  food requirement s for the two 
+dogs. Give your answer in cups.   
+    
+  Use 1 cup = 125  g (3) 
+    
+ 3.1.2  Calculate the number of day s a 10 kg packet of dog food will last the two 
+dogs feeding them with minimum requirement ratios .  
+    
+  You may use the formula :  
+  
+Number of days = weight of a packet
+daily requirement of two dogs (4) 
+    
+ 3.1.3  Convert Tommy’s weight to tons. 1 ton = 1  000 kg. (2) 
+  
+8 MATHEMATICAL LITERACY P1  (EC/NOVEMBER  2017 ) 
+Copyright reserved   Please turn over   
+3.2 Thandi wants to lay ceramic tiles in her rectangular bedroom that measures 3  m by 
+3,5 m. Study the details of the size and the pack aging of the tiles  below and answer 
+the questions that follow .  
+   
+ Dimensions of a tile  Cost of tiles   
+ 
+ 
+  
+ [Adapted from BTM catalogue ]  
+   
+ 3.2.1  Convert 43 cm  to metres (m)  (2) 
+    
+ 3.2.2  Calculate the area of Thandi’s main bedroom.   
+    
+  You may use the formula:   
+    
+  Area of a rectangle = length x breadth  (2) 
+    
+ 3.2.3  Calculate the number of boxes of tiles needed for Thandi’s bedroom. (tiles 
+are sold in boxes only)   
+    
+  You may use the formula:   
+    
+  Number of boxes of tiles = Area of the bedroom
+area of a tile x number of tiles in a box (5) 
+   [18] 
+ 
+  
+(EC/NOVEMBER 2017)  MATHEMATICAL LITERACY P1  9 
+Copyright reserved   Please turn over   
+QUESTION 4   
+  
+4.1 Study the  floor plan of the shopping  mall below and answer the questions that 
+follow .  
+   
+ 
+  
+ [Source: www.decorfarms.me ]  
+   
+ 4.1.1  Determine the number of 2 x 3 units.  (2) 
+    
+ 4.1.2  Identify the size of unit s found at the corners of the mall.  (2) 
+    
+ 4.1.3  Lindi entered the mall on the West side. She went straight through  
+Region V and turned left before entrance 3, passing three shops on the 
+right and entered the fourth  shop  on the left .  Write down Lindi’s  
+destination.  (3) 
+  
+
+10 MATHEMATICAL LITERACY P1  (EC/NOVEMBER  2017 ) 
+Copyright reserved   Please turn over   
+4.2 Study the second last stage of assembling a learner’s desk below and answer the 
+questions that follow .  
+   
+ SECOND LAST STAGE OF ASSEMBLING THE SCHOOL DESK  
+   
+ 
+   
+ Determine  the following:   
+   
+ 4.2.1  The number of screws needed to fix two of these school desks (2) 
+    
+ 4.2.2  The direction in which the screw is tightened .  Is it clockwise or 
+anticlockwise?  (2) 
+   [11] 
+  
+(EC/NOVEMBER 2017)  MATHEMATICAL LITERACY P1  11 
+Copyright reserved   Please turn over   
+QUESTION 5   
+  
+5.1 TABLE 3 below shows the information about the dams that had above ten million 
+cubic metres of water in January 2016. The terms “fullest and emptiest ” are used to 
+indicate the amount of water in the dam in relation to its capacity.   
+   
+ TABLE 3: DAMS WITH  MORE THAN TEN MILLION CUBIC METRES  
+                   OF WATER   
+   
+ Province  Fullest dam 
+name  Fullest 
+dam 
+capacity  
+(in million 
+cubic 
+metres)  Emptiest dam 
+name  Emptiest dam 
+capacity  
+(in million 
+cubic metres)  
+ 
+ Northern Cape  Boegoeberg  19,9 Spitskop  57,9  
+ Western Cape  Garden 
+Route  10 Gamkapoort  36,3 
+ 
+ Free State  Saulspoort  15,7 Krugersdrift  71,5  
+ North West  Bospoort  15,8 Setumo  20,8  
+ Gauteng  Roodeplaat  41,2 Bronkhorstspruit  57  
+ Limpopo  De Hoop  348,7  Glen Alpine  18,9  
+ Mpumalanga  Heyshope  445 Ohrigstad  13,5  
+ KwaZulu 
+Natal  Inanda  237,5  Klipfontein  18,1 
+ 
+ Eastern Cape  Mthatha  224,7  Darlington  180,9   
+  
+ Use TABLE 3 to answer the questions that follow .  
+   
+ 5.1.1  Identify the fullest dam with the maximum c apacity . (2) 
+    
+ 5.1.2  Calculate the difference between the highest fullest dam and the highest 
+emptiest dam.  (3) 
+    
+ 5.1.3  Calculate the mean emptiest dam capacity.  (3) 
+    
+ 5.1.4  Write down the name(s) of  the emptiest dams with less than twenty 
+million cubic  metres.  (2) 
+    
+ 5.1.5  Determine the range capacity for the fullest dams.  (2) 
+  
+12 MATHEMATICAL LITERACY P1  (EC/NOVEMBER  2017 ) 
+Copyright reserved   Please turn over   
+5.2 Study TABLE  4 that shows the number of absent Grade 11 learners at Siyo 
+High School and answer the questions that follow .  
+   
+ TABLE  4: Number of Grade 11 absentees for two weeks:   
+   
+ Week 1  
+dates  4th 5th 6th 7th 8th  
+ No. of absent 
+learners  22 1 2 4 18  
+ Week 2  dates  11th 12th 13th 14th 15th  
+ Number of absent 
+learners  8 12 3 5 14  
+   
+ 5.2.1  Identify the week which had the highest number of absentees.  (2) 
+   
+ 5.2.2  Use a bar graph to represent the number of learners  who were absent 
+in Week 2 . (5) 
+   
+5.3 Bathandwa had a bag with eighteen balls. Three balls were white, five green 
+and the rest were blue.   
+   
+ 5.3.1  Determine the probability that the ball randomly selected from the  bag 
+was green.  (2) 
+    
+ 5.3.2  Express the probability of randomly selecting a blue ball from the bag 
+as a percentage.  Y our answer  should be rounded off  to two decimal 
+places.  (3) 
+   [24] 
+    
+  TOTAL : 100 
+  
+(EC/NOVEMBER 2017)  MATHEMATICAL LITERACY P1  13 
+Copyright reserved   Please turn over   
+ANSWER SHEET  
+ 
+NAME OF LEARNER:  
+ 
+GRADE 11: _________  
+ 
+QUESTION 5.2  
+ 
+ 
+ 
+ 0246810121416
+11th 12th 13th 14th 15thNumber of absent learners
+2nd week of  September 2017 Grade 11 absent learners during the 2nd 
+week of September 2017
+  
+
+ 
+ 
+ 
+NATIONAL  
+SENIOR CERTIFICATE  
+ 
+ GRADE 11   
+ 
+NOVEMBER  2016 
+ 
+MATHEMATICAL LITERACY P1  
+ 
+MARKS:  100 
+  
+TIME:  2 hours  
+ 
+ This question paper consists of 11 pages, including 1 answer sheet and 1 annexure .  
+  
+*Imlit1* 
+2 MATHEMATICAL LITERACY P1  (EC/NOVE MBER 201 6) 
+ 
+Copyright reserved   Please turn over  INSTRUCTIONS AND INFORMATION   
+  
+1. This question paper consists of FIVE quest ions. Answer ALL the questions.  
+ 
+Use the ANNEXURE to answer QUESTION 1.  
+ 
+Answer QUESTION 4. 7 on the ANSWER SHEET provided and hand it in with 
+your ANSWER  BOOK.   
+   
+2. Number the questions correctly according to the numbering system used in 
+this question paper.   
+   
+3. A non -programmable and non -graphical calculator may be used, unless 
+stated otherwise.   
+   
+4. ALL calculations and steps must be shown clearly.   
+   
+5. Units of measurement must be indicated where applicable.   
+   
+6. Start each question on a NEW page.   
+   
+7. Round all final answers appropriate  according to the context used.   
+   
+8. Write neatly and legibly.   
+   
+  
+(EC/NOVEMBER 2016 ) MATHEMATICAL LITERACY P1  3 
+ 
+Copyright reserved   Please turn over  QUESTION 1   
+  
+1.1 Sandra paid cash for  the service of her car at Bennie’s Service station.  
+Study the information in the ANNEXURE to answer the questions that follow:   
+   
+ 1.1.1  Name the Franchise Dealer  that serviced Sandra’s car.  (2) 
+    
+ 1.1.2  Calculate the value of A, the amount charged for the labour.  (2) 
+    
+ 1.1.3  Show , with calculations,  that the discount for the battery is 50%.  (2) 
+    
+ 1.1.4  Calculate the total unit price of all the parts used for servicing the car.  (2) 
+    
+ 1.1.5  Calculate the value of B, the amount of VAT paid by Sandra.  (2) 
+    
+ 1.1.6  Calculate the difference between the highest unit price and lowest 
+unit price.  (3) 
+   
+1.2 Study the extract from Sandra’s cheque account statement below and answer 
+the questions that follow: (Some information is omitted .)  
+   
+ Table 1: Sandra’s cheque account statement from 23 to 25 March 2016   
+ Date  Item d escription  Amount 
+(R) Balance  (R) Bank 
+Accrued 
+Charges   
+ 23 March  Opening Balance   R22 598,09    
+ 23 March  Cell transfer to card  2 000,00  24 598,09   
+ 23 March  Airtime Top -up - Airtime 
+0633148090  110,00  24 486,99 1,10  
+ 24 March  POS Purchase Cheque 
+Card  @ CFR Shop  539,32  23 947,67   
+ 24 March  ATM Cash - Main street  4 500,00  19 447,67   
+ 24 March  Airtime Top -up - Airtime 
+0732729000  55,00  19 391,57 1,10  
+ 24 March  Send money to 
+0633148090  500,00  18 882,07 9,50  
+ 25 March  Cheque Card Fuel 
+Purchase @ Ted Garage  300,00  18 582,07   
+  Closing balance  18 582,07   
+   
+ 1.2.1  Explain the term “ opening balance ”. (2) 
+    
+ 1.2.2  On the 24th of March 2016 the bank accrued charges for the amount 
+sent to 0633148090 was R9,50. Determine the bank accrued charges 
+as a percentage of the amount sent.  (3) 
+    
+ 1.2.3  Determine the total amount Sandra paid for using  the bank to buy 
+airtime.  (3) 
+    
+ 1.2.4  Write down Sandra’s balance on the 25 March 2016 in words.  (2) 
+   [23] 
+4 MATHEMATICAL LITERACY P1  (EC/NOVE MBER 201 6) 
+ 
+Copyright reserved   Please turn over  QUESTION 2   
+  
+2.1 Nonine  is a retired teacher who usually plants vegetables in her rectangular 
+garden. She sent her soil sample to the laboratory to be tested. The results 
+from the sample indicated the need to apply 2 pounds of 15 -15-15 (Nitrogen -
+Phosphorus -Potassium) fertiliser per 100 square feet ( 𝑓𝑡2). She plans to 
+spread the fertiliser over a 20 x 15 foot area for corn. She has three 10 -foot 
+rows ; one each for carrots, lettuce and spinach. She also has 10 tomato 
+plants, which are fertili sed individually.  
+ 
+Use the picture below that shows Nonine’s rectangular garden and the 
+conversion table given to answer QUESTION 2.1  
+ 
+ 
+ 
+         10 foot                                10 foot                               10 foot  
+ 
+1 𝑚=3,281 𝑓𝑡 
+1 𝑝𝑜𝑢𝑛𝑑 =2 𝑐𝑢𝑝𝑠 
+1 𝑐𝑢𝑝 =250  𝑚ℓ 
+1𝑚2  =10,764 𝑓𝑡2 
+  
+   
+ 2.1.1  Write down the length and the width of Nonine’s garden in feet.  (2) 
+    
+ 2.1.2  Calculate the area of Nonine’s vegetable garden. Give your answer in 
+square metres.   
+  You may use the formula: Area of a rectangle = length x breadth  (4) 
+   
+ 25 ft 30 ft 
+(EC/NOVEMBER 2016 ) MATHEMATICAL LITERACY P1  5 
+ 
+Copyright reserved   Please turn over   2.1.3  Calculate the amount of the fertiliser needed for the corn area in the 
+garden. Give your answer in pounds.  
+You may use the formula:  
+𝐀𝐦𝐨𝐮𝐧𝐭  𝐨𝐟 𝐟𝐞𝐫𝐭𝐢𝐥𝐢𝐬𝐞𝐫 =𝐀𝐫𝐞𝐚  𝐜𝐨𝐯𝐞𝐫𝐞𝐝  𝐛𝐲 𝐜𝐨𝐫𝐧
+𝐀𝐫𝐞𝐚  𝐜𝐨𝐯𝐞𝐫𝐞𝐝  𝐛𝐲 𝐟𝐞𝐫𝐭𝐢𝐥𝐢𝐬𝐞𝐫 (5) 
+    
+ 2.1.4  Each tomato plant needs 0,15 pound of the fertiliser. Convert the 
+amount of the fertiliser needed for each tomato plant into cups.  (3) 
+    
+2.2 Nonine’s daughter, Mimmy, fell sick and consulted a doctor. She was given 
+medication and instructed to complete an antibiotic treatment. The table below 
+shows the medication given to her.   
+   
+ Table  2:  Certified copy of doctor’s script  (some information  is omitted)   
+   
+ Code  Type of medication  Volume  Amount   
+ 797979018  Flusin DM Take two medicine 
+measures (10 m ℓ) 
+Three times a day  Syrup 100 m ℓ 
+10D R67,46  
+ 
+ 756156017  Ponstan 50 mg/5 m ℓ 
+Take three medicine measures 
+(15 mℓ) four times a day  200 m ℓ 10D R37,70  
+ 
+ 710041002  Augmentin ES 600 Take two 
+medicine measures (10 m ℓ) twice a 
+day**complete course**  100 m ℓ 5D 710041002  
+ 
+    
+ 2.2.1  Calculate the total number of millilitres of medicine measures that 
+Mimmy  had to take in the morning at breakfast and in the evening.at 
+supper.  (3) 
+    
+ 2.2.2  Calculate the amount of Augmentin ES 600 to be taken on the last 
+day. (2) 
+   [19]   
+6 MATHEMATICAL LITERACY P1  (EC/NOVE MBER 201 6) 
+ 
+Copyright reserved   Please turn over  QUESTION 3   
+  
+3.1 Study the map below of Fraser River Area from Haney to the Mouth and 
+answer the questions that follow:   
+   
+ 
+  
+ [Source: www.env.gov.bc.ca]   
+   
+ 3.1.1  Determine the number of sediment monitoring stations from the map.  (2) 
+    
+ 3.1.2  Write down the type of monitoring station named Marion (Jacobs) 
+Lake. (2) 
+    
+ 3.1.3  Identify the sediment monitoring station that lies between Main Arm 
+and North Arm to join Fraser.  (2) 
+    
+ 3.1.4  Measure the distance ( in a straight line ) in centimetres between 
+Haney and NA -2. (2) 
+    
+ 3.1.5  Use your measured distance in QUESTION 3.1.4 and the given scale  
+to determine the actual distance between Haney and NA -2 in 
+kilometres.  (3) 
+  
+
+(EC/NOVEMBER 2016 ) MATHEMATICAL LITERACY P1  7 
+ 
+Copyright reserved   Please turn over  3.2 The Vellem family invited few guests to celebrate in their son’s graduation 
+ceremony for completing a Diploma in Management from Walter Sisulu 
+University. The hall was partitioned into two by a curtain making table D and 
+G unavailable to guests.  
+ 
+Study the hall plan below and answer the questions that follow:  
+ 
+ 
+ 
+Tables  
+A-I, Head Table and Gift table  
+ -seat occupied by guests and family members  
+  
+   
+ 3.2.1  One of the guests did not want to sit close to the window. Identify the 
+table where this guest may be seated.  (2) 
+    
+ 3.2.2  Give the general compass direction of Table F from Table H.  (2) 
+    
+ 3.2.3  Determine the probability that a person randomly chosen will be 
+seated at tables D and G during the ceremony.  (2) 
+    
+ 3.2.4  One of the guests was asked to walk straight from the door to sit at 
+the second left table. Name the table  where this guest will be seated . (2) 
+   [19] 
+  
+N 
+ 
+8 MATHEMATICAL LITERACY P1  (EC/NOVE MBER 201 6) 
+ 
+Copyright reserved   Please turn over  QUESTION 4   
+  
+Table 3 below compares prices of selected food items in the rural and urban areas 
+for January 2015. Study the table and answer the questions that follow:   
+  
+Table 3: Comparison between urban and rural food prices (selected food 
+items)   
+  
+Product  Rural food 
+prices  
+January 2015 
+(in Rands)  Urban food 
+prices  
+January 2015 
+(in Rands)  Price 
+difference 
+Rand per unit   
+Full cream Long Life Milk (1  ℓ) 12,03  12,59  0,56  
+Loaf of Brown Bread (700  g) 9,57 10,29  0,72  
+Loaf of White Bread (700  g) 10,31  11,42  1,11  
+Maize Meal (5  kg) 32,49  33,73  1,24  
+Margarine(500  g) 17,89  21,68  3,79  
+Rice (2  kg) 23,62  23,45  -0,17  
+Sunflower Oil (750  mℓ) 14,59  17,25  2,66  
+Ceylon/Black Tea (62,5g)  9,89 9,68 -0,21  
+White Sugar (2,5 kg)  29,63  26,31  -3,32  
+Average    A  
+[Source: Stats SA, 2015 ]  
+  
+4.1 Arrange the rural food prices in descending order.  (2) 
+   
+4.2 Determine the median for rural food price s. (2) 
+   
+4.3 Calculate the range for urban food prices.  (3) 
+   
+4.4 Identify the minimum price difference in rand per unit.  (2) 
+   
+4.5 Identify ONE product with the largest price difference between Urban and 
+Rural area.  (2) 
+   
+4.6 Identify the mode for urban food prices.  (2) 
+   
+4.7 Draw a  bar graph to show the last FIVE  products from urban food prices.  Use 
+the graph paper provided on ANSWER SHEET 1 . (6) 
+   
+4.8 Write down your observation about the food prices for  both urban and rural 
+customers.  (2) 
+   
+4.9 Calculate the value of A, the average price difference in rand per unit.  (3) 
+   
+4.10 Determine the probability that a product randomly selected has a mass of 
+700 g.  Give your answer to the nearest percentage.  (3) 
+ [27] 
+  
+(EC/NOVEMBER 2016 ) MATHEMATICAL LITERACY P1  9 
+ 
+Copyright reserved   Please turn over  QUESTION 5   
+  
+Victoria went to Sparrow shop to buy few items. She has a loyal card that she uses 
+to earn points when the card is presented at the till. The earned points can be 
+converted to cash to buy some items from the shop when it is needed . Study the till 
+slip belo w she received from Sparrow and answer the questions that follow: (*some 
+information is omitted*)   
+SPARROW SHOP  
+Roseplace.Tel: 716 1610   
+Customer:  Victoria   Prices  (R)  
+Parm Stew F/Cus  1 kg 22,49   
+Mc Beans  (Fresh Greenbeans)  1 kg 36,99#   
+A/Chix  B/P 4 -PCE  0,542 kg @ 53,99  p/kg 29,26   
+A/Chix B/P 4 -PCE 0,474 kg @ 53,99  p/kg 25,59   
+Flora regular margarine  per kg  2 @ ……..  1 kg 99,98   
+Sunday Times National  1’s 22,00   
+Bostik Prestik L  100 g  17,99   
+Koo PCH.Slice SR  410 g  9,99  
+Valpre Still  1,5 ℓ 13,49   
+Carrier bag 2 @ 0,50  24 ℓ 1,00  
+TOTAL  FOR 12 ITEMS   278,78   
+Tendered debit card   478,78   
+Change cash   200,00   
+Points earned:     
+Before This sale:  1639     
+This sale:  13    
+Total points : 1652     
+VAT rate  Excluding.  Tax Included   
+0,00%  36,99  0,00 36,99*   
+14,00%  212,10  29,69  241,79   
+Slip Till Cashier  Date  Time    
+4372  005 21 03.04.16  10:00    
+  
+5.1 Identify the price of an item that is zero VAT (Value Added Tax) rated.  (2) 
+   
+5.2 Identify the cash amount Victoria asked from the cashier at  the till in Sparrow 
+shop.  (2) 
+   
+5.3 Calculate the value of one point earned by customers at Sparrow Shop.  Give 
+your answer to the nearest ten rand.  (2) 
+   
+5.4 Calculate the cost of 600 g  of Bostik Prestik at Sparrow shop excluding VAT.  (2) 
+   
+5.5 Calculate the price of 1 kg Flora Regular  margarine . (2) 
+   
+5.6 Calculate the total for all food items on which VAT is charged.  (2) 
+  [12] 
+  
+10 MATHEMATICAL LITERACY P1  (EC/NOVE MBER 201 6) 
+ 
+Copyright reserved   Please turn over  ANNEXURE  
+QUESTION 1   
+    
+Bennie’s Service Station   
+Franchise Dealer for Mercedes 
+Benz, Chrysler, Jeep, Dodge, 
+Mitsubishi, Freightliner and 
+FUSO vehicles  
+ Buffalo City  
+Reg.No. TM 1234/0   VAT Reg.No.10465 25987  
+Billy Road, P.O . Box 238,  East London, 5200  
+Tel.(043) 745 1254  Fax. (043) 745 2334  
+ 
+Postal Address/ Posadres  Cash Tax Invoice  Deliver to/Gelewer aan   
+B/Bay cash sales  Invoice Number  Mrs. Sandra Twalo  
+10 Lily Street  
+Sunset Bay  
+5201   
+ 23215874   
+ Op Vehicle   
+  76416    
+REGISTRATION  TDZ 652 EC  Date of 
+1st reg. 26/04/11  Doc no.  26304/  
+132568   
+MODEL  Mercedes 
+Benz  Selling 
+dealer  25A Date  24/03/16   
+  
+Operation/Part no./Description  Quantity/  
+Time units  Unit 
+Price (R)  Unit Amount    
+Consumables 0100MSH  
+Engine Oil  U 5,50  29 159,50 S  
+MA271 180 05 09 Filter Oil  X 1 212,82 EACH  106,41 S  
+MA 001 986 19 71/ 1075 Cleaner 
+Solv  X 1 4,99 EACH  2,50 S  
+MA 000 989 08 07/13 Fluid  X 1 75,87 EACH  37,94 S  
+MA 204 890 2311 TS Wiper Blade  X 1 697,13 EACH  348,57 S  
+MA 201 565 456 03 Battery  X 1 2469 ,92 EACH  1234 ,96 S  
+MA 313 836 0319 Filter Combi  X 1 726,16 EACH  363,08 S  
+  
+ Goods 
+value  VAT 
+RATE  Taxable amount  
+(incl labour)   NET TOTAL  3390 ,96  
+    VAT/BTW  B  
+Parts  (X) 2093 ,46 14 %  3390 ,96 Rounding  0,09  
+Labour  A     
+Sublet  0,00     
+Deposit  0,00  TOTAL  3865 ,60  
+      
+Goods are supplied subject to ownership vesting in the seller until paid for in 
+full.  
+   
+  
+(EC/NOVEMBER 2016 ) MATHEMATICAL LITERACY P1  11 
+ 
+Copyright reserved   Please turn over  ANSWER SHEET   
+  
+SURNAME AND NAME     
+  
+GRADE 11: …….    
+ 
+QUESTION 4.7   
+  
+The graph showing selected urban food prices  
+ 
+ 
+ 0510152025303540
+Maize Meal Margarine Rice Sunflower Ceylon Tea White SugarPrices (Rands)
+Selected food items 
+ 
+
+ 
+  
+ 
+NATIONAL  
+SENIOR CERTIFICATE  
+ 
+ GRADE 1 1  
+ 
+NOVEMBER  2015 
+ 
+MATHEMATICAL LITERACY P1  
+ 
+MARKS:  100 
+  
+TIME:  2 hours  
+ 
+ This question paper consists of 16 pages  including  1 answer sheet 
+and 2 annexures .  
+  
+ 
+2 MATHEMATICAL LITERA CY P1  (EC/NOVEMBER 2015 ) 
+Copyright reserved   Please turn over   
+INSTRUCTIONS AND INFORMATION   
+  
+1. This paper consists of FIVE  questions.  Answer ALL the questions.   
+QUESTION  3.1.3 must be answered on the ANSWER SHEET . 
+Use ANNEXURE A to answer  QUESTION  2.2 and ANNEXURE B to 
+answer QUESTION  4.  
+   
+2. Number your answers correctly according to the numberi ng system used 
+in the question paper.   
+   
+3. You may use an approved ( non-programmable and non -graphical) 
+calculator , unless stated otherwise.   
+   
+4. ALL calculations and steps must be shown clearly.   
+   
+5. Units of measurement must be indicated wher e applicable.   
+   
+6. Start EACH question on a NEW page.   
+   
+7. Write neatly and legibly.   
+   
+8. All answers must be rounded up, down or according to the context used,  
+unless stated otherwise.   
+  
+(EC/NOVEMBER 2015 ) MATHEMATICAL LITERACY P1  3 
+Copyright reserved   Please turn over   
+QUESTION 1   
+  
+1.1 Anita runs a business and she wan ts to buy the cellphone for her personal 
+use. She visited two cellphone companies to compare the prices of the 
+same phone.   The findings are listed in the tables below as follows:   
+   
+   
+   Nokia Lumia 630  
+ 
+                                                                                                  
+                                                            
+                                                
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Off peak : 20:00 (06:59:59 (Monday to Friday)  
+Peak time: 07:00 –19:59:59 ( Monday to Friday ) 
+Weekends : Friday 20:00 –Monday 06:59:59 and Public holidays    
+   
+ 1.1.1  Calculate the total cost of this cellphone from Company A for the 
+duration of contract excluding calls and SMS es if she also took  
+insurance.  (4) 
+    
+ 1.1.2  Calculate the total cos t of a n 8 minute cellphone call from  
+Company A made at 20:25 on a Friday.  (2) 
+    
+ 1.1.3  Calculate how much will the cellphone following year from 
+Company B cost in cash , if the inflation rate is 4,4% per year.  (2) 
+  
+Company A  
+R169 PM x 24  
+R100 airtime PM  
+Peak time SMS R0,50  
+Off peak SMS R0,50  
+Peak time calls R0,79  
+Off peak calls R0,79  
+Cash: R1 899  
+Optional insurance 
+@R55 per month  
+Company B  
+R169 PM x 24  
+50 anytime minutes  
+50 SMS es PM 
+100 MB data P M 
+Peak time SMS R0,80  
+Off peak SMS R0,35  
+Peak time calls R1,30  
+Off peak calls R1,12  
+Cash: R1 999  
+Optional insurance  
+@ R55 per month  
+ 
+4 MATHEMATICAL LITERA CY P1  (EC/NOVEMBER 2015 ) 
+Copyright reserved   Please turn over   
+1.2 Anita’s personal calls were re corded as follows for the first week of March 
+2015.   
+   
+ Times  Peak  Off peak  SMS s 
+ Duration of a call  18 calls at  
+2 minutes per 
+call 15 calls at  
+3 minutes per 
+call 25 SMS es off peak  
+10 SMS es peak 
+hour 
+ 
+   
+ NOTE:  All the calls and SMS es have been c orrected to the nearest 
+minute.   
+   
+ 1.2.1  Calculate the total amount  she will pay for the off peak SMS es for 
+the first week if she uses Company B.  (2) 
+    
+ 1.2.2  Determine the ratio of  the calls made during peak time , to that of  
+the calls made during  off peak time.  (2) 
+    
+ 1.2.3  Determine the probability that the SMSe s made by Anita are at off 
+peak time.  Give your answer in its simplest form.  (2) 
+   
+1.3 Anita joined a stokvel group of 8 women and started paying contributions in 
+January 2014 and each member has to contribute R400,00 a month.  Each 
+member had to raise an amount of R2 000,00 excluding monthly 
+contributions.  They will share the money amongst each other on the 10th of 
+December 2014.  The last month for contributions is November 2014.   If 
+you borrow any amount the interest charged is 20% of the amount loan 
+debt per month.  The loan increases by the interest amount if not paid.  The 
+interest raised by a member from a loan will belong to  her.  
+   
+ 1.3.1  Anita  took a loan of R1  525, 00 for two months.  She did not pay 
+the interest in the first month.  Calculate the total interest amount 
+she will have to pay at the end of two months.  (2) 
+    
+ 1.3.2  Determine the total amount they will have as a group, including 
+Anita’s additional intere st amount.  (3) 
+    
+ 1.3.3  Calculate the total amount Anita  will receive on the day they share 
+their money , including her own additional interest amount.  (3) 
+  
+(EC/NOVEMBER 2015 ) MATHEMATICAL LITERACY P1  5 
+Copyright reserved   Please turn over   
+1.4 Anita  saw a book from Ports SA advertising boat cruise s.  Hazel, her 
+daughter got it from  the Marine Expo at  the Mdantsane Indoor Sports 
+Centre.  She chooses the in side cabin price of the cruise from Barcelona 
+to Venice.  It is for 9 nights and the cost is from $1,587 to $4, 760.  
+   
+ 1.4.1  Calculate the maximum cost for cruising in an in side cabin of the 
+ship in rands.   (1$ = R 11,82 .) (2) 
+    
+ 1.4.2  There was a helicopter at the expo.  It costs R1  571,05 for a  
+30 minute flight  excluding VAT.   Calculate the cost of the flight for 
+an hour including VAT.  (3) 
+   [27] 
+  
+6 MATHEMATICAL LITERA CY P1  (EC/NOVEMBER 2015 ) 
+Copyright reserved   Please turn over   
+QUESTION 2   
+  
+2.1 Mr Mambo won a 68 km marathon from Bisho to East London in 2014 .  
+He was a member of Maxed Elite Running Club.   He received a cash 
+prize.  In 2013 the winner complete d the race in 3 hours 50 minutes and 
+36 seconds.   
+   
+ 
+  
+   
+  Male  Running Club  Time   
+ 1. Marko Mambo  Maxed Elite  04:07:05   
+ 2. Elias Mabane  Nedbank  04:10:16   
+ 3. Peter Muthubi  Running  04:12:40   
+ [Source:   Eastern Cape Today  (10 October –17 October 2014) ]  
+   
+ 2.1.1  Write down the number that appeared on Mr Mambo’s running 
+shirt.  (2) 
+    
+ 2.1.2  Convert  Mr Mambo ’s running time  to hours.  Give your answer to 
+the nearest hour.  (3) 
+    
+ 2.1.3  Calculate Mr Mambo’s average speed in kilometres per hour.  
+ 
+You may use the formula:  
+ 
+Average speed =         
+     (3) 
+  
+
+(EC/NOVEMBER 2015 ) MATHEMATICAL LITERACY P1  7 
+Copyright reserved   Please turn over   
+2.2 Use ANNEXURE A t o answer the following questions .  
+   
+ 2.2.1  Write down the 47014 train arrival and departure times at 
+Springfontein.  (2) 
+    
+ 2.2.2  Identify the station where train 73014 arrives  during the first hour 
+of the day.  (2) 
+    
+ 2.2.3  Study the logo of the Passenger Rail Agency of South Africa as 
+displayed below and answer the questions that follow.   
+    
+  
+ 
+ 
+Sketch the logo of the Passenger Rail Agency of South Africa.  
+ 
+ 
+ 
+Radius of a bigger circle     =  5 m  
+Radius of a smaller circle   =  250 cm   
+    
+  Calculate the area of the shaded part in m2. 
+ 
+You may use the formula:  
+ 
+Area of a circle =     , where    = 3,142  (5) 
+   [17] 
+ 
+  
+250 cm  
+8 MATHEMATICAL LITERA CY P1  (EC/NOVEMBER 2015 ) 
+Copyright reserved   Please turn over   
+QUESTION 3  
+  
+3.1 Study the pie charts below and answer the questions that follow.   
+   
+ FIGURE 1:  PERCENT DI STRIBUTION OF FI VE LEADING CAUSES 
+OF DEATH, BY AGE GROUP:   UNITED STATES, 
+PRELIMINARY 2011   
+   
+ 
+  
+ [Source: National Vital Statistics System:  Mortality ]  
+   
+ 3.1.1  Determine the total number of people aged 25 –44 dying from 
+accidents.  (2) 
+    
+ 3.1.2  Identify the cause s of death amongst 1 –24 year -old people  that 
+are less than 10%.  (2) 
+    
+ 3.1.3 Represent the percentages of causes of deaths for age group 25 –
+44 years on a line graph.   Use ANSWER SHEET 1 that is 
+provided.  (6) 
+    
+ 3.1.4  Calculate th e difference in the total number of deaths of the two 
+age intervals.  (2) 
+    
+ 3.1.5  Identify the age interval that has high mortality percentage in heart 
+disease.  (2) 
+    
+ 3.1.6  Give a reason why the accident percentage for the age group  
+1–24 is highe r than 25 –44 age group.  (2) 
+  
+
+(EC/NOVEMBER 2015 ) MATHEMATICAL LITERACY P1  9 
+Copyright reserved   Please turn over   
+3.2 The table below represents the 2014/15 National First Division results of 
+the teams that play in it.  Study the table below and answer the questions 
+that follow.   
+   
+ TABLE 1 : NATIONAL FIRST DIVISION TEAMS  AND THEIR RESULTS   
+ Teams  P W D L GD Points   
+ 1. Golden Arrows  29 15 12 2 20 57  
+ 2. Jomo Cosmos  29 14 8 7 22 50  
+ 3. Black Leopards  29 14 6 9 11 48  
+ 4. Thanda Royal Zulu FC  29 13 8 8 14 47  
+ 5. Cape Town All Stars  29 12 11 6 8 47  
+ 6. Milano United  29 9 15 5 7 42  
+ 7. Vasco da Gama  29 9 12 8 3 39  
+ 8. FC Cape Town  29 9 12 8 0 39  
+ 9. Baroka FC  29 9 10 10 5 37  
+ 10. Royal Eagles  29 10 7 12 -12 37  
+ 11. Highlands Park  29 10 6 13 0 36  
+ 12. African Warriors  29 9 9 11 -9 36  
+ 13. Santos  29 10 6 13 -11 36  
+ 14. Witbank Spurs  29 7 10 12 -10 31  
+ 15. Garankuwa United  29 5 7 17 -18 22  
+ 16. Maluti FET College  29 5 5 19 -30 20  
+ P = Played                        D = Drawn                  GD = Goal Difference  
+D = Drawn                         L = Lost    
+ [Source: www.kickoff.com/mobile ]  
+   
+ 3.2.1  Calculate the average points  won by the listed teams.  (3) 
+    
+ 3.2.2  Determine the mode total of the points earned by these teams.  (2) 
+    
+ 3.2.3 Identify the team that has the least points on the table.  (2) 
+   [23] 
+  
+10 MATHEMATICAL LITERA CY P1  (EC/NOVEMBER 2015 ) 
+Copyright reserved   Please turn over   
+QUESTION 4  
+  
+4.1 The learners enjoy the bus ride every morning when going to school 
+provided by the Department of Transport (Scholar Transport).  Study the 
+diagram showing the seating arrangement insid e the school bus.   
+   
+ FIGURE 2:   SEATING PLAN IN SIDE  A SCHOOL BUS   
+   
+ 
+ 
+                                                                                     N  
+   
+ 4.1.1  Calculate the number of passenger seats displayed inside the bus.  (2) 
+    
+ 4.1.2  On the first day the learners were given tickets in order to get to the 
+bus.  Nandi came late carrying a ticket B14.  Give Nandi directions 
+to get to her seat as she enters the door.  (3) 
+    
+ 4.1.3  Soso left his books in the fourth row on the wes tern side of the seat 
+(next to t he window).   Identify the seat number where Soso’s books 
+are. (2) 
+  
+
+(EC/NOVEMBER 2015 ) MATHEMATICAL LITERACY P1  11 
+Copyright reserved   Please turn over   
+4.2 Use the map in ANNEXURE B to answer the questions that follow .  
+   
+ 4.2.1 Identify the type of map displayed in ANNEXURE  B. (2) 
+    
+ 4.2.2  Calculat e the distance between Polokwane and Hammanskraal.  (2) 
+    
+ 4.2.3  One road will let you pass through the most number of toll plaza s 
+symbol s (T) between Johannesburg and Beitbridge.  Name the 
+road and the number of toll gates.  (2) 
+    
+ 4.2.4  Give the co mpass direction to Centurion from Devon.  (2) 
+   [15] 
+  
+12 MATHEMATICAL LITERA CY P1  (EC/NOVEMBER 2015 ) 
+Copyright reserved   Please turn over   
+QUESTION 5   
+  
+5.1 Thabo sees an advert isement for  a fridge at Bill ’s Furniture Shop and 
+wants to buy it.  He has R5 100,  45 in his bank account.   
+   
+ 
+  
+   
+ 5.1.1  Identify the capacity of the  advertised fridge in milliliters . (3) 
+    
+ 5.1.2  Write down the meaning of “ interest rate ”. (2) 
+    
+ 5.1.3  Calculate the amount Thabo owes the furniture shop after the 
+deposit has been paid.  (2) 
+    
+ 5.1.4  Calculate the total interest Thabo will pay , if Bill ’s Furniture Shop 
+charges simple interest at a rate of 21,75% per annum on the 
+balance after the deposit has been paid.  (3) 
+  
+Cash Price: R4 79 9,00 
+Hire Purchase:  
+Deposit: R479,90 and 
+pay the balance over 24 
+months.  
+ 
+(EC/NOVEMBER 2015 ) MATHEMATICAL LITERACY P1  13 
+Copyright reserved   Please turn over   
+5.2 The following data was  taken from 15 Grade 11 Math ematic s Learners 
+School Based Assessment (SBA) mark in percentage s.  
+   
+ Learners  1 2 3 4 5 6 7 8 9 10 11 12 13 14 15  
+ % obtained  32 35 36 37 42 46 49 46 46 58 62 64 66 67 38  
+   
+ 5.2.1  Determine the SBA median percentage.  (2) 
+    
+ 5.2.2  Determine the interquartile range of the SBA percentages.  (3) 
+    
+ 5.2.3  Determine the probability that a l earner randomly selected will 
+have a percentage of  more than  40%.  Give your answer in a 
+simplified fraction.  (3) 
+  [18] 
+   
+ TOTAL:  100 
+  
+14 MATHEMATICAL LITERA CY P1  (EC/NOVEMBER 2015 ) 
+Copyright reserved   Please turn over   
+ANSWER SHEET 1   
+  
+NAME AND SURNAME :  
+ 
+   
+GRADE 11:    
+  
+ 
+Types of 
+death  Accidents  cancer  Heart 
+disease  Suicide  Homicide  All other causes  
+% death  
+       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  Percentages of 5 leading  causes of death  
+(EC/NOVEMBER 2015 ) MATHEMATICAL LITERACY P1  15 
+Copyright reserved   Please turn over   
+ 
+NAME AND SURNAME:   
+ 
+   
+GRADE 11:    
+ 
+ANNEXURE A  
+ 
+ 
+  
+
+16 MATHEMATICAL LITERA CY P1  (EC/NOVEMBER 2015 ) 
+Copyright reserved   Please turn over   
+ANNEXURE B   
+  
+  
+ 
+[Source: www.aa.co.za ] 
+ 
+
+ 
+Copyright reserved   Please turn over   
+                                
+MARKS:  100  
+ 
+TIME:  2 hours  
+     
+ 
+This question paper consists of 9 pages  and 1 annexure.   
+  
+ 
+ 
+MATHEMATICAL LITERACY P1  
+ 
+EXEMPLAR 2013 NATIONAL  
+SENIOR CERTIFICATE  
+GRADE 11  
+ 
+ 
+Mathematical Literacy/P1  2 
+NSC – Grade 11 Exemplar  DBE/2013  
+ 
+ 
+Copyright reserved                                                                                                                                  Please turn over   
+ 
+INSTRUCTIONS AND INFORMATION 
+ 
+1. This question paper consists of FIVE questions. Answer ALL the questions.    
+ 
+2. Answer QUE STION 5. 1.4 on the attached ANNEXURE. Write your name and 
+class in the spaces on the ANNEXURE and hand in the ANNEXURE with your 
+ANSWER BOOK.    
+ 
+3. Number the answers correctly according to the numbering system used in this 
+question paper.    
+ 
+4. Start E ACH question on a NEW page.    
+ 
+5. You may use a n approved calculator (non -programmable and non -graphical)  unless 
+stated  otherwise .   
+ 
+6. Show ALL the calculations clearly.    
+ 
+7. Round off ALL the final answers to TWO decimal places, unless stated otherw ise.   
+ 
+8. Indicate units of measurement, where applicable.    
+ 
+9. Maps and diagrams are NOT necessarily drawn to scale, unless stated otherwise.    
+ 
+10. Write neatly and legibly.    
+Mathematical Literacy/P1  3 
+NSC – Grade 11 Exemplar  DBE/2013  
+ 
+ 
+Copyright reserved                                                                                                                                  Please turn over   
+ 
+QUESTION 1    
+ 
+1.1 1.1.1  Without rounding off, convert 2,35  to m.  (1) 
+ 
+ 1.1.2  A 3 kg pocket of onions costs R19,99.  
+ 
+Calculate the costs of onions per kg.   
+(2) 
+ 
+1.2  
+Spark 's Butchery is a popular butchery in 
+Karkloof. The butchery supplies meat to other butcheries in Howick and Pietermaritzburg.  
+ Spark 's Butchery ask s the following prices for 
+some of the ir products:  
+ 
+ 
+ 
+Product  Cost price per kg Selling price per kg 
+Lamb chops  R54,00  R85,00  
+Fillet steak  R76,00  A 
+Spare ribs  R43,00  R53,75  
+   
+NOTE:   Prices include 14% VAT.   
+ 
+ 
+ 1.2.1  Calculate the percentage mark -up that Spark's Butchery will have on     
+spare ribs . 
+ Use the formula:  
+Percentage mark -up = 
+%100riceP CostceriP Cost riceP Selling×−  
+(3) 
+ 
+ 1.2.2  Calculate how many kilogr ams of lamb chops Spark 's Butchery  could  buy 
+for R2 000.  (2) 
+ 
+ 1.2.3  Determine the value of A, the selling price of the fillet steak, if it has a 
+mark -up of 30%.   
+(3) 
+ 
+ 1.2.4  A customer buys 1,2 kg of spare ribs  and 0,5 kg of lamb chops. Calculate 
+the total amount paid by the customer.   
+(4) 
+ 
+ 1.2.5  Calculate the profit on the sale of 50 kg of spare ribs.   (4) 
+    [19] 
+  
+Mathematical Literacy/P1  4 
+NSC – Grade 11 Exemplar  DBE/2013  
+ 
+ 
+Copyright reserved                                                                                                                                  Please turn over   
+ 
+QUESTION 2    
+ 
+Yolanda wants to buy the home theatre system seen in the advertisement  below.    
+ 
+               
+   
+ 
+ 
+She chooses to buy it on hire purchase.     
+ 
+2.1 Calculate the deposit paid in rand.   (2) 
+ 
+2.2 Show , through calculation , that the total amount to be paid , excluding the deposit , is 
+R7 306,19 if the store charges simple interest at a rate of 11,5% per annum  on the 
+balance after the deposit has  been received .  
+(4) 
+ 
+2.3 Calculate the amount Yolanda must pay each month (the monthly inst alment).   (2) 
+ 
+2.4 The home theatre 's woofer has a length of 8 inches, a height of 12 inches and a width 
+of 6 inches.  
+ 
+If 1 inch = 2,54 cm , determine the height of the woofer in centimetres.   
+(2) 
+ 
+2.5 Yolanda budgets an amount of R300 per month for the p urchase of CDs and DVDs to 
+play on the system.   
+ 
+ 
+ 2.5.1  Calculate how much Yolanda will spend on the purchase of CDs and 
+DVDs  per year .  
+(2) 
+ 
+ 2.5.2  She buys CDs at an average of R120 per month and DVDs at an average of 
+R150 per month and uses the rest of her budget to buy other accessories.  
+ 
+Calculate how much she will have left per month to buy other accessories .  
+(3) 
+    [15] 
+ woofer        Home Theatre System  
+ 
+Cash Price: R6  599,99 
+OR 
+Hire Purchase:  
+10% deposit and pay the 
+balance over 24 months.  
+(Total amount to be paid 
+excluding the deposit is  
+R7 306,19 ) 
+Mathematical Literacy/P1  5 
+NSC – Grade 11 Exemplar  DBE/2013  
+ 
+ 
+Copyright reserved                                                                                                                                  Please turn over   
+ 
+QUESTION 3   
+ 
+3.1 Ms Senokoane is a squash coach at Katlego High School. She needs to repaint the walls of          
+the squash court as well as renew the lines marking the various regions of the court.  
+ 
+Below is a 3 -D scale drawing of a squash court. 
+ 
+ 
+      
+ 
+ Use the information in the diagram above and answer the questions that follow.    
+ 
+ 3.1.1  Write down the height of the tin  section  in cm.   (2) 
+ 
+ 3.1.2 Calculate the distance , in mm, from the service line to the out line against t he 
+front wall .  (2) 
+ 
+ 3.1.3 Calculate the  area, in m m2, of the service box . 
+ 
+Use t he formula:   Area = length × breadth   
+(3) 
+  
+4830 
+Right and back wall s removed for 
+clarity. All measurements given in  
+millimetres. All lines are 50 mm thick.  
+Mathematical Literacy/P1  6 
+NSC – Grade 11 Exemplar  DBE/2013  
+ 
+ 
+Copyright reserved                                                                                                                                  Please turn over   
+ 
+ 3.1.4 The front wall and the two identical side walls are to be painted white, with 
+the exception of the tin section , which is to be painted black.  
+ Calculate the area, in m
+2, that must be painted white . 
+ Use the following formula:  
+ Area to be painted = k(2 p  +  b)   –  b 
+× t , where  
+ k = height of the squash court , including out  line section  
+p = length of the squash court  
+b = breadth of the squash court  
+t = height of the tin  section   
+(6) 
+ 
+3.2 The type of paint to be used is such that 1 litre of paint covers 8 m2.  
+The white paint is sold in 5 litre containers.   
+ 
+ 
+ 3.2.1 Determine, to the nearest litre, the amount of white paint required to paint 
+the walls, excluding the tin  section .  
+(3) 
+ 
+ 3.2.2 Calculate the cost of the white paint if one 5 litre container  of paint  costs 
+R215,85.    
+(4) 
+    [20] 
+ 
+Mathematical Literacy/P1  7 
+NSC – Grade 11 Exemplar  DBE/2013  
+ 
+ 
+Copyright reserved                                                                                                                                  Please turn over   
+ 
+QUESTION 4    
+ 
+Clyde lives in Graaff -Reinet. He regularly travels to Adelaide to visit his parents. He also has 
+family that live  in Jansenville. The map indicates the names  of regional roads in rhombuses  
+and main roads in rectangles. National roads are indicated in a pentagon. The actual kilometre distance between sections of the road is also indicated on the map.  
+ 
+ 
+     
+ 
+4.1 Use the map above and answer the questions tha t follow.    
+ 
+ 4.1.1 Name  the regional road Clyde would use to travel from Graaf f-Reinet to 
+Adelaide.   
+(2) 
+ 
+ 4.1.2 Name THREE  towns and /or cities that Clyde  would pass on his way to 
+Adelaide.   
+(3) 
+ 
+ 4.1.3 Calculate the actual distance between  Graaf f-Rein et and Jansenville.   (3) 
+ 
+ 4.1.4  In which general direction is Pearston from Jansenville?   (2) 
+ 
+4.2 A distance between two points on the map is 3 cm. The actual (real -life) kilometre 
+distance between the two points is 15 km. Determine the scale used on t he map in 
+the form  1  :  ……   
+(4) 
+   [14] 
+   National road  Kilometre distance  
+Regional road  
+Mathematical Literacy/P1  8 
+NSC – Grade 11 Exemplar  DBE/2013  
+ 
+ 
+Copyright reserved                                                                                                                                  Please turn over   
+QUESTION 5  
+ 
+5.1 Mr Shibambo is the Grade 11 grade  head at his school. The school hosts an annual 
+Grade 11 dance. Learners choose the dress code for the event. Mr Shibambo conduct s 
+a survey to confirm the dress  code for the 2013 event . The results are recorded in the 
+frequency  table below.  
+             TABLE 1  
+DRESS CODE  BOYS  GIRLS  
+ 
+FORMAL  
+ 20 40 
+ 
+TRADITIONAL DRESS  
+ 5 15 
+ 
+FANCY DRESS  
+ 5 5 
+ 
+CASUAL  WEAR  
+ 30 10 
+   
+ 
+                
+ 
+ 
+ 
+ 
+ 5.1.1 Calculate the tot al number of learners who responded to the survey.   (2) 
+ 
+ 5.1.2  Calculate the percentage of the learners who preferred CASUAL wear as 
+the dress code for the Grade 11 dance.   
+(3) 
+ 
+ 5.1.3 Which dress code is the least preferred by the  Grade 11 learners ?  (2) 
+ 
+ 5.1.4 Use the data in TABLE 1 above to draw a compound bar graph on    
+ANNEXURE A.   
+(7) 
+ 
+ 5.1.5 If a Grade 11 learner is chosen at random from the group that was 
+interviewed, what is the probability that the  learner :  
+ 
+ 
+ (a) Preferred f ormal wear   (2) 
+  
+(b)  
+Did not prefer f ancy dress   
+(2) 
+ 
+Mathematical Literacy/P1  9 
+NSC – Grade 11 Exemplar  DBE/2013  
+ 
+ 
+Copyright reserved                                                                                                                                    
+ 
+5.2 Mr Shibambo recorded the test results for his Grade 11 Mathematical Li teracy class 
+in terms of gender.  
+ The results are listed below.  
+ Boys ' scores  
+48 56 57 58 65 66 66 
+68 75 77 78 81 85 96 
+  
+Girls ' scores 
+58 75 49 79 39 99 56 
+67 98 89 59 75 75  
+  
+ 
+    
+ 
+ 5.2.1  Arrange the girls' scores in ascending order.   (1) 
+ 
+ 5.2.2  Write down the girl s' modal score.   (2) 
+ 
+ 5.2.3 Calculate the boy s' mean score.   (3) 
+ 
+ 5.2.4 Calculate  the boy s' median score.   (2) 
+ 
+ 5.2.5 Determine the range  of the  girls' scores.   (2) 
+ 
+ 5.2.6 Write down the probability that a girl chosen at random scored 75 for       
+the test.   
+(2) 
+ 
+ 5.2.7 Write down the probability that a boy chosen at random scored more than 
+75 for the test.   
+(2) 
+    [32] 
+ 
+ TOTAL:   100 
+  
+Mathematical Literacy/P1   
+NSC – Grade 11 Exemplar  DBE/2013  
+ 
+ 
+Copyright reserved                                                                                                                                    
+ NAME: ____________________________________ CLASS: _______ 
+  
+ANNEXUE A  
+   
+QUESTION 5.1.4  
+ 
+ 
+DRESS CODE FOR THE DANCE
+051015202530354045
+FORMAL
+TRADITIONAL
+DRESS
+FANCY
+DRESS
+CASUAL
+WEAR
+Dress codeNumber of learners
+ 
+ 

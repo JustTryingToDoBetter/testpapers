@@ -1,0 +1,4856 @@
+Files:
+- C:\Users\umorrja\projects\testpapers\grade11_mathematical_literacy_papers\2018\MATHS LIT P2 GR11 MEMO NOV 2018_English.pdf
+- C:\Users\umorrja\projects\testpapers\grade11_mathematical_literacy_papers\2017\MATHS LIT P2 GR11 MEMO NOV2017_English.pdf
+- C:\Users\umorrja\projects\testpapers\grade11_mathematical_literacy_papers\2016\MLT P2 GR11 MEMO ENG NOV 2016.pdf
+- C:\Users\umorrja\projects\testpapers\grade11_mathematical_literacy_papers\2015\Gr11-mlit-P2-N15-MEMO-Eng.pdf
+- C:\Users\umorrja\projects\testpapers\grade11_mathematical_literacy_papers\2015\MATHS LIT P1 MEMO GR11 SEPT 2015 ENG FINAL.pdf
+- C:\Users\umorrja\projects\testpapers\grade11_mathematical_literacy_papers\2014\MLIT P1 GR11 MEMO NOV2014 AFR.pdf
+- C:\Users\umorrja\projects\testpapers\grade11_mathematical_literacy_papers\2014\MLIT P1 GR11 MEMO NOV2014 ENG.pdf
+- C:\Users\umorrja\projects\testpapers\grade11_mathematical_literacy_papers\2014\MLIT P2 GR11 MEMO NOV2014 ENG.pdf
+
+--- Summary ---
+ 1RT Correct values for 
+guests  
+1CA  Total number for 
+grams  for guest 1  
+ 
+ 
+1CA Teaspoons sugar 
+guest 1  
+ 
+ 
+ 
+1CA  Total no of grams 
+for guest  
+ 
+1CA Teaspoons sugar 
+guest 2 
+  
+1O Invalid                   (6) L4 
+M 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+(EC/NOVEMBER 2018 ) MATHEMATICAL LITERACY P2  5 
+Copyright reserved   Please turn over   
+ 2.2.3  
+ 
+  
+  
+5M One mark for each 
+correct bar  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(5) L2 
+D 
+ 
+   [22]  
+ 
+QUESTION 3 [20]  
+Question  Solution  Explanation  Topic 
+and 
+Level  
+3.1 3.1.1  Distance from  Durban to Nelspruit  = 689 km 
+ 
+Speed = 𝐷
+𝑇  
+110 = 689
+𝑡𝑖𝑚𝑒  
+110 × time = 689  
+Time = 689
+110  
+         = 6,26  hrs  
+         = 6hrs  16 min    
+1RT Distance  
+ 
+ 
+1SF Substituting correct 
+values  
+ 
+1S Change subject of 
+the formula  
+1CA Answer in hours  
+1C Converting 6,26 hrs 
+to minutes  
+1CA Hours and min  (6) L3 
+Maps  
+and 
+M 
+ 3.1.2 Ascending order  
+58; 273; 292; 342; 475; 532; 656; 1050; 1120; 
+1463  
+ 
+Median = 475 +532
+2  
+             = 503,5   
+1RT Correct values  
+1M Ascending order  
+ 
+1M Concept of median  
+1CA Median  
+(4) L2 
+Maps  
+and 
+D 
+ 
+ 
+ 
+ 
+  051015202530354045Amount of sugar in grams
+Different DrinksAmount of sugar in grams for 
+different drinks
+6 MATHEMATICAL LITERACY P2  (EC/NOVEMBER 201 8) 
+Copyright reserved   Please turn over   
+ 3.1.3 Pretoria:  
+1120 +273 +342 +292 +532 +58+1050 +656 +1463 +475
+10  
+=6261  
+10   
+=  626,1 km  
+ 
+Port Elizabeth:     
+𝟏𝟏𝟐𝟎 +𝟏𝟑𝟗𝟑 +𝟏𝟑𝟕𝟑 +𝟏𝟏𝟐𝟐 +𝟕𝟓𝟐 +𝟏𝟎𝟔𝟐 +𝟑𝟎𝟎 +𝟗𝟐𝟕 +𝟕𝟓𝟔 +𝟔𝟑𝟓
+𝟏𝟎 
+9 440
+10 = 944 km  
+Difference = 944 – 626,1  
+                 = 317,9 km  1M Adding all correct 
+values  
+ 
+1M Divide by  10 
+1CA Mean 
+ 
+ 
+1RT Adding all correct 
+values  
+1CA Mean 
+ 
+1M Subtraction  
+1CA Difference          (7) L2 and 
+L3 
+Maps  
+and D 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3.1.4 Distance = 998  km  
+Cost = 70 × 998  
+         = 69860  cents 
+         = 698,60  
+         =R699   
+OR 
+998 × 0,7   
+= 698,60   
+= R699   1RT Correct distance  
+1M Multiplying by  70 
+ 
+1R Nearest rand  
+ 
+ 
+1RT Correct distance  
+1M Multiplying by 70  
+1R Nearest rand         (3) L2 
+F and 
+Maps  
+ 
+ 
+ 
+ 
+ 
+ 
+   [20]  
+ 
+QUESTION 4 [27]  
+Question  Solution  Explanation  Topic 
+and 
+Level  
+4.1  Area of circle =  𝝅×𝐫𝐚𝐝𝐢𝐮𝐬 ×𝐫𝐚𝐝𝐢𝐮𝐬                                           
+                        = 3,142 × 0,45 × 0,45  
+                        = 0,636255  m2  
+ 
+Area  of semicircle = 𝝅 × 𝒓𝒂𝒅𝒊𝒖𝒔  × 𝒓𝒂𝒅𝒊𝒖𝒔
+𝟐  
+                        = 3,142  ×4,9×4,9
+2  
+                                = 37,71971 m2  
+ 
+Difference = 37, 71971 - 0,636255  
+                  = 37,08 m2  
+ 1A Radius  
+1SF Substitution  
+1CA Area of centre  
+ 
+ 
+ 
+ 
+ 
+1CA Area of semi -circle  
+ 
+1CA Difference  
+NPR                           (5) L3 
+M 
+ 4.2.1  169 seats  
+ 3A No of seats            (3) L2 
+Maps  
+ 4.2.2  4 
+15   1A Numerator  
+1A Denominator        (2) L2 
+P 
+ 
+ 
+ 
+  
+(EC/NOVEMBER 2018 ) MATHEMATICAL LITERACY P2  7 
+Copyright reserved   Please turn over   
+ 4.2.3   
+Right side = 171  
+Total a mount = 171  × 150  
+                      = R25 650  
+ 
+Left side = 1 69 × 150  
+               = 25 3 50  
+Midd le = 255  
+Cost of 1 seat in the middle   = 108
+100 × 150  
+                                              = R162  
+Total amount  = 255 × 162  
+                      = R41 310  
+Total  amount for all seats  
+= 25 650 + 25  350 + 41  310   
+= R92  310  
+Statement invali d  CA from 4.2.1  
+1A No of seats on right 
+side 
+1 CA Amount for right 
+seats  
+1CA Amount for left 
+seats  
+ 
+ 
+1A Amount for a middle  
+seat 
+1CA Total a mount for 
+middle  seats  
+ 
+1M Adding all values  
+1CA Total amount  
+1O Invalid                  (8) L4 
+F 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4.3.1  Grade 11 boys = 191 – (54 + 73)    OR  137 – 73 
+                        = 191 – 127            =       64  
+                        = 64  
+ 
+Total  number of learners  = 158 + 137 + 99  
+                                         = 394   
+% = 64
+394 × 100  
+    = 16, 2%   
+1M Subtracting  
+1CA No.
+ 2A 
+(2) DH 
+L2 
+    
+3.3 Modal value = 15 000  
+ 15
+100 × 15 000   
+= R2 250  
+ 
+Year 1 = 105
+100 × 2 250  
+            = R2 362,50  
+ 
+Year 2 = 105
+100 × 2 362,50  
+             = R2 480,63  1RT Correct mod al value  
+1M Calculated 15% of 
+modal value  
+1CA Value  
+ 
+ 
+1M Increased by  
+ 
+5% 
+1CA First year  
+ 
+1CA Final amount  
+                                      (6) DH&F  
+L3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.4 0 OR 0% OR Impossible  
+2A  Answer                     (2) DH 
+L2 
+  
+(EC/NOVEMBER 2017)  MATHEMATICAL LITERACY P2  7 
+Copyright reserved   Please turn over   
+QUESTION 4 [31]   
+  
+4.1 4.1.1  A = 21 168 700  + 2 305 800  + 677 000  + 2 214 400 
+    = 26 365 900   
+ 
+B = 22 165  000
+27 635  900   × 100  
+   = 80,2%    1 MA Added  correct 
+values  
+1CA  Total 
+ 
+1 Correct values  
+1CA %                    (4) DH 
+L2 
+     
+ 4.1.2  Indian / Asian  2A Answer  
+(2) DH 
+L2 
+     
+ 4.1.3  Two million two hundred and  fourteen thousand four 
+hundred   2A Answer                          
+                               (2)             DH 
+L2 
+     
+4.2 4.2.1  57  – 38  = 19  1M Correct number of 
+seats on the left  
+1M Subtraction  
+1M Correct number of 
+seats on the right  
+1CA A nswer           (4) M&P  
+L2 
+     
+ 4.2.2 Percentage of seats for the handicapped 4
+38 x 100  
+ 
+10,526315789  
+ 
+10,53%  1RM Correct values 
+numerator and 
+denominator  
+1M Multiplied  by 100  
+1CA Answer           (3) M&P  
+L3 
+     
+4.3 4.3.1  Total distance = 35  + 57 + 11 + 21 + 59 + 41  
+                        = 224  km  
+Speed = 𝑑𝑖𝑠𝑡𝑎𝑛𝑐𝑒
+𝑡𝑖𝑚𝑒 
+105 = 224
+𝑡𝑖𝑚𝑒  
+Time = 224
+105  
+       = 2,133 hours  
+Minutes = 0,133 × 60   
+              = 7,98  
+2 hours 8 minutes   
+Time of arrival = 7 :00 + 2 hours 8 minutes  
+                        = 9:08 am  
+ 
+Claim is valid   1RM Correct values  
+  
+1CA Distance  
+ 
+1M Substituting in 
+formula  
+ 
+1 S Chang e subject of 
+formula  
+1CA Time in hours  
+1C Time in minutes  
+1CA Arrival time  
+ 
+1O Claim valid       (8) M, 
+M&P  
+L3&4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+8 MATHEMATICAL LITERACY P2  (EC/NOVEMBER 2017)  
+Copyright reserved   Please turn over   
+ 4.3.2   
+Amount before increase =2,82
+1,068  
+ 
+                                       = R2,64  
+ 
+Total distance travelled =  224 x 2  
+                                      = 448 km   
+ 
+Amount                         = 448 x 2,64   
+ 
+                                      = R1 182 ,72  
+ 
+                                      = R1  183  CA from 4.3.1  
+1M Divided  by 1,068  
+ 
+1A Amount  
+ 
+I CA Distance  
+ 
+1M Multiplied  by 
+amount calculated  
+ 
+1CA Amount  
+ 
+1R Nearest rand     (6) F 
+L3 
+ 
+ 
+ 
+ 
+ 
+     
+ 4.3.3  R61  
+R349  1A R61  
+1A R349                (2)  M&P  
+L2 
+     
+  TOTAL:  100 
+ 
+ 
+
+ 
+  
+ 
+NATIONAL  
+SENIOR CERTIFICATE  
+ 
+ GRADE 1 1  
+ 
+NOVEMBER  2016 
+ 
+MATHEMATICAL LITERACY P2  
+MEMORANDUM  
+ 
+MARKS:  100 
+  
+Symbol  Explanation  
+M  Method  
+MA  Method with accuracy  
+CA  Consistent accuracy  
+A  Accuracy  
+C  Conversion  
+S  Simplification  
+RT/RG/RM  Reading from a table/Reading from a graph/Read from map  
+F  Choosing the correct formula  
+SF  Substitution in a formula  
+J  Justification  
+P  Penalty, e.g.
+ 1M Adding 
+45 min and 
+15 min 
+1A  
+1O Opinion  
+1A Adding 
+1h57 and 
+40 min 
+1A Time to 
+arrive at home  
+1O 
+Conclusion  (6) 
+1.2.3   Cleaning of the cinema  
+ To prepare for the next showing  
+OR 
+ Allow the cinema crew to take a break  
+Accept any other relevant reasons  1A First 
+reason  
+1A Second 
+reason  
+(2) 
+1.3 1.3.1  Regular pricing = 75 + 55  = R130  1A Identifying 
+the correct 
+values  
+1M Adding  
+1A (3) 
+1.3.2   It is too expensive on a Sunday or 
+weekends   
+OR 
+ On other days its much cheaper   
+Accept any other explanation  2O 
+Explanation  
+(2) 
+    [20] 
+  
+(EC/NOVEMBER 2015 ) MATHEMATICAL LITERACY P2  3 
+ 
+Copyright reserved   Please turn over  QUESTION 2   
+2.1 2.1.1  (a) Total cost (in rand) = R200  + number of 
+minutes more than 150  x R0,60  1A Rental  
+1A Minutes 
+more than 150  
+1A Multiply by 
+60 cents   
+ OR   
+ Total cost (in rand) = R 200  + (number 
+of minutes more than 150)  x R0,60  1A Rental  
+1A Minutes 
+more than 150  
+1A Multiply by 
+60 cents   
+ OR   
+ Total cost (in rand) = R200 + (number of 
+minutes – 150) x R0,60  1A Rental  
+1A Minutes 
+more than 150  
+1A Multiply by 
+60 cents  (3) 
+(b) Total cost (in rand) = R200 + (number of 
+minutes – 150) x R0,60  
+= 200 + (625 – 150) x 0,60  
+= 200 + (475 x 0,60)  
+= 200 + 285  
+= R485,00  CA from 
+2.1.1  (a) 
+1SF  
+1S 
+1S 
+1A (4) 
+2.1.2  
+ 1 Mark for line 
+0–100 
+minutes  
+1 Mark for the 
+correct break -
+even point  
+2 Marks for 
+any other 3 
+points plotted 
+correctly  
+1M Labelling 
+Call Package 
+A (5) 
+2.1.3  For the same number of minutes used the same 
+amount will be paid for both Call packages  1A refer to 
+minutes  
+1A refer to 
+cost (2) 
+2.1.4  Break -even point (450 ;380 ) CA from 2.1.2  
+1CA 450 
+minutes  
+1CA 380 rand  
+If order 
+incorrect 0  (2) 
+  
+Call package A 
+Call package B 
+4 MATHEMATICAL LITERACY P2  (EC/NOVEMBER 2015 ) 
+ 
+Copyright reserved   Please turn over   2.1.5  Call package A  
+Total cost = 100 + (451 – 100) x 0,80  
+                 = 100 + (351 x 0,80)  
+                 = 100 + 280,8  
+                 = R 380,80  
+ 
+Call package B  
+Total cost = 200 + (451 – 150) x 0,60  
+                 = 200 + (301 x 0,60)  
+                 = 200 + 180,60  
+                 = R 380,60  
+ 
+Difference = R 380,80 – R 380,60  
+                  = R 0 ,20  
+ 
+OR 
+Call package A - Call package B  
+= 100 + (451 – 100) x 0,80  – 200 + (451 – 150) x 
+0,60 
+= 100 + (351 x 0,80) – 200 + (301 x 0,60)  
+= 100 + 280,80 - 200 + 180,60  
+= R 380,80  – R 380,60  
+= R 0 ,20   
+1SF  
+ 
+ 
+1CA 
+ 
+ 
+ 
+ 
+ 
+1CA 
+ 
+ 
+1CA 
+Difference  
+ 
+ 
+1SF  
+ 
+1CA 
+1CA 
+1CA 
+Difference  (4) 
+2.1.6  Would recommend that Mr. Gardner use Call 
+Package A  
+With R 300 on Call Package A he will get 350 
+minutes  
+With R 300 on Call Package B he will get 316 
+minutes to 317 minutes  1CA Choosing 
+correct 
+package  
+2 CA  
+2 A (5) 
+2.2 Number of households = 10  x 10 x 10 x 10  
+                                     = 10 000  1A Identifying 
+10 
+1M Multiplying 
+10 four times  
+1CA (3) 
+  [28] 
+  
+(EC/NOVEMBER 2015 ) MATHEMATICAL LITERACY P2  5 
+ 
+Copyright reserved   Please turn over  QUESTION 3   
+3.1 3.1.1  A = 17 ,20 x 1,14  
+   = R 19,61  
+ 
+ 
+B = 31,95   
+        1,14  
+   = R28,03  OR A=17,20 + (17,20 x 0,14)  
+   = 17,20 + 2,41  
+   = R 19,61  1M 
+1A 
+ 
+ 
+1M 
+ 
+1A (4) 
+3.1.2  No, she will not pay for the first 6 kl  1A 
+1O (2) 
+3.1.3  Payment for 19,5 kl  
+= (6 x 0) + (4,5 x 7,60) + (9 x11,61)  
+= R 0 + R 34,20 + R 104,49  
+= R 138,69 x 1,14 
+= R 158 ,11  1M 
+1S 
+1A 
+1A Including 
+VAT (4) 
+3.2 3.2.1  Diameter = 750 mm,  
+therefore radius = 375 mm = 0,375 m  
+Height = 2230 mm = 2,230 m  
+ 
+Volume = 3,142 x 0,375 m2 x 2,230 m  
+             = 3,142 x 0,140625 m2 x 2,230 m  
+             = 0,985311562 m3  x 1000  
+             = 985,311562 /  
+Accept 985,312  
+ 
+Therefore;  
+1000 l  ≠ 985,311562 l OR 985,312  1A Finding 
+radius  
+ 
+ 
+1A Convert 
+mm to m 
+(both)  
+1SF 
+1S radius2 
+1CA in litres  
+1A (6) 
+3.2.2  The given volume was rounded to the nearest 
+1000   
+Consumers are under the impression that you buy 
+a tank with a capacity of 1 000 l, while it only has a 
+tank capacity of 985 l.  1O 
+ 
+ 
+2O (3) 
+3.2.3  Tank can overflow if it is filled above the 
+recommended filled height  2R (2) 
+3.2.4  Any of the vertical round water tanks  2A (2) 
+3.3 Bar graph and  
+Pie chart  1A Bar graph  
+1A Pie chart  (2) 
+  [25] 
+  
+6 MATHEMATICAL LITERACY P2  (EC/NOVEMBER 2015 ) 
+ 
+Copyright reserved   Please turn over  
+ QUESTION 4   
+4.1 4.1.1  Mean = 26 + 29 + 22 + 23 + 22 + 21 + 24   
+                                       7  
+          = 167 
+               7 
+          = 23,85714286  
+          = 24 ºC  1M adding all 
+day temp  
+1M/7  
+ 
+1CA 
+1CA (4) 
+4.1.2  Range = 29 ºC – 15 ºC  
+            = 14ºC  1M concept of 
+range  
+1A  (2) 
+4.1.3  Median = 15; 16; 17; 17; 17; 20; 21  
+             = 17 ºC  1M Arrange 
+values  
+1A (2) 
+4.1.4  Night temperatures decreases from Wednesday to 
+Friday and then increases on Saturday  and then 
+from Sunday remains constant until Tuesday   2O (2) 
+4.1.5  Monday with  
+4 ºC  1RT Day  
+1A Difference  (2) 
+4.1.6  Friday  2RT (2) 
+4.1.7  
+ Any 4 pairs 
+correctly 
+plotted  
+1Mark for 
+legend  
+1 Mark correct 
+graph  (6) 
+4.2 It is highly unlikely that it will rain on Friday because it is 
+only 30% which is small chance for rain to fall  2O (2) 
+4.3 4.3.1  Time = Distance  
+              Speed  
+ 
+         =  64,7 km   
+             90 km/h  
+         = 0,7188….hours x 60  
+         = 43,133…  
+         = 43 minutes   
+ 
+ 
+1M 
+ 
+1S 
+ 
+1A (3) 
+4.3.2  Your speed will decrease therefore it will take you 
+longer to complete the trip  1A refer to 
+speed  
+1A refer to 
+time (2) 
+   [27] 
+  TOTAL:  100 
+ 010203040
+Wo Do VrSaSoMa DiTemperature in °C 
+Days  Day and night 
+temperatures for George 
+from 14 Jan - 20 Jan 
+2015  
+Day temp
+Night temp
+
+ 
+  
+ 
+NATIONAL  
+SENIOR CERTIFICATE  
+ 
+ GRADE 1 1  
+ 
+NOVEMBER  2015 
+ 
+MATHEMATICAL LITERACY P1  
+MEMORANDUM  
+ 
+MARKS:  100 
+  
+ 
+Symbol  Explanation  
+M  Method  
+A Accuracy  
+CA  Consistent accuracy  
+RT/RG/RM  Reading from a table/Reading from a graph/Read from map  
+RP Reading from the plan  
+SF  Substitution in a formula  
+S Simplications  
+P  Penalty (no units, incorrect rounding off etc.)
+2 MATHEMATICAL LITERACY P1  (EC/NOVEMBER 2015 ) 
+Copyright reserved   Please turn over   
+QUESTION 1  
+ 
+Question  Solution  Explanation  Mark  
+    
+1.1 1.1.1  R169 x 24 + R55 x 24   
+R4 056 + R1  320  
+= R5  376  2M 
+1S 
+1A (4) 
+     
+ 1.1.2  R0,79 x 8  
+R6,32  1M 
+1S (2) 
+     
+ 1.1.3  R1 999 +  R1 999 x 4,4%   OR R1 999 x 1,044  
+= R1 999 + R87,96           = R2 086,96  
+= R2  086,96   
+OR 
+R1,999 x 0,144  
+R2 086,86  1M 
+ 
+1S 
+(2) 
+     
+1.2 1.2.1  R0,35 x 25  
+= R8,75   1M 
+1A (2) 
+     
+ 1.2.2  18:15   
+= 6:5    1M 
+1A (2) 
+     
+ 1.2.3 25 = 5  
+35       7 
+= 0,71 or 71% ( Answer only – full marks)  1M 
+1A 
+(2) 
+     
+1.3 1.3.1 Month 1:  R1  525 x 20%  
+                = R305,00         
+Month 2:  R1 830,00 x  20%   
+                 = R366, 00 
+Interest     = R366 +  R305 = R671,00   
+1M 
+ 
+ 
+1S (2) 
+     
+ 1.3.2  R400 x 11 x 8   + R2  000 x 8 + R671   
+= R35  200 + 16  000 + R671  
+= R51  871,00   2M 
+1CA 
+Multiplication 
+by different 
+number not 11  (3) 
+     
+ 1.3.3  R400 x 11+ R2000 + R671 = 400  000 
+R4 400 +  R2 000 + R671   
+= R7  071,00  
+OR 
+       
+  + R671 = R7  071,00  1M 
+1S 
+1S 
+(3) 
+  
+(EC/NOVEMBER 2015 ) MATHEMATICAL LITERACY P1  3 
+Copyright reserved   Please turn over   
+Question  Solution  Explanation  Mark  
+1.4 1.4.1  R4 760 x 11,82    OR 4,760 x 11,82  
+= R56 263,20            = 56,26  1M 
+1A (2) 
+     
+ 1.4.2  R1 571,05 x 114%  OF R1 571,05 x 14%  
+R1 790,997                 R219,95  
+R1 790,997 x 2   R1 571,05 + R219,95  
+=  R3 581,99         R1 571,05 + R219,95  
+OR 
+R1 571,05 x 14%  
+= R 219,95  
+= R1 571,05 + R219,947   
+= R1 790,997 x 2  
+= R3 581,99   
+OR 
+R1 571,05 x 2  
+= R3 142,10 x 114%  
+= R3 581,99  1M 
+1S 
+1A 
+(3) 
+    [28] 
+  
+4 MATHEMATICAL LITERACY P1  (EC/NOVEMBER 2015 ) 
+Copyright reserved   Please turn over   
+QUESTION 2  
+ 
+Question  Solution  Explanation  Marks  
+    
+2.1 2.1.1  227  RD (2) 
+     
+ 2.1.2  7  ÷  60 = 0,1166666667 h  
+5 ÷ (60 x 60) = 0,00138888888 h  
+4 h + 0,1166666667 h  + 0,00138888888 h  
+= 4,118055556 hours  
+= 4 hours  2M 
+1S  
+ 
+(3) 
+     
+ 2.1.3  Average speed =      
+             
+ 
+                         = 16,5  km/hour 1S 
+ 
+2S 
+Penalise for unit  (3) 
+     
+2.2 2.2.1 Arrival time       – 18:56   
+Departure time – 19:00   2RT 
+(2) 
+     
+ 2.2.2 Bloemfontein   2RT (2) 
+     
+ 2.2.3  Area of a bigger circle – Area of a smaller circle   
+3,142 x (5  m)2 – 3,142 x (2,5  m)2      
+= 78,55 m2 – 19,6375 m2   
+= 58,91 m2         (Accept 58,91 m2)  1F 
+ 
+2SF 
+1S 
+1A (5) 
+    [17] 
+  
+(EC/NOVEMBER 2015 ) MATHEMATICAL LITERACY P1  5 
+Copyright reserved   Please turn over   
+QUESTION 3   
+  
+Question  Solution  Explanation   
+    
+3.1 3.1.1  113 341 x 26%   
+= 113 341 x 0,26   
+= 29 468,66  
+= 29 469     
+ 
+ 
+(2) 
+     
+ 3.1.2  (i)  Cancer  
+(ii) Heart disease     
+(2) 
+     
+ 3.1.3  
+1 mark per  three correctly plotted points                       = 2 marks  
+2 marks for correctly labelling x -axis and y -axis             = 2 marks  Types of 
+death  Accidents  Cancer  Heart 
+disease  Suicide  Homicide  All other 
+causes  
+% death  26 13 12 11 6 32 232 
+ 
+                                                                Causes of death   
+1 mark for completing the table                                     = 1 mark  
+1mark for joining points with a straight line                    = 1  mark  
+(6) 
+    
+ 3.1.4  113 341 – 39 213  
+= 74 128  1M 
+1A (2) 
+     
+ 3.1.5 25–44 years   2RG (2) 
+     
+ 3.1.6 They drive recklessly trying to impress those 
+people of their age about their driving skills.
+2 WISKUNDIGE GELETTERDHEID V1  (NOVEMBER 2014)  
+Kopiereg voorbehou   Blaai om asseblief   
+VRAAG  1     
+   
+VR OPLOSSING  Finansies   
+1.1.1  R70,17 x 3 + 2 x R2  367,54 + R28,06 x 3 + R28,94      1M  
+ R210,51 + R4  735,08 + R84,18 + R28,94                      1S  
+ R5 058,71        1A (3) 
+    
+1.1.2          
+       1M 
+ 
+    
+ = R1,40  1 A (2) 
+    
+1.1.3  Desember  2RT (2) 
+    
+1.1.4  BTW -nommer  8754896368     2RT (2) 
+    
+1.1.5  Snymasjien  RYOBI 43CC     2RT (2) 
+    
+1.1.6  Q 000002158         2RT (2) 
+    
+  Meting   
+1.1.7  1 000 mℓ = 1 ℓ   
+ 2 00 mℓ   = x   1M  
+        
+       =       
+       
+           
+0,2 ℓ         = x         
+ 
+ 
+1A (2) 
+    
+1.1.8 12 x 13        
+  = 156 maande      (2) 
+    
+  Data 
+Hantering   
+1.2.1 Skool E   2A (2) 
+    
+1.2.2 Skool A fooie  – Skool B f ooie   
+ R14 000  –  R12 000     1M  
+ = R2  000,00                                1 A (2) 
+   [21] 
+  
+(NOVEMBER 2014)  WISKUNDIGE GELETTERDHEID V1  3 
+Kopiereg voorbehou   Blaai om asseblief   
+VRAAG  2   
+   
+VR OPLOSSING  Finansies   
+2.1.1                   
+      
+2SF  
+    
+ = R 168 947,37  
+OF 
+R192  600 x   
+    
+ 
+R23 652,63 
+R19 6200 – R23 652,63  
+= R 168 947,37   1 A 
+ 
+ OF   
+ R192  600: x  = 114% : 100   
+        x =  R168  947,37     
+(3) 
+    
+2.1.2          
+    = R13,2 8  1D 
+1A (2) 
+    
+2.2.1  Wins  = R7  200,00 – R3 339,14   
+         = R3  860,86     1SF 
+1 A (2) 
+    
+2.2.2  R350,00 x 4 = R1  400,00   OF     1% of R350  
+R1 400,00 x 1%                           = R3,50 x  4 
+= R14,00 ŉ maand                         = R14,00  1M 
+1S 
+1A (3) 
+    
+2.2.3                      –        
+         x 100  
+                   =   
+    x 100  
+                    
+                   = 5,56 o f 5,6%   1SF 
+1S 
+ 
+1CA 
+(3) 
+    
+2.3.1      
+    
+=   
+           
+ = 0,00074   1D 
+1 S 
+1A 
+(3) 
+    
+2.3.2  Paaiement verskuldig  =                 
+   + R21,00   
+                                       = R5  753,05 ÷12 + R21,00  
+                                   = R500,42  1SF 
+1S 
+1CA (3) 
+    
+2.3.3  R6 879   
+379,83  
+= R 18,1107  
+= R18,11  2D 
+1A 
+ 
+(3) 
+   [22] 
+  
+4 WISKUNDIGE GELETTERDHEID V1  (NOVEMBER 2014)  
+Kopiereg voorbehou   Blaai om asseblief   
+VRAAG  3:  ME TING    
+   
+3.1.1  Oppervlakte  = 162  m x 160  m  
+                    = 25 920 m2  1SF 
+1A (2) 
+    
+3.1.2  Omtrek = 2(160  m + 162 m)  
+             = 644  m 1SF 
+1A (2) 
+    
+3.1.3  Aantal gatte   = 324 ÷ 2 – 1 
+                     = 162 – 1 
+                     = 161 gatte  1SF 
+1S 
+1A (3) 
+    
+3.1.4  BO = 2(6,2 m x  3 m) + 2(5,1  x 3 m) – (1,71 m2 + 4,875  m2) 
+      = 37,2 m2  + 30,6 m2 – 6,585 m2  
+      = 61,215 m2   
+1SF 
+1S 
+1A (3) 
+    
+3.1.5  1𝓵 = 6 m2  
+   x  = 61,215   
+61,215 ÷6 =  x 
+              x = 10,2025  / 5   
+                 = 2,0405  
+Daarom 3 (5 ℓ) blikke verf  1M 
+ 
+1M 
+ 
+1A (3) 
+    
+3.2        
+          
+      Penaliseer vir  geen eenhede  
+ 
+= 34,26 kg/m2  
+Aanvaar  114 kg (33,97  kg/m2) 1CV 
+1SF 
+1A 
+1U (4) 
+   [17] 
+   
+VRAAG  4   
+   
+4.1.1  C2  2RM  (2) 
+    
+4.1.2  Indiese  oseaa n  2RM  (2) 
+    
+4.1.3  Swaziland  en Mosambie k  2RM  (2) 
+    
+4.1.4  6,5 x 2600 000  =16 900  000  
+16 900 000 ÷100 000  
+= 169 km   1M 
+1C 
+1A (3) 
+    
+    
+4.1.5                                 .Big Bend  
+ 
+                       .Lavumisa  
+ 
+                     
+                    .Mkuze 
+ 
+                                  .Phinda  3RM  
+(3) 
+ 
+(NOVEMBER 2014)  WISKUNDIGE GELETTERDHEID V1  5 
+Kopiereg voorbehou   Blaai om asseblief   
+4.1.6  Kwazulu -Natal   2A (2) 
+    
+4.1.7  Qumbu   
+Mount Frere   2A 
+(2) 
+   [16] 
+   
+VRAAG 5:  DATA HANTERING   
+   
+5.1.1  Limpopo    2RT (2) 
+    
+5.1.2  Gauteng : Totale aantal babas  
+60 : 320  
+  :  .
+2 MATHEMATICAL LITERACY P1  (NOVEMBER 2014)  
+Copyright reserved   Please turn over   
+QUESTION 1     
+   
+Q SOLUTION  Finance   
+    
+1.1.1  R70,17 x 3 + 2 x R2  367,54 + R28,06 x 3 + R28,94    1M  
+ R210,51 + R4  735,08 + R84,18 + R 28,94                   1S  
+ R5 058,71     1A (3) 
+    
+1.1.2          
+       1M 
+ 
+    
+ = R1,40  1A (2) 
+    
+1.1.3  December  2RT (2) 
+    
+1.1.4  VAT number 8754896368     2RT (2) 
+    
+1.1.5  Brush cutter RYOBI 43CC    2RT (2) 
+    
+1.1.6  Q 000002158         2RT (2) 
+    
+  Measurement   
+1.1.7 1 000 mℓ = 1 ℓ   
+ 2 00 mℓ   = x                                1M  
+        
+       =       
+       
+           
+0,2 ℓ         = x         
+ 
+ 
+1A (2) 
+    
+1.1.8 12 x 13    1M  
+  = 156 months   1A (2) 
+    
+  Data Handling   
+    
+1.2.1 School E  2A (2) 
+    
+1.2.2 School A fees – School B fees    
+ R14 000  – R12 000  1M  
+ = R2  000,00                                1 A (2) 
+   [21] 
+  
+(NOVEMBER 2014)  MATHEMATICAL LITERACY P1  3 
+Copyright reserved   Please turn over   
+QUESTION 2    
+   
+Q SOLUTION  Finance   
+2.1.1                  
+     2SF 
+1 A (3) 
+    
+ = R168  947,37  
+OR 
+R192  600 x   
+    
+ 
+R23 652,63   
+R19 6200 – R23 652,63  
+= R168  947,37    
+ 
+ OR   
+ R192  600: 𝓧  = 114%  : 100   
+            x =  R168  947,37    
+ 
+    
+2.1.2          
+   = R13,2 8  1D 
+1A (2) 
+    
+2.2.1  Profit = R7  200,00 – R3 339,14   
+         = R3  860,86     1SF 
+1 A (2) 
+    
+2.2.2  R350,00 x 4 = R1  400,00   OR       1% of R350  
+R1 400,00 x 1%                               R3,50 x  4 
+= R14,00 a month                           = R14,00  1M 
+1S 
+1A (3) 
+    
+2.2.3                       –        
+        x 100  
+                   =   
+    x 100  
+                    
+                   = 5,56 or 5,6%   1SF 
+1S 
+ 
+1CA 
+(3) 
+    
+2.3.1      
+    
+=   
+          
+ = 0,00074   1D 
+1 S 
+1A 
+(3) 
+    
+2.3.2  Instalment due  =                 
+   + R21,00  
+                           = R5  753,05 ÷12 + R21,00  
+                        = R479,42 + R 21,00  
+                        = R500,42  1SF 
+1S 
+1CA 
+(3) 
+    
+2.3.3  R6 879   
+379,83   
+= R18,1107  
+= R18,11  2D 
+1A 
+ 
+(3) 
+   [22]   
+4 MATHEMATICAL LITERACY P1  (NOVEMBER 2014)  
+Copyright reserved   Please turn over   
+QUESTION 3:  MEASUREMENT    
+   
+3.1.1  Area  = 162  m x 160  m  
+        = 25 920 m2  1SF 
+1A (2) 
+    
+3.1.2  Perimeter = 2(160  m +162  m)  
+                = 644  m  1SF 
+1A (2) 
+    
+3.1.3  No.
+
+--- Full Combined Text ---
+ 
+ 
+NATIONAL  
+SENIOR CERTIFICATE  
+ 
+ GRADE 1 1  
+ 
+NOVEMBER  2018 
+ 
+MATHEMATICAL LITERACY P2  
+MARKING GUIDELINE  
+ 
+MARKS:  100 
+  
+Symbol  Explanation  
+M Method  
+MA Method with accuracy  
+CA Consistent accuracy  
+A Accuracy  
+C Conversion  
+S Simplification   
+RT/RG/RM  Reading from a table/Reading from a graph/Read ing from  a map 
+F Choosing the correct formula  
+SF Substitution in a formula  
+J Justification  
+P Penalty, e.g. for no units, incorrect rounding off etc.  
+R Rounding Off/Reason  
+AO Answer only  
+NPR  No penalty for rounding  
+ 
+ 
+ This marking guideline consists of 7 pages.   
+  
+
+2 MATHEMATICAL LITERACY P2  (EC/NOVEMBER 201 8) 
+Copyright reserved   Please turn over   
+QUESTION 1  [31]   
+Ques tion  Solution  Explanation  Topic 
+and 
+Level  
+1.1.1  Washing and drying = 18 × 16  
+                                 = R288  
+ 
+Staysoft = 5 = 3  
+               18 = 3
+1 × 18
+5  
+                    = R10,80  
+ 
+Ironing = 5 = 20  
+              18 = 20
+1 × 18
+5  
+                   = R72  
+Total = 288 + 10, 80 + 72  
+         = R370,80  1 MA Amount for 
+washing  and drying  
+ 
+ 
+1M Calculating 
+Staysoft  
+1CA Cost fo r Staysoft  
+ 
+ 
+ 
+ 
+1CA Cost for Ironing  
+ 
+1CA Total                (5) L3 
+F 
+ 
+1.1.2 (a) Helper amount  
+No. of days = 9   
+Amount = 9 × 150  
+              = R1  350  
+ 
+Wash and dry  = 15 × 5 ×  16  
+                       = R1  200  
+ 
+Stay soft = 5 = 3  
+                 75 = 3
+1 × 75
+5 
+                      = R45  
+ 
+Handwash = 2 × 5 × 25  
+                  = 250  
+ 
+Total  amount  for laundry = 250 + 45 + 1200  
+                                         = R1 495  
+ 
+Difference = R1  495 – R1 350 
+                  = R145  
+ 
+Invalid laundry more expensive  1A No. of days  
+ 
+1CA Amount for helper  
+ 
+1CA  Amount for wash 
+and dry  
+ 
+ 
+ 
+ 
+1CA  Staysoft  
+ 
+ 
+1CA  Hand wash  
+ 
+ 
+1CA  Total amount  
+ 
+ 
+1CA  Difference  
+ 
+1O Invalid                (8) L4 
+F 
+1.1.2 (b) Probability = 3/31× 100   
+                   
+                  = 9,7%  1A Numerator   
+1A Denominator  
+1CA Answer as a % to 
+1 decimal place         (3) L2 
+P 
+ 
+ 
+ 
+ 
+  
+(EC/NOVEMBER 2018 ) MATHEMATICAL LITERACY P2  3 
+Copyright reserved   Please turn over   
+1.2.1  Across  the length   = 3 
+0,5   
+                               = 6  
+Across  the breadth = 2,5
+0,5  
+                               = 5  
+ 
+Number of c ontainer s fitting = 6 × 5  
+                                             = 30  
+10 can fit  1M Dividing  
+1C Conversion to metres  
+ 
+ 
+1CA Breadth/ Width 
+ 
+1CA  Number of containers  
+1O Opinion                     (5) L3 
+Maps  
+1.2.2 (a)  Volume of conta iner  
+V = π × (radius)2 × height  
+    = 3,142 × 25  cm × 25 cm × 70 cm  
+    = 137  462,5  cm3  
+    = 137  462,5 cm3  
+No. of litres = 137 462,5 ÷ 1 000 
+                   = 137,4625  litres   
+ 
+1 Calculating radius  
+ 
+1CA Volume  
+ 
+1C Litres                
+NPR                                (3) L3 
+M 
+1.2.2  (b) Capacity for 5 containers  
+= 137,4625 litres × 5  
+= 687,3125 litres  
+ 
+Water for 5 days of hand  wash  
+Washing = 30 × 5  
+               = 150 kg  
+ 
+25 kg = 100 litres  
+150 = 100
+1 × 150
+25  
+       = 600 litres  
+ 
+Statement is valid  CA from 1.2.2 (a)  
+1MA Litres for 5 containers  
+ 
+ 
+1MA Amount of washing  
+ 
+ 
+1M Number of litres  
+ 
+1CA Total  litres  
+ 
+1 O Valid                         (5) L4 
+M 
+1.2.3  Some material cannot be washed using machine .  
+OR 
+Clothes can be damaged   
+Accept any other relevant reason . 2A Reason or explanation  
+ 
+ 
+(2) L4 
+D 
+ [31]  
+  
+4 MATHEMATICAL LITERACY P2  (EC/NOVEMBER 201 8) 
+Copyright reserved   Please turn over   
+QUESTION 2 [ 22] 
+Question  Solution  Explanation  Topic 
+and 
+Level  
+2.1  Amount for editing  = 97 × 100        
+                              = R 9  700  
+ 
+Typist = 𝑛𝑜𝑟𝑚  𝑡𝑖𝑚𝑒
+60 × rate × no. of documents  
+           = 28
+60 × 195 × 100  
+           = R9 100  
+% = 105
+100 × 9 100    OR  9 700
+9 100 x 100  
+     = R9  555              =   106,59% – 100%  
+                                     =    6,59%  
+ 
+Not valid, m ore than 5%   1M Multiply correct 
+values  
+1A Amount for editing  
+ 
+ 
+1SF Substituting  
+1A Correct values  
+1CA  Amount for typist  
+ 
+1M Increasing by 5%  
+1CA  Increased amount  
+ 
+1O Invalid                   (8) L4 
+F 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.2 2.2.1  31,7; 33,7; 35; 36,3; 36,4; 37; 3 9,2; 40,6; 41; 42,3; 
+44,1 
+Range = 44,1  g – 31,7 g  
+            = 12,4  g  1RT Reading  the correct 
+high and low  values . 
+1M Subtraction  
+1CA Range                 (3) L2 
+D 
+ 
+ 
+ 
+ 2.2.2  Guest  1: Play energ y drink  = 29,2  g  
+                           Powerade =  38,8 g  
+                                  Total = 68  g  
+ 
+Guest 1: 5g = 1 teaspoon  
+ 68 = 1
+1 × 68
+5  
+                   = 13,6 teaspoons  
+ 
+Guest 2: Appletiser = 31,7g  
+              Coca -Cola  = 35g  
+                       Total = 66,7 g  
+ 
+Guest 2: 66,7
+5 
+            = 13,34  teaspoons   
+Statement not valid. Energy drink contains more  
+sugar.  1RT Correct values for 
+guests  
+1CA  Total number for 
+grams  for guest 1  
+ 
+ 
+1CA Teaspoons sugar 
+guest 1  
+ 
+ 
+ 
+1CA  Total no of grams 
+for guest  
+ 
+1CA Teaspoons sugar 
+guest 2 
+  
+1O Invalid                   (6) L4 
+M 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+(EC/NOVEMBER 2018 ) MATHEMATICAL LITERACY P2  5 
+Copyright reserved   Please turn over   
+ 2.2.3  
+ 
+  
+  
+5M One mark for each 
+correct bar  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(5) L2 
+D 
+ 
+   [22]  
+ 
+QUESTION 3 [20]  
+Question  Solution  Explanation  Topic 
+and 
+Level  
+3.1 3.1.1  Distance from  Durban to Nelspruit  = 689 km 
+ 
+Speed = 𝐷
+𝑇  
+110 = 689
+𝑡𝑖𝑚𝑒  
+110 × time = 689  
+Time = 689
+110  
+         = 6,26  hrs  
+         = 6hrs  16 min    
+1RT Distance  
+ 
+ 
+1SF Substituting correct 
+values  
+ 
+1S Change subject of 
+the formula  
+1CA Answer in hours  
+1C Converting 6,26 hrs 
+to minutes  
+1CA Hours and min  (6) L3 
+Maps  
+and 
+M 
+ 3.1.2 Ascending order  
+58; 273; 292; 342; 475; 532; 656; 1050; 1120; 
+1463  
+ 
+Median = 475 +532
+2  
+             = 503,5   
+1RT Correct values  
+1M Ascending order  
+ 
+1M Concept of median  
+1CA Median  
+(4) L2 
+Maps  
+and 
+D 
+ 
+ 
+ 
+ 
+  051015202530354045Amount of sugar in grams
+Different DrinksAmount of sugar in grams for 
+different drinks
+6 MATHEMATICAL LITERACY P2  (EC/NOVEMBER 201 8) 
+Copyright reserved   Please turn over   
+ 3.1.3 Pretoria:  
+1120 +273 +342 +292 +532 +58+1050 +656 +1463 +475
+10  
+=6261  
+10   
+=  626,1 km  
+ 
+Port Elizabeth:     
+𝟏𝟏𝟐𝟎 +𝟏𝟑𝟗𝟑 +𝟏𝟑𝟕𝟑 +𝟏𝟏𝟐𝟐 +𝟕𝟓𝟐 +𝟏𝟎𝟔𝟐 +𝟑𝟎𝟎 +𝟗𝟐𝟕 +𝟕𝟓𝟔 +𝟔𝟑𝟓
+𝟏𝟎 
+9 440
+10 = 944 km  
+Difference = 944 – 626,1  
+                 = 317,9 km  1M Adding all correct 
+values  
+ 
+1M Divide by  10 
+1CA Mean 
+ 
+ 
+1RT Adding all correct 
+values  
+1CA Mean 
+ 
+1M Subtraction  
+1CA Difference          (7) L2 and 
+L3 
+Maps  
+and D 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3.1.4 Distance = 998  km  
+Cost = 70 × 998  
+         = 69860  cents 
+         = 698,60  
+         =R699   
+OR 
+998 × 0,7   
+= 698,60   
+= R699   1RT Correct distance  
+1M Multiplying by  70 
+ 
+1R Nearest rand  
+ 
+ 
+1RT Correct distance  
+1M Multiplying by 70  
+1R Nearest rand         (3) L2 
+F and 
+Maps  
+ 
+ 
+ 
+ 
+ 
+ 
+   [20]  
+ 
+QUESTION 4 [27]  
+Question  Solution  Explanation  Topic 
+and 
+Level  
+4.1  Area of circle =  𝝅×𝐫𝐚𝐝𝐢𝐮𝐬 ×𝐫𝐚𝐝𝐢𝐮𝐬                                           
+                        = 3,142 × 0,45 × 0,45  
+                        = 0,636255  m2  
+ 
+Area  of semicircle = 𝝅 × 𝒓𝒂𝒅𝒊𝒖𝒔  × 𝒓𝒂𝒅𝒊𝒖𝒔
+𝟐  
+                        = 3,142  ×4,9×4,9
+2  
+                                = 37,71971 m2  
+ 
+Difference = 37, 71971 - 0,636255  
+                  = 37,08 m2  
+ 1A Radius  
+1SF Substitution  
+1CA Area of centre  
+ 
+ 
+ 
+ 
+ 
+1CA Area of semi -circle  
+ 
+1CA Difference  
+NPR                           (5) L3 
+M 
+ 4.2.1  169 seats  
+ 3A No of seats            (3) L2 
+Maps  
+ 4.2.2  4 
+15   1A Numerator  
+1A Denominator        (2) L2 
+P 
+ 
+ 
+ 
+  
+(EC/NOVEMBER 2018 ) MATHEMATICAL LITERACY P2  7 
+Copyright reserved   Please turn over   
+ 4.2.3   
+Right side = 171  
+Total a mount = 171  × 150  
+                      = R25 650  
+ 
+Left side = 1 69 × 150  
+               = 25 3 50  
+Midd le = 255  
+Cost of 1 seat in the middle   = 108
+100 × 150  
+                                              = R162  
+Total amount  = 255 × 162  
+                      = R41 310  
+Total  amount for all seats  
+= 25 650 + 25  350 + 41  310   
+= R92  310  
+Statement invali d  CA from 4.2.1  
+1A No of seats on right 
+side 
+1 CA Amount for right 
+seats  
+1CA Amount for left 
+seats  
+ 
+ 
+1A Amount for a middle  
+seat 
+1CA Total a mount for 
+middle  seats  
+ 
+1M Adding all values  
+1CA Total amount  
+1O Invalid                  (8) L4 
+F 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4.3.1  Grade 11 boys = 191 – (54 + 73)    OR  137 – 73 
+                        = 191 – 127            =       64  
+                        = 64  
+ 
+Total  number of learners  = 158 + 137 + 99  
+                                         = 394   
+% = 64
+394 × 100  
+    = 16, 2%   
+1M Subtracting  
+1CA No. of boys in Gr. 
+11 
+1CA Total number of 
+learners  
+1M Multiply by 100  
+1CA Percentage  
+NPR                           (5) L3 
+D 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4.3.2  From Grade 10 to Grade 12 the number of learners 
+is decreasing.  
+Learners failed      OR  
+Learners dropped out  
+OR 
+Accept a ny other relevant reason  2O Trend  
+ 
+2O Reason  
+ 
+ 
+                                  (4) L4 
+D 
+ 
+ 
+ 
+ 
+   [27]  
+     
+   TOTAL:  100 
+ 
+ 
+
+ 
+  
+ 
+NATIONAL  
+SENIOR CERTIFICATE  
+ 
+ GRADE 1 1  
+ 
+NOVEMBER  2017 
+ 
+MATHEMATICAL LITERACY P2  
+MARKING GUIDELINE  
+ 
+MARKS:  100 
+  
+Symbol  Explanation  
+M Method  
+MA Method with accuracy  
+CA Consistent accuracy  
+A Accuracy  
+C Conversion  
+S Simplification  
+RT/RG/RM  Reading from a table/Reading from a graph/Read ing from  a map 
+F Choosing the correct formula  
+SF Substitution in a formula  
+J Justification  
+P Penalty, e.g. for no units, incorrect rounding off etc.  
+R Rounding Off/Reason  
+AO Answer only  
+NPR  No penalty for rounding  
+ 
+ 
+ This marking guideline consists of 8 pages.   
+
+2 MATHEMATICAL LITERACY P2  (EC/NOVEMBER 2017)  
+Copyright reserved   Please turn over   
+QUESTION 1  [29]   
+   
+Ques tion  Solution  Explanation  Topic 
+and 
+Level  
+1.1 Total number of cars and microbuses  = (10 × 5 ) + (5 × 5 )  
+                                                             = 50 + 25  
+                                        = 75  
+ 
+Probability = 50 
+75   
+ 
+Accept 0,667 OR 66,7%  1 M Calculated  total 
+number of cars and 
+microbuses  
+ 
+1 A Numerator  
+1A Denominator  
+ 
+(3) P 
+L2 
+    
+1.2 Amount  for cars washed Monday – Friday:  
+10 × 30  = 300 × 5  
+= R1 500  
+ 
+ 
+Amount  for cars Saturday and Sunday  = 160
+100  × 10 
+                                                              = 16  
+                                                              = 16 × 30 × 2  
+                                                              = R960  
+ 
+ 
+Amount  for microbuses  (Monday – Friday ) 
+= 5 × 4 0  
+= R200  
+   200 × 5  
+= R1 000  
+ 
+Amount  for microbuses  (Saturday and Sunday):  
+                   130
+100 × 5 = 6,5  =7  
+                                     7 × 40 × 2 
+                               = R560   
+ 
+Total  Amount = 1 500 +  1 000 +  960 + 560  
+                       = R4 020  
+Claim is valid   1M Multipl ied by 10  
+and 5  
+1CA  Amount for cars  
+ 
+ 
+1M Increas e by 60%  
+1CA Number  of cars  
+1CA  Amount for  cars 
+on Saturday and 
+Sunday  
+ 
+ 
+ 
+1CA  Number  of 
+microbuses  
+ 
+ 
+1CA Number of 
+microbuses  
+1CA Amount for 
+microbuses  
+ 
+ 
+ 
+1CA Total amount  
+1 O Claim valid     
+ 
+(10) F 
+L4 
+ 
+  
+(EC/NOVEMBER 2017)  MATHEMATICAL LITERACY P2  3 
+Copyright reserved   Please turn over   
+1.3 Water per car = 25 × 3  
+                       = 75 litres  
+ 
+Water for cars in 5 days = 10 × 5 × 75  
+                                       = 3 750 litres   
+ 
+Water for cars on Saturdays and Sundays = 16 × 2 × 75  
+                                                                  = 2 400 litres  
+ 
+Water per microbus  = 25 × 4  
+                                 = 100 litres  
+ 
+Water per microbus  in 5 days = 5 × 5 × 100  
+                                                   = 2 500 litres  
+ 
+ 
+Water per microbus  on Saturdays and Sundays  
+      = 7 × 2 × 100  
+         = 1 4 00 litres  
+ 
+ 
+Total number of lit res = 3 750 + 2 400 + 2 500 + 14 00  
+                                   = 10 0 50 litres   
+OR 
+Amount of water  
+= amount for cars + amount for mi crobuses  
+= (3 × 25 × 82) + (4 × 25 × 39)  
+= 6 150 litres  + 3 900 litres   
+= 10 050 litres   CA from 1.1  
+ 
+ 
+1M Water for cars  
+Mondays to F ridays  
+ 
+1CA Water for cars on 
+Saturday and Sunday  
+ 
+ 
+ 
+1CA Water for 
+microbuses Mondays to 
+Fridays  
+ 
+ 
+1CA Microbuses on 
+Saturdays and Sundays  
+ 
+ 
+ 
+1M Addition 
+1CA Answer       
+ 
+ 
+ 
+ 
+ 
+ 
+                           (6) M 
+L3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+1.4 Water for 7 days = 1 0 050 litres 
+Water for a month = 1 0 050 × 4  
+                               = 40 2 00 litres  
+                                40 200 l = 40,2  kilolitres   
+ 
+Cost of w ater from table:  
+ 
+6 × 8.66 = R51,96   
+9 × 10.02 = R90,18   
+15 × 12,28 = R184,20   
+10,2 × 15.25  = R155,5 5  
+ 
+Total amount = R481 ,89  
+                      = R481,89 x 1,14  
+                      = R549 ,35  CA from 1.3  
+ 
+1MA Amount  of litres  
+1C Amount  of kilolitres  
+ 
+ 
+1M First tariff  
+1M Second tari ff 
+1M Third tariff  
+1M Fourth tariff  
+ 
+1M Calculated  VAT  
+1CA Amount with  
+VAT                             
+                                   (8) M&F  
+L3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+1.5 Most people do not work  on Saturdays and Sundays.  
+It is the only time they have available to wash their   
+cars.  
+Accept any other relevant answer .  2O Opinion                        
+                           
+                          
+                                    (2) DH 
+L4  
+  
+4 MATHEMATICAL LITERACY P2  (EC/NOVEMBER 2017)  
+Copyright reserved   Please turn over   
+QUESTION 2 [ 24] 
+2.1 2.1.1  R212   
+ 1RT Correct value from 
+table                             (2) DH 
+L2 
+     
+ 2.1.2  188 −76 
+76  × 100 
+= 147,37% OR 147,4% 
+ 
+Statement is valid    
+% increase is more than 100%  1M Used correct values  
+1M Divided  by correct 
+value  
+1CA %  
+1J Valid  
+NPR                             (4) F 
+L4 
+ 
+ 
+ 
+ 
+ 
+     
+ 2.1.3  Cost of burying a 5-year-old is less than that of 
+burying a 15-year old.  
+Accept any other relevant answers .  
+ 
+2J Opinion                   (2) F 
+L4 
+ 
+     
+2.2 2.2.1  Diameter = 15 0 cm 
+Length of figure = 100  cm 
+A = 100   – 60   
+   = 40 cm  
+ 
+B = 150 – 100  
+   = 50 cm ÷ 2    
+   = 25 cm  
+      25 : 40 
+   = 5 : 8  1M Subtraction  
+1M Used 60 
+1CA Value of A 
+ 
+ 
+ 
+1 Divided  by 2 
+1CA Answer  
+1M R atio 
+No penalty if not 
+simplified  
+Penalise 1  mark if ratio 
+is written with units  
+                                    (6) M 
+L4 
+ 
+ 
+  
+(EC/NOVEMBER 2017)  MATHEMATICAL LITERACY P2  5 
+Copyright reserved   Please turn over   
+ 2.2.2 Area of cross shaped glass = Area of longer rectangle  
++ 2 × area of smaller rectangles  
+    = l × b + 2(l × b)  
+    = 100 × 40 + 2(30 ×40)   
+    = 4 000 + 2 400  
+    = 6 400 cm2  
+OR 
+  4(40 x 30) + (40 x 40)   
+  = 6 400 cm2  
+OR 
+  2(100 x 40) – 402 
+= 8 000 –1 600  
+= 6 400 cm2  
+ 
+6 400
+10 000 = 0,64  m2   
+ 
+Area wasted = Area of circle – Area of shape  
+                     = πr2 – 0,64 
+                     = 3,142 × 0,75 × 0,75   – 0,64  
+                     = 1,767375 – 0,64  
+                     = 1,127375m2  
+ 
+Amount lost = 1,127375 × 15  
+                    = R16,91  
+With VAT = 114
+100 × 16,91  
+                = R19,28  
+ 
+Statement is valid .   
+ 
+1M Substituted  in 
+formula  
+ 
+1CA  Simplification  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1C Convert ed to square 
+metres  (m²) 
+ 
+1M Used formula  
+1SF Substitution  
+ 
+1 CA Unused area 
+ 
+ 
+1CA Total amount  
+1M Added  VAT  
+ 
+1CA Answer  
+ 
+1O Opinion            (10) M&F  
+L4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+6 MATHEMATICAL LITERACY P2  (EC/NOVEMBER 2017)  
+Copyright reserved   Please turn over   
+QUESTION 3 [16]   
+  
+3.1 Company A:  
+ 
+Mean  = 29 000 +25 000 +24 000 +15 000 +15 000 +8 000
+6 
+ 
+           =  116  000
+6  
+           = R19 333,33  
+ 
+Company B:  
+ 
+Mean = 31 000 +29 000 +17 0000 +14 000 +13 000 +7 000
+6 
+          = 111  000
+6 
+       =R 18 500  
+ 
+Difference = 19 333,33 – 18 500  
+                  = R833 ,33                   
+Statement is not valid   
+ 
+1M Addition  
+1M Divided  by 6 
+ 
+ 
+1CA Mean  
+ 
+ 
+ 
+ 
+ 
+ 
+1CA Mean  
+ 
+ 
+1CA Difference  
+1O Not valid                (6)  DH 
+L3&4  
+    
+3.2 No mod al salary  for company B.  2A 
+(2) DH 
+L2 
+    
+3.3 Modal value = 15 000  
+ 15
+100 × 15 000   
+= R2 250  
+ 
+Year 1 = 105
+100 × 2 250  
+            = R2 362,50  
+ 
+Year 2 = 105
+100 × 2 362,50  
+             = R2 480,63  1RT Correct mod al value  
+1M Calculated 15% of 
+modal value  
+1CA Value  
+ 
+ 
+1M Increased by  
+ 
+5% 
+1CA First year  
+ 
+1CA Final amount  
+                                      (6) DH&F  
+L3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.4 0 OR 0% OR Impossible  
+2A  Answer                     (2) DH 
+L2 
+  
+(EC/NOVEMBER 2017)  MATHEMATICAL LITERACY P2  7 
+Copyright reserved   Please turn over   
+QUESTION 4 [31]   
+  
+4.1 4.1.1  A = 21 168 700  + 2 305 800  + 677 000  + 2 214 400 
+    = 26 365 900   
+ 
+B = 22 165  000
+27 635  900   × 100  
+   = 80,2%    1 MA Added  correct 
+values  
+1CA  Total 
+ 
+1 Correct values  
+1CA %                    (4) DH 
+L2 
+     
+ 4.1.2  Indian / Asian  2A Answer  
+(2) DH 
+L2 
+     
+ 4.1.3  Two million two hundred and  fourteen thousand four 
+hundred   2A Answer                          
+                               (2)             DH 
+L2 
+     
+4.2 4.2.1  57  – 38  = 19  1M Correct number of 
+seats on the left  
+1M Subtraction  
+1M Correct number of 
+seats on the right  
+1CA A nswer           (4) M&P  
+L2 
+     
+ 4.2.2 Percentage of seats for the handicapped 4
+38 x 100  
+ 
+10,526315789  
+ 
+10,53%  1RM Correct values 
+numerator and 
+denominator  
+1M Multiplied  by 100  
+1CA Answer           (3) M&P  
+L3 
+     
+4.3 4.3.1  Total distance = 35  + 57 + 11 + 21 + 59 + 41  
+                        = 224  km  
+Speed = 𝑑𝑖𝑠𝑡𝑎𝑛𝑐𝑒
+𝑡𝑖𝑚𝑒 
+105 = 224
+𝑡𝑖𝑚𝑒  
+Time = 224
+105  
+       = 2,133 hours  
+Minutes = 0,133 × 60   
+              = 7,98  
+2 hours 8 minutes   
+Time of arrival = 7 :00 + 2 hours 8 minutes  
+                        = 9:08 am  
+ 
+Claim is valid   1RM Correct values  
+  
+1CA Distance  
+ 
+1M Substituting in 
+formula  
+ 
+1 S Chang e subject of 
+formula  
+1CA Time in hours  
+1C Time in minutes  
+1CA Arrival time  
+ 
+1O Claim valid       (8) M, 
+M&P  
+L3&4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+8 MATHEMATICAL LITERACY P2  (EC/NOVEMBER 2017)  
+Copyright reserved   Please turn over   
+ 4.3.2   
+Amount before increase =2,82
+1,068  
+ 
+                                       = R2,64  
+ 
+Total distance travelled =  224 x 2  
+                                      = 448 km   
+ 
+Amount                         = 448 x 2,64   
+ 
+                                      = R1 182 ,72  
+ 
+                                      = R1  183  CA from 4.3.1  
+1M Divided  by 1,068  
+ 
+1A Amount  
+ 
+I CA Distance  
+ 
+1M Multiplied  by 
+amount calculated  
+ 
+1CA Amount  
+ 
+1R Nearest rand     (6) F 
+L3 
+ 
+ 
+ 
+ 
+ 
+     
+ 4.3.3  R61  
+R349  1A R61  
+1A R349                (2)  M&P  
+L2 
+     
+  TOTAL:  100 
+ 
+ 
+
+ 
+  
+ 
+NATIONAL  
+SENIOR CERTIFICATE  
+ 
+ GRADE 1 1  
+ 
+NOVEMBER  2016 
+ 
+MATHEMATICAL LITERACY P2  
+MEMORANDUM  
+ 
+MARKS:  100 
+  
+Symbol  Explanation  
+M  Method  
+MA  Method with accuracy  
+CA  Consistent accuracy  
+A  Accuracy  
+C  Conversion  
+S  Simplification  
+RT/RG/RM  Reading from a table/Reading from a graph/Read from map  
+F  Choosing the correct formula  
+SF  Substitution in a formula  
+J  Justification  
+P  Penalty, e.g. for no units, incorrect rounding off etc.  
+R  Rounding Off/Reason  
+O Opinion  
+ 
+ 
+ This memorandum consists of 8 pages.   
+  
+
+2 MATHEMATICAL LITERACY P2 (EC/NOVEMBER 2016 ) 
+Copyright reserved   Please turn over   
+QUESTION 1  [23]   
+   
+Ques.   Solution  Explanation  Level  
+1.1.1 Electricity   
+Water   
+Transport  
+Accept any relevant answers . 2A One expense 
+excluding cost of 
+ingredients  
+(2) L2 
+    
+1.1.2 Costs for 24 muffins  
+Muffin mi x 500 g for 12 muffins  
+1 kg of muffin mix   = R12,00  
+                     500 =  ½ kg = R6 ,00  
+  For 24 muffins = R6,00 × 2 
+                                         = R12   
+Eggs: 6 = R10,50  
+          2 = 10,50
+6 × 2 
+            = R3,50    
+Oil ½ cup = 250  mℓ 
+    750 mℓ = R12,50  
+ 12,50
+750  × 250 
+             =  R4,17  1M 
+Milk 3 cups  = 750  mℓ 
+    1 000 mℓ  = R11,50  
+ 750 mℓ  = 11,50
+1 000  × 750 
+    = R8,63  1M 
+Total amount = R12,00 + R3,50 + R4,17 + R 8,63  
+                      = R28,30  
+ 
+OR 
+Muffin mi x = 12,00
+1 000 × 500  
+                 = R6,00  
+Eggs = 10,50
+6 
+       = R1,75  
+Oil = 12,50
+750 × 125 
+      = R2 ,08 √ 
+Milk = 11,50
+1 000 × 375 
+        = R4,31 √ 
+ 
+Total = 6 + 1,75 + 2 ,08 + 4,31  
+         = 14,14 × 2 
+         = R28,28 √  
+ 
+ 
+ 
+ 
+1M For muffin mix  
+ 
+ 
+ 
+1M for eggs  
+ 
+ 
+ 
+ 
+1M for oil  
+ 
+ 
+ 
+ 
+1M for milk  
+ 
+1CA Total amount  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(5) L3 
+  
+(EC/NOVEMBER 2016 ) MATHEMATICAL LITERACY  P2 3 
+Copyright reserved   Please turn over   
+1.1.3 Cost R 28,30 for 24 muffins  
+ For 1  200 = 28,30
+24  × 1 200  
+                           = R1 415  
+Selling price = R30 per dozen  
+ 1 200 = 1 200 / 12   
+    = 100 dozen   
+Money received for 120 dozen  = 100 × 30 
+                                                    = R3 000  
+Profit = R3 000 – R1 415  
+         = R1 585  
+Statement is valid  
+ 
+OR 
+           
+28,28
+2 = 14,14 x 100 = R1 414 (e xpenses)  
+ 
+Income = 100 × R30   
+             = R3 000   
+ 
+Profit = R3 000 – R1 414 
+          = R1 586  
+Statement is valid .  CA from 1.1 .2 
+ 
+ 
+ 
+1MA expenses  for 
+1 200 muffins  
+ 
+1CA number of 
+dozen  
+1MA Income for  
+1 200 muffins  
+1CA Difference  
+1 O 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(5) L3 
+    
+1.1.4 In 25 minutes she makes 24 muffins  
+ 240 muffins = 25
+24 × 240 
+                         = 250 minutes  
+She will bake 10 times.  
+Time spent on  cleaning pans:  
+10 × 10 minutes = 100 minutes  
+   
+Total time = 250 + 100 = 350 minutes  
+Time in hours = 350 / 60  
+                       = 5,833333333 hours  
+                       = 5 hours 50 minutes   
+  
+Time taken to reach destination:  
+Time = 50 / 100  
+         = 0,5 
+         = 30 minutes  
+Total time = 5 h50 + 0h30 
+                 = 6 hours 20  minutes  
+Time arrived = 09:00 + 6  hours 20 minutes  
+                     = 15:20       
+She will arrive on time .  
+ 
+ 
+1MA Time for 
+baking  
+ 
+1CA time for 
+cleaning  
+ 
+ 
+1CA Convert to 
+hours and minutes  
+ 
+ 
+1C driving time  
+ 
+ 
+1CA adding time  
+ 
+1CA time of arrival 
+and statement  
+(6) L4 
+  
+4 MATHEMATICAL LITERACY P2 (EC/NOVEMBER 2016 ) 
+Copyright reserved   Please turn over   
+ 
+ 
+ 
+ 
+ 
+1.2 Cleaner = R 50 × 5 × 20 
+              = 5 000  
+Driver =  (175
+100 × 50)  
+Driver per month = R 87,50     
+                            = R87,50 × 5 × 20  
+                            = 8 750  
+Assistant  = 50 + 25  
+                 = 75  
+Assistant  per month = 75 × 5 × 20 
+                                 = 7 500  
+Total spent on workers = 5 000 + 8 750 + 7  500 
+  = R21 250   1M Salary for 
+cleaner  
+ 
+1M calculating 75% 
+more  
+ 
+1CA Salary for 
+driver per month  
+ 
+1M helper per 
+month  
+ 
+1CA total  
+(5) L3 
+  [23]  
+    
+QUESTION 2 [27 ]   
+   
+Ques.   Solution  Explanation  Level  
+2.1.1                                     
+5 16 16 21 22 34 34 35 35 35 42 42 42 42  
+30
+100 × 50 = 15   
+13 learners were able to get more than 30% and only one 
+leaner got less than 30% therefore the learners 
+performance was good .   
+2M Calculat e the 
+number who 
+passes  
+ 
+2O 
+(4) L4 
+    
+2.1.2 
+5+16+16+21+22+34+34+35+35+35+42+42+42+42
+14     
+= 421 / 14   
+= 30,07   CA from 2.1.1  
+1M Adding values  
+1A Divide by 14  
+ 
+1 CA mean   
+                           (3) L3 
+    
+2.1.3 Mode = 42   
+Median:  
+5 16 16 21 22 34 34 35 35 35 42 42 42 42  
+35+34 
+2 = 34,5   
+ Difference = 42 – 34,5  
+                  = 7,5   1A mode  
+ 
+ 
+2MA finding the 
+median  
+ 
+1CA Difference  
+(4) L4 
+    
+2.1.4 50
+100 × 50 = 25   
+ 5
+14 × 100 
+     = 35,71% √ 
+Accept 35, 7% 1M Calculat e value 
+of 50%  
+1M probability as a 
+fraction  
+1CA percentage  
+(3) L3 
+  
+(EC/NOVEMBER 2016 ) MATHEMATICAL LITERACY  P2 5 
+Copyright reserved   Please turn over   
+2.2.1 Mathematical Literacy  = 50  
+Math ematics  = 50  2A First answer  
+1A Second answer  
+(3) L2 
+    
+2.2.2 Math ematics  = 83  3A C orrect exam 
+number  
+(3) L2 
+    
+2.2.3         
+60 – 54 = 6     
+ 1A for left  
+1A for right  
+1CA difference  
+(3) L2 
+    
+2.2.4  Ratio = 1  : 30 
+Number of learners = (9 × 6) + (10 × 10) + (6 × 10)  
+                                = 54 + 100 + 60  
+                             = 214   
+214 / 30 = 7,1  
+ 8 invigilators will be needed   
+  
+1M Total number  
+ 
+1CA Total 
+1CA Dividing by 30  
+1R 
+(4) L4 
+ [27]  
+   
+QUESTION 3 [21]   
+   
+Ques.   Solution  Explanation  Level  
+3.1.1  
+ 
+Subjects  Learner A  
+APS score  Learner B  
+APS score  
+IsiXhosa  6 5 
+English FAL  5 5 
+Math ematics   4 5 
+Life Orientation  3 3 
+Accounting  4 3 
+Economics  3 5 
+Business Studies  6 5 
+Total:  31 31 
+Both learners have the same APS score . O 1A 
+ 
+1A            For each  
+                2 correct  
+                for both  
+                learners  
+ 
+1A 
+ 
+1A LO  
+ 
+1CA Adding all  
+values  
+1O Conclusion  
+(6) L4 
+  
+6 MATHEMATICAL LITERACY P2 (EC/NOVEMBER 2016 ) 
+Copyright reserved   Please turn over   
+3.1.2 
+ CA from 
+3.1.1  
+ 
+ 
+1A for each 
+two 
+compound 
+bars 
+ 
+ 
+ 
+ 
+ 
+ 
+(5) L2 
+    
+3.1.3 Equal chances   2O 
+(2) L2 
+    
+3.2.1  Rent = R1 650 × 11 
+         = R18 150      
+Food = 1  500 × 10 
+         = R15 000   
+ 
+Total amount = R18 150 + R15 000   
+                      = 33 150  1M 
+Calculating  
+rent 
+1M 
+Calculating 
+food 
+1M Addition  
+1CA T otal 
+(4) L2 
+    
+3.2.2                                 
+Share room with someone  OR to save on costs OR no privacy . 
+ 
+ 2O 
+Explanation  
+(2) L4 
+  [19]  
+  
+01020304050607080Percentage
+SubjectsPercentages of 2 Grade 12 learners
+Learner A
+Learner B
+(EC/NOVEMBER 2016 ) MATHEMATICAL LITERACY  P2 7 
+Copyright reserved   Please turn over   
+QUESTION 4 [ 31]   
+   
+Ques.   Solution  Explanation  Level  
+4.1 Triangular window:  
+Base = 150  cm = 1, 5 m 
+Height = 100  cm = 1  m  
+ Area of triangular window  = ½ base × height   
+                                                = ½  × 1,5 × 1                  
+  = 0,75  m2 
+Total = 0,75 × 4 
+         = 3 m2  
+ 
+Circular window:   
+Radius = ½ × 1,5  
+            = 0,75  m  
+  Area of circular window = 𝜋 × r2 
+                                             = 3,14 2 × 0,75 × 0,75  
+                                             = 1,767 375 m2  
+Total = 1,767375  × 4 
+         = 7,069 m2  
+ 
+ 
+Square window:   
+Width = 1,5  m 
+Length = 1,5 m  
+ Area of square window = S2 
+                                           = 1,5 × 1,5 
+                                           = 2,25 m2  
+Total = 2, 25 × 4 
+         = 9 m2  
+ 
+Total area of wind ows for all four walls = 3 + 7, 069 + 9    
+                                                              = 19, 069 m2  
+ 
+Area of wall of 1 classroom = l × b 
+                                            = 12 × 5 
+                                            = 60 m2   
+Total area for four classrooms = 60 × 4   
+                                                 = 240 m2   
+ 
+Area of wall to be painted = tota l area of walls – total area of  
+windows  
+= 240 – 19,069  
+= 220 ,9305  m2 
+= 221  m2  1C covert to m  
+ 
+ 
+1SF 
+ 
+1CA answer  
+ 
+1A radius  
+ 
+1SF 
+ 
+1CA area of four 
+circular window  
+ 
+1CA area of four 
+square windows  
+ 
+1CA adding  the 
+areas  
+ 
+ 
+1CA total of 
+areas  
+ 
+ 
+1M area of 1 
+classroom wall  
+ 
+ 
+ 
+ 
+1M for ×4 area 
+of 4 classrooms  
+ 
+ 
+1CA answer  
+ 
+1CA subtraction  
+ 
+ 
+1CA Wall area 
+to be painted  
+(14) L3 
+  
+8 MATHEMATICAL LITERACY P2 (EC/NOVEMBER 2016 ) 
+Copyright reserved   Please turn over   
+4.2 Litres required for the wall s: 
+8 m2 = 1 ℓ 
+221 m2 = 1 /1 × 221 / 8   
+           = 27,625 litres   
+If 5 litre tins are bought:  
+27,625 / 5 =  5,525 =  6 tins of paint   (5 ℓ) 
+Cost = 6 × 105  
+         = R630  
+If 20 litres tins are bought:  
+27,625 / 20 = 1,38 = 2   
+Cost = 2 × 405  
+        = R81 0  
+Their statement is valid .  CA from 4.1.1  
+1MA 
+ 
+1CA 
+ 
+1M × by 105  
+ 
+1M 
+ 
+1CA 
+ 
+1O 
+(6) L4 
+    
+4.3.1 5 ℓ tins: 
+Radius = 9  cm 
+Diameter = 18  cm  
+Box A: 
+Number of t ins over the length of the box: 
+130/18 = 7   
+ 
+Number of tins over the height of the box: 
+25/24 = 1,04 =1  
+ 
+Number of t ins over the width of the box: 
+104/18 = 5,77 = 5  
+ 
+Total  tins for Box A  = 7 × 1 × 5 
+                               = 35 tins  
+Box B: 
+l = 65  cm 
+b = 4 9 cm 
+h = 52  cm 
+ 
+Number of tins on the width of the box: 
+65/18 = 3, 6 = 3   
+Number tins along the length of the box:  
+49/24 = 2,04 = 2 
+No. of tins on height = 52 /18 = 2,88 = 2  
+ 
+Total number of tins in box  B = 3 × 2 × 2 
+                                                = 12 tins   
+Box A can carry 28 tins which is more than 2 times 
+12 so their argument is valid .   
+ 
+1M number of tins 
+over length  
+ 
+ 
+ 
+1M number of tins 
+over width  
+ 
+ 
+ 
+ 
+1M number of boxes 
+over height  
+ 
+1CA total number of 
+tins in Box A  
+ 
+ 
+1CA total number of 
+boxes in Box B  
+ 
+1O 
+ 
+ 
+ 
+ 
+ 
+(6) L3 
+    
+4.3.2 Tins in  Box B = 12  
+Tins in 20 boxes = 12 × 20 
+                           = 240    
+                             
+Amount lost = R105 × 240   
+                    = R25 200   1CA from 4.3.1  
+1CA number of tins  
+1M × by 240  
+1A Price of paint  
+1CA Total amount    
+           (5) L3 
+  [31]  
+    
+TOTAL:  100 
+ 
+ 
+
+ 
+ 
+NATIONAL  
+SENIOR CERTIFI CATE  
+ 
+ GRA DE 11  
+ 
+NOV EMBER 2015 
+ 
+MATHEMATICAL LITERACY P2  
+MEMORANDUM  
+ 
+MARKS:  100 
+  
+ Symbol  Explanation   
+ M Method   
+ MA Method with accuracy   
+ CA Consistent accuracy   
+ A Accuracy   
+ C Conversion   
+ S Simplification   
+ RT/RG/RM  Reading from a table/Reading from a graph/Read from map   
+ F Choosing the correct formula   
+ SF Substitution in a formula   
+ J Justification   
+ P Penalty, e.g. for  no units, incorrect rounding off , etc.   
+ R Rounding Off/Reason   
+ 
+ This memorandum  consists of 6 pages .  
+
+2 MATHEMATICAL LITERACY P2  (EC/NOVEMBER 2015 ) 
+ 
+Copyright reserved   Please turn over  QUESTION 1   
+1.1 1.1.1  5 Entrances  2A Identifying 
+the number of 
+entrances  (2) 
+1.1.2   Walk straight towards Shop No. 6 and turn 
+left.  
+ Edgars will be on your left continue until you get 
+to Shop No. 60 and turn right.  
+ Keep walking until Shop No. 52 -53 and turn left 
+where Entrance 2 is  
+Accept any reasonable explanation  3A 
+Explanation  
+(3) 
+1.2 1.2.1  1h 57 minutes  1A Hours  
+1A Minutes  (2) 
+1.2.2  11:20 + 45 min + 15 min  = 12:20  
+It will be too late to watch the 12:15 screening  
+ 
+14:45 + 1:57 = 16:42 + 40 min = 17:22 min  
+ 
+The only time slot will be the 14:45 screening and 
+still be at home on time.  1M Adding 
+45 min and 
+15 min 
+1A  
+1O Opinion  
+1A Adding 
+1h57 and 
+40 min 
+1A Time to 
+arrive at home  
+1O 
+Conclusion  (6) 
+1.2.3   Cleaning of the cinema  
+ To prepare for the next showing  
+OR 
+ Allow the cinema crew to take a break  
+Accept any other relevant reasons  1A First 
+reason  
+1A Second 
+reason  
+(2) 
+1.3 1.3.1  Regular pricing = 75 + 55  = R130  1A Identifying 
+the correct 
+values  
+1M Adding  
+1A (3) 
+1.3.2   It is too expensive on a Sunday or 
+weekends   
+OR 
+ On other days its much cheaper   
+Accept any other explanation  2O 
+Explanation  
+(2) 
+    [20] 
+  
+(EC/NOVEMBER 2015 ) MATHEMATICAL LITERACY P2  3 
+ 
+Copyright reserved   Please turn over  QUESTION 2   
+2.1 2.1.1  (a) Total cost (in rand) = R200  + number of 
+minutes more than 150  x R0,60  1A Rental  
+1A Minutes 
+more than 150  
+1A Multiply by 
+60 cents   
+ OR   
+ Total cost (in rand) = R 200  + (number 
+of minutes more than 150)  x R0,60  1A Rental  
+1A Minutes 
+more than 150  
+1A Multiply by 
+60 cents   
+ OR   
+ Total cost (in rand) = R200 + (number of 
+minutes – 150) x R0,60  1A Rental  
+1A Minutes 
+more than 150  
+1A Multiply by 
+60 cents  (3) 
+(b) Total cost (in rand) = R200 + (number of 
+minutes – 150) x R0,60  
+= 200 + (625 – 150) x 0,60  
+= 200 + (475 x 0,60)  
+= 200 + 285  
+= R485,00  CA from 
+2.1.1  (a) 
+1SF  
+1S 
+1S 
+1A (4) 
+2.1.2  
+ 1 Mark for line 
+0–100 
+minutes  
+1 Mark for the 
+correct break -
+even point  
+2 Marks for 
+any other 3 
+points plotted 
+correctly  
+1M Labelling 
+Call Package 
+A (5) 
+2.1.3  For the same number of minutes used the same 
+amount will be paid for both Call packages  1A refer to 
+minutes  
+1A refer to 
+cost (2) 
+2.1.4  Break -even point (450 ;380 ) CA from 2.1.2  
+1CA 450 
+minutes  
+1CA 380 rand  
+If order 
+incorrect 0  (2) 
+  
+Call package A 
+Call package B 
+4 MATHEMATICAL LITERACY P2  (EC/NOVEMBER 2015 ) 
+ 
+Copyright reserved   Please turn over   2.1.5  Call package A  
+Total cost = 100 + (451 – 100) x 0,80  
+                 = 100 + (351 x 0,80)  
+                 = 100 + 280,8  
+                 = R 380,80  
+ 
+Call package B  
+Total cost = 200 + (451 – 150) x 0,60  
+                 = 200 + (301 x 0,60)  
+                 = 200 + 180,60  
+                 = R 380,60  
+ 
+Difference = R 380,80 – R 380,60  
+                  = R 0 ,20  
+ 
+OR 
+Call package A - Call package B  
+= 100 + (451 – 100) x 0,80  – 200 + (451 – 150) x 
+0,60 
+= 100 + (351 x 0,80) – 200 + (301 x 0,60)  
+= 100 + 280,80 - 200 + 180,60  
+= R 380,80  – R 380,60  
+= R 0 ,20   
+1SF  
+ 
+ 
+1CA 
+ 
+ 
+ 
+ 
+ 
+1CA 
+ 
+ 
+1CA 
+Difference  
+ 
+ 
+1SF  
+ 
+1CA 
+1CA 
+1CA 
+Difference  (4) 
+2.1.6  Would recommend that Mr. Gardner use Call 
+Package A  
+With R 300 on Call Package A he will get 350 
+minutes  
+With R 300 on Call Package B he will get 316 
+minutes to 317 minutes  1CA Choosing 
+correct 
+package  
+2 CA  
+2 A (5) 
+2.2 Number of households = 10  x 10 x 10 x 10  
+                                     = 10 000  1A Identifying 
+10 
+1M Multiplying 
+10 four times  
+1CA (3) 
+  [28] 
+  
+(EC/NOVEMBER 2015 ) MATHEMATICAL LITERACY P2  5 
+ 
+Copyright reserved   Please turn over  QUESTION 3   
+3.1 3.1.1  A = 17 ,20 x 1,14  
+   = R 19,61  
+ 
+ 
+B = 31,95   
+        1,14  
+   = R28,03  OR A=17,20 + (17,20 x 0,14)  
+   = 17,20 + 2,41  
+   = R 19,61  1M 
+1A 
+ 
+ 
+1M 
+ 
+1A (4) 
+3.1.2  No, she will not pay for the first 6 kl  1A 
+1O (2) 
+3.1.3  Payment for 19,5 kl  
+= (6 x 0) + (4,5 x 7,60) + (9 x11,61)  
+= R 0 + R 34,20 + R 104,49  
+= R 138,69 x 1,14 
+= R 158 ,11  1M 
+1S 
+1A 
+1A Including 
+VAT (4) 
+3.2 3.2.1  Diameter = 750 mm,  
+therefore radius = 375 mm = 0,375 m  
+Height = 2230 mm = 2,230 m  
+ 
+Volume = 3,142 x 0,375 m2 x 2,230 m  
+             = 3,142 x 0,140625 m2 x 2,230 m  
+             = 0,985311562 m3  x 1000  
+             = 985,311562 /  
+Accept 985,312  
+ 
+Therefore;  
+1000 l  ≠ 985,311562 l OR 985,312  1A Finding 
+radius  
+ 
+ 
+1A Convert 
+mm to m 
+(both)  
+1SF 
+1S radius2 
+1CA in litres  
+1A (6) 
+3.2.2  The given volume was rounded to the nearest 
+1000   
+Consumers are under the impression that you buy 
+a tank with a capacity of 1 000 l, while it only has a 
+tank capacity of 985 l.  1O 
+ 
+ 
+2O (3) 
+3.2.3  Tank can overflow if it is filled above the 
+recommended filled height  2R (2) 
+3.2.4  Any of the vertical round water tanks  2A (2) 
+3.3 Bar graph and  
+Pie chart  1A Bar graph  
+1A Pie chart  (2) 
+  [25] 
+  
+6 MATHEMATICAL LITERACY P2  (EC/NOVEMBER 2015 ) 
+ 
+Copyright reserved   Please turn over  
+ QUESTION 4   
+4.1 4.1.1  Mean = 26 + 29 + 22 + 23 + 22 + 21 + 24   
+                                       7  
+          = 167 
+               7 
+          = 23,85714286  
+          = 24 ºC  1M adding all 
+day temp  
+1M/7  
+ 
+1CA 
+1CA (4) 
+4.1.2  Range = 29 ºC – 15 ºC  
+            = 14ºC  1M concept of 
+range  
+1A  (2) 
+4.1.3  Median = 15; 16; 17; 17; 17; 20; 21  
+             = 17 ºC  1M Arrange 
+values  
+1A (2) 
+4.1.4  Night temperatures decreases from Wednesday to 
+Friday and then increases on Saturday  and then 
+from Sunday remains constant until Tuesday   2O (2) 
+4.1.5  Monday with  
+4 ºC  1RT Day  
+1A Difference  (2) 
+4.1.6  Friday  2RT (2) 
+4.1.7  
+ Any 4 pairs 
+correctly 
+plotted  
+1Mark for 
+legend  
+1 Mark correct 
+graph  (6) 
+4.2 It is highly unlikely that it will rain on Friday because it is 
+only 30% which is small chance for rain to fall  2O (2) 
+4.3 4.3.1  Time = Distance  
+              Speed  
+ 
+         =  64,7 km   
+             90 km/h  
+         = 0,7188….hours x 60  
+         = 43,133…  
+         = 43 minutes   
+ 
+ 
+1M 
+ 
+1S 
+ 
+1A (3) 
+4.3.2  Your speed will decrease therefore it will take you 
+longer to complete the trip  1A refer to 
+speed  
+1A refer to 
+time (2) 
+   [27] 
+  TOTAL:  100 
+ 010203040
+Wo Do VrSaSoMa DiTemperature in °C 
+Days  Day and night 
+temperatures for George 
+from 14 Jan - 20 Jan 
+2015  
+Day temp
+Night temp
+
+ 
+  
+ 
+NATIONAL  
+SENIOR CERTIFICATE  
+ 
+ GRADE 1 1  
+ 
+NOVEMBER  2015 
+ 
+MATHEMATICAL LITERACY P1  
+MEMORANDUM  
+ 
+MARKS:  100 
+  
+ 
+Symbol  Explanation  
+M  Method  
+A Accuracy  
+CA  Consistent accuracy  
+RT/RG/RM  Reading from a table/Reading from a graph/Read from map  
+RP Reading from the plan  
+SF  Substitution in a formula  
+S Simplications  
+P  Penalty (no units, incorrect rounding off etc.)  
+O Opinion  
+J Justification  
+RO Rounding Off 
+ 
+ This memorandum  consists of 7 pages .    
+
+2 MATHEMATICAL LITERACY P1  (EC/NOVEMBER 2015 ) 
+Copyright reserved   Please turn over   
+QUESTION 1  
+ 
+Question  Solution  Explanation  Mark  
+    
+1.1 1.1.1  R169 x 24 + R55 x 24   
+R4 056 + R1  320  
+= R5  376  2M 
+1S 
+1A (4) 
+     
+ 1.1.2  R0,79 x 8  
+R6,32  1M 
+1S (2) 
+     
+ 1.1.3  R1 999 +  R1 999 x 4,4%   OR R1 999 x 1,044  
+= R1 999 + R87,96           = R2 086,96  
+= R2  086,96   
+OR 
+R1,999 x 0,144  
+R2 086,86  1M 
+ 
+1S 
+(2) 
+     
+1.2 1.2.1  R0,35 x 25  
+= R8,75   1M 
+1A (2) 
+     
+ 1.2.2  18:15   
+= 6:5    1M 
+1A (2) 
+     
+ 1.2.3 25 = 5  
+35       7 
+= 0,71 or 71% ( Answer only – full marks)  1M 
+1A 
+(2) 
+     
+1.3 1.3.1 Month 1:  R1  525 x 20%  
+                = R305,00         
+Month 2:  R1 830,00 x  20%   
+                 = R366, 00 
+Interest     = R366 +  R305 = R671,00   
+1M 
+ 
+ 
+1S (2) 
+     
+ 1.3.2  R400 x 11 x 8   + R2  000 x 8 + R671   
+= R35  200 + 16  000 + R671  
+= R51  871,00   2M 
+1CA 
+Multiplication 
+by different 
+number not 11  (3) 
+     
+ 1.3.3  R400 x 11+ R2000 + R671 = 400  000 
+R4 400 +  R2 000 + R671   
+= R7  071,00  
+OR 
+       
+  + R671 = R7  071,00  1M 
+1S 
+1S 
+(3) 
+  
+(EC/NOVEMBER 2015 ) MATHEMATICAL LITERACY P1  3 
+Copyright reserved   Please turn over   
+Question  Solution  Explanation  Mark  
+1.4 1.4.1  R4 760 x 11,82    OR 4,760 x 11,82  
+= R56 263,20            = 56,26  1M 
+1A (2) 
+     
+ 1.4.2  R1 571,05 x 114%  OF R1 571,05 x 14%  
+R1 790,997                 R219,95  
+R1 790,997 x 2   R1 571,05 + R219,95  
+=  R3 581,99         R1 571,05 + R219,95  
+OR 
+R1 571,05 x 14%  
+= R 219,95  
+= R1 571,05 + R219,947   
+= R1 790,997 x 2  
+= R3 581,99   
+OR 
+R1 571,05 x 2  
+= R3 142,10 x 114%  
+= R3 581,99  1M 
+1S 
+1A 
+(3) 
+    [28] 
+  
+4 MATHEMATICAL LITERACY P1  (EC/NOVEMBER 2015 ) 
+Copyright reserved   Please turn over   
+QUESTION 2  
+ 
+Question  Solution  Explanation  Marks  
+    
+2.1 2.1.1  227  RD (2) 
+     
+ 2.1.2  7  ÷  60 = 0,1166666667 h  
+5 ÷ (60 x 60) = 0,00138888888 h  
+4 h + 0,1166666667 h  + 0,00138888888 h  
+= 4,118055556 hours  
+= 4 hours  2M 
+1S  
+ 
+(3) 
+     
+ 2.1.3  Average speed =      
+             
+ 
+                         = 16,5  km/hour 1S 
+ 
+2S 
+Penalise for unit  (3) 
+     
+2.2 2.2.1 Arrival time       – 18:56   
+Departure time – 19:00   2RT 
+(2) 
+     
+ 2.2.2 Bloemfontein   2RT (2) 
+     
+ 2.2.3  Area of a bigger circle – Area of a smaller circle   
+3,142 x (5  m)2 – 3,142 x (2,5  m)2      
+= 78,55 m2 – 19,6375 m2   
+= 58,91 m2         (Accept 58,91 m2)  1F 
+ 
+2SF 
+1S 
+1A (5) 
+    [17] 
+  
+(EC/NOVEMBER 2015 ) MATHEMATICAL LITERACY P1  5 
+Copyright reserved   Please turn over   
+QUESTION 3   
+  
+Question  Solution  Explanation   
+    
+3.1 3.1.1  113 341 x 26%   
+= 113 341 x 0,26   
+= 29 468,66  
+= 29 469     
+ 
+ 
+(2) 
+     
+ 3.1.2  (i)  Cancer  
+(ii) Heart disease     
+(2) 
+     
+ 3.1.3  
+1 mark per  three correctly plotted points                       = 2 marks  
+2 marks for correctly labelling x -axis and y -axis             = 2 marks  Types of 
+death  Accidents  Cancer  Heart 
+disease  Suicide  Homicide  All other 
+causes  
+% death  26 13 12 11 6 32 232 
+ 
+                                                                Causes of death   
+1 mark for completing the table                                     = 1 mark  
+1mark for joining points with a straight line                    = 1  mark  
+(6) 
+    
+ 3.1.4  113 341 – 39 213  
+= 74 128  1M 
+1A (2) 
+     
+ 3.1.5 25–44 years   2RG (2) 
+     
+ 3.1.6 They drive recklessly trying to impress those 
+people of their age about their driving skills. They 
+do not concentrate on the road trying to greet 
+their friends walking on the street. 25 –44 are 
+mature enough and they are careful when  
+driving .  
+(Accept any acceptable reasons .)  
+ 
+ 
+ 
+ 
+ 
+2A (2) 05101520253035
+Accidents Cancer Heart
+diseaseSuicide Homicide All other
+causesPercentages  % death  
+ 
+   
+6 MATHEMATICAL LITERACY P1  (EC/NOVEMBER 2015 ) 
+Copyright reserved   Please turn over   
+3.2 3.2.1  15+14 x 2 + 13 +12 + 9 x 5 + 10 x 3+7 + 5 x 2   
+                                 16 
+= 160  
+    16 
+= 10   1M 
+ 
+1S 
+ 
+1S (3) 
+     
+ 3.2.2 Mode  = 36  2A (2) 
+     
+ 3.2.3 Maluti FET College  2A (2) 
+    [23] 
+  
+QUESTION 4   
+  
+Question  Solution  Explanatio
+n Marks  
+     
+4.1 4.1.1  35 passengers  2A (2) 
+     
+ 4.1.2  Get in and turn right.  Walk straight  or 
+southwards and at the third row from the  
+back  next to the window will be your seat.  
+Accept any relevant explanation.  3 
+(3) 
+     
+ 4.1.3  A7  2A (2) 
+     
+4.2 4.2.1 Strip Map   2A (2) 
+     
+ 4.2.2 430 – 220  OR 22 + 19  x 2 + 14 x 2 +17 x 2 + 10 +  35 + 43 
+= 210 km            = 210 km  1M 
+1S (2) 
+     
+ 4.2.3 N1 or Road 1  and 4 toll gates  2RM  (2) 
+     
+ 4.2.4 North west    2RM  (2) 
+    [15] 
+  
+(EC/NOVEMBER 2015 ) MATHEMATICAL LITERACY P1  7 
+Copyright reserved   Please turn over   
+QUESTION 5   
+  
+Question  Solution  Explanation  Marks  
+    
+5.1 5.1.1  323 litres   
+323 x 1  000 = 3 3      ℓ  1RD 
+1C (3) 
+     
+ 5.1.2  Interest rate is the rate   at which interest is 
+paid or charged for the use of  money .  
+OR 
+It is percentage of the total amount paid over a 
+period of time.  2A 
+(2) 
+     
+ 5.1.3 R4 799,00 – R479,90  
+= R4 319,10  1M 
+1S (2) 
+     
+ 5.1.4  R4 319,10 x (21,75 ÷ 100 ÷ 12)  
+= R4 319,10 x 0,018125   
+= R78,2836875 x 24  
+= R1 878,81  
+OR 
+R4 319,10 x (21,75  ÷ 100) 
+= R939,40425 x 2  
+= R1 878,81  
+OR 
+R4 319,10 x (21,7 1 ÷ 100) x 2  
+= R1 878,81  1M 
+1S 
+ 
+1S 
+(3) 
+     
+ 5.2.1  32;35,36;37;38;42;46;46;46;49;58;62;64;66;67  
+Median = 46  2A 
+(2) 
+     
+ 5.2.2  IQR = 62  – 37  
+        = 25  2CV 
+1A (3) 
+     
+ 5.2.3  10 
+15 
+= 2 
+   3   2M 
+ 
+ 
+1A (3) 
+    [18] 
+   
+ TOTAAL:  100 
+ 
+ 
+ 
+
+ 
+ 
+NASIONALE  
+SENIOR SERTIFIKAAT  
+ 
+ GRAAD 11   
+ 
+NOVEMBER 2014  
+ 
+WISKUNDIGE GELETTERDHEID V1   
+MEMORANDUM  
+ 
+ 
+PUNTE:  100 
+ 
+ Hierdie  memorandum  bestaan uit  6 bladsye .  
+  
+
+2 WISKUNDIGE GELETTERDHEID V1  (NOVEMBER 2014)  
+Kopiereg voorbehou   Blaai om asseblief   
+VRAAG  1     
+   
+VR OPLOSSING  Finansies   
+1.1.1  R70,17 x 3 + 2 x R2  367,54 + R28,06 x 3 + R28,94      1M  
+ R210,51 + R4  735,08 + R84,18 + R28,94                      1S  
+ R5 058,71        1A (3) 
+    
+1.1.2          
+       1M 
+ 
+    
+ = R1,40  1 A (2) 
+    
+1.1.3  Desember  2RT (2) 
+    
+1.1.4  BTW -nommer  8754896368     2RT (2) 
+    
+1.1.5  Snymasjien  RYOBI 43CC     2RT (2) 
+    
+1.1.6  Q 000002158         2RT (2) 
+    
+  Meting   
+1.1.7  1 000 mℓ = 1 ℓ   
+ 2 00 mℓ   = x   1M  
+        
+       =       
+       
+           
+0,2 ℓ         = x         
+ 
+ 
+1A (2) 
+    
+1.1.8 12 x 13        
+  = 156 maande      (2) 
+    
+  Data 
+Hantering   
+1.2.1 Skool E   2A (2) 
+    
+1.2.2 Skool A fooie  – Skool B f ooie   
+ R14 000  –  R12 000     1M  
+ = R2  000,00                                1 A (2) 
+   [21] 
+  
+(NOVEMBER 2014)  WISKUNDIGE GELETTERDHEID V1  3 
+Kopiereg voorbehou   Blaai om asseblief   
+VRAAG  2   
+   
+VR OPLOSSING  Finansies   
+2.1.1                   
+      
+2SF  
+    
+ = R 168 947,37  
+OF 
+R192  600 x   
+    
+ 
+R23 652,63 
+R19 6200 – R23 652,63  
+= R 168 947,37   1 A 
+ 
+ OF   
+ R192  600: x  = 114% : 100   
+        x =  R168  947,37     
+(3) 
+    
+2.1.2          
+    = R13,2 8  1D 
+1A (2) 
+    
+2.2.1  Wins  = R7  200,00 – R3 339,14   
+         = R3  860,86     1SF 
+1 A (2) 
+    
+2.2.2  R350,00 x 4 = R1  400,00   OF     1% of R350  
+R1 400,00 x 1%                           = R3,50 x  4 
+= R14,00 ŉ maand                         = R14,00  1M 
+1S 
+1A (3) 
+    
+2.2.3                      –        
+         x 100  
+                   =   
+    x 100  
+                    
+                   = 5,56 o f 5,6%   1SF 
+1S 
+ 
+1CA 
+(3) 
+    
+2.3.1      
+    
+=   
+           
+ = 0,00074   1D 
+1 S 
+1A 
+(3) 
+    
+2.3.2  Paaiement verskuldig  =                 
+   + R21,00   
+                                       = R5  753,05 ÷12 + R21,00  
+                                   = R500,42  1SF 
+1S 
+1CA (3) 
+    
+2.3.3  R6 879   
+379,83  
+= R 18,1107  
+= R18,11  2D 
+1A 
+ 
+(3) 
+   [22] 
+  
+4 WISKUNDIGE GELETTERDHEID V1  (NOVEMBER 2014)  
+Kopiereg voorbehou   Blaai om asseblief   
+VRAAG  3:  ME TING    
+   
+3.1.1  Oppervlakte  = 162  m x 160  m  
+                    = 25 920 m2  1SF 
+1A (2) 
+    
+3.1.2  Omtrek = 2(160  m + 162 m)  
+             = 644  m 1SF 
+1A (2) 
+    
+3.1.3  Aantal gatte   = 324 ÷ 2 – 1 
+                     = 162 – 1 
+                     = 161 gatte  1SF 
+1S 
+1A (3) 
+    
+3.1.4  BO = 2(6,2 m x  3 m) + 2(5,1  x 3 m) – (1,71 m2 + 4,875  m2) 
+      = 37,2 m2  + 30,6 m2 – 6,585 m2  
+      = 61,215 m2   
+1SF 
+1S 
+1A (3) 
+    
+3.1.5  1𝓵 = 6 m2  
+   x  = 61,215   
+61,215 ÷6 =  x 
+              x = 10,2025  / 5   
+                 = 2,0405  
+Daarom 3 (5 ℓ) blikke verf  1M 
+ 
+1M 
+ 
+1A (3) 
+    
+3.2        
+          
+      Penaliseer vir  geen eenhede  
+ 
+= 34,26 kg/m2  
+Aanvaar  114 kg (33,97  kg/m2) 1CV 
+1SF 
+1A 
+1U (4) 
+   [17] 
+   
+VRAAG  4   
+   
+4.1.1  C2  2RM  (2) 
+    
+4.1.2  Indiese  oseaa n  2RM  (2) 
+    
+4.1.3  Swaziland  en Mosambie k  2RM  (2) 
+    
+4.1.4  6,5 x 2600 000  =16 900  000  
+16 900 000 ÷100 000  
+= 169 km   1M 
+1C 
+1A (3) 
+    
+    
+4.1.5                                 .Big Bend  
+ 
+                       .Lavumisa  
+ 
+                     
+                    .Mkuze 
+ 
+                                  .Phinda  3RM  
+(3) 
+ 
+(NOVEMBER 2014)  WISKUNDIGE GELETTERDHEID V1  5 
+Kopiereg voorbehou   Blaai om asseblief   
+4.1.6  Kwazulu -Natal   2A (2) 
+    
+4.1.7  Qumbu   
+Mount Frere   2A 
+(2) 
+   [16] 
+   
+VRAAG 5:  DATA HANTERING   
+   
+5.1.1  Limpopo    2RT (2) 
+    
+5.1.2  Gauteng : Totale aantal babas  
+60 : 320  
+  :  .   …  
+1: 5   
+2CV 
+1A 
+1R (4) 
+    
+5.1.3  
+ 
+ 1 Punt per ba lk streng akkuraat (4)  
+(slegs die ontbrekende balke in vraestel ) (4) 01020304050607080
+Oos-Kaap Limpopo Mpumalanga Noord-Kaap Wes-Kaap Gauteng KwaZulu-NatalAantal geboortes  
+Provinsies  Aantal geboortes soos op 1 Januarie 2014  
+6 WISKUNDIGE GELETTERDHEID V1  (NOVEMBER 2014)  
+Kopiereg voorbehou   Blaai om asseblief   
+5.2.1         
+     
+  
+= 5,45     1 add 
+1M 
+ 
+1A (3) 
+    
+5.2.2  Media an = R2,76 +  R2,91)   
+         2 
+            =  (     
+   
+                  
+            = R2,84   1M 
+ 
+1S 
+ 
+1A 
+(3) 
+    
+5.2.3  Modale waarde = R6,50   2A (2) 
+    
+5.2.4   
+    
+ 
+ 
+    1M 
+ 
+ 
+1A (2) 
+    
+5.2.5  Variasiewydte  = R3,36 – R2,16   
+                        = R1,20   2A 
+(2) 
+    
+5.2.6  R1,39   2RB (2) 
+   [24] 
+    
+  TOTAAL: 100 
+ 
+
+ 
+ 
+NATIONAL  
+SENIOR CERTIFICATE  
+ 
+ GRADE  11  
+ 
+NOVEMBER 2014  
+ 
+MATHEMATICAL LITERACY P1  
+MEMORANDUM  
+ 
+ 
+MARKS:  100 
+ 
+ This memorandum  consists of 6 pages.   
+  
+
+2 MATHEMATICAL LITERACY P1  (NOVEMBER 2014)  
+Copyright reserved   Please turn over   
+QUESTION 1     
+   
+Q SOLUTION  Finance   
+    
+1.1.1  R70,17 x 3 + 2 x R2  367,54 + R28,06 x 3 + R28,94    1M  
+ R210,51 + R4  735,08 + R84,18 + R 28,94                   1S  
+ R5 058,71     1A (3) 
+    
+1.1.2          
+       1M 
+ 
+    
+ = R1,40  1A (2) 
+    
+1.1.3  December  2RT (2) 
+    
+1.1.4  VAT number 8754896368     2RT (2) 
+    
+1.1.5  Brush cutter RYOBI 43CC    2RT (2) 
+    
+1.1.6  Q 000002158         2RT (2) 
+    
+  Measurement   
+1.1.7 1 000 mℓ = 1 ℓ   
+ 2 00 mℓ   = x                                1M  
+        
+       =       
+       
+           
+0,2 ℓ         = x         
+ 
+ 
+1A (2) 
+    
+1.1.8 12 x 13    1M  
+  = 156 months   1A (2) 
+    
+  Data Handling   
+    
+1.2.1 School E  2A (2) 
+    
+1.2.2 School A fees – School B fees    
+ R14 000  – R12 000  1M  
+ = R2  000,00                                1 A (2) 
+   [21] 
+  
+(NOVEMBER 2014)  MATHEMATICAL LITERACY P1  3 
+Copyright reserved   Please turn over   
+QUESTION 2    
+   
+Q SOLUTION  Finance   
+2.1.1                  
+     2SF 
+1 A (3) 
+    
+ = R168  947,37  
+OR 
+R192  600 x   
+    
+ 
+R23 652,63   
+R19 6200 – R23 652,63  
+= R168  947,37    
+ 
+ OR   
+ R192  600: 𝓧  = 114%  : 100   
+            x =  R168  947,37    
+ 
+    
+2.1.2          
+   = R13,2 8  1D 
+1A (2) 
+    
+2.2.1  Profit = R7  200,00 – R3 339,14   
+         = R3  860,86     1SF 
+1 A (2) 
+    
+2.2.2  R350,00 x 4 = R1  400,00   OR       1% of R350  
+R1 400,00 x 1%                               R3,50 x  4 
+= R14,00 a month                           = R14,00  1M 
+1S 
+1A (3) 
+    
+2.2.3                       –        
+        x 100  
+                   =   
+    x 100  
+                    
+                   = 5,56 or 5,6%   1SF 
+1S 
+ 
+1CA 
+(3) 
+    
+2.3.1      
+    
+=   
+          
+ = 0,00074   1D 
+1 S 
+1A 
+(3) 
+    
+2.3.2  Instalment due  =                 
+   + R21,00  
+                           = R5  753,05 ÷12 + R21,00  
+                        = R479,42 + R 21,00  
+                        = R500,42  1SF 
+1S 
+1CA 
+(3) 
+    
+2.3.3  R6 879   
+379,83   
+= R18,1107  
+= R18,11  2D 
+1A 
+ 
+(3) 
+   [22]   
+4 MATHEMATICAL LITERACY P1  (NOVEMBER 2014)  
+Copyright reserved   Please turn over   
+QUESTION 3:  MEASUREMENT    
+   
+3.1.1  Area  = 162  m x 160  m  
+        = 25 920 m2  1SF 
+1A (2) 
+    
+3.1.2  Perimeter = 2(160  m +162  m)  
+                = 644  m  1SF 
+1A (2) 
+    
+3.1.3  No. of holes  = 324 ÷ 2 – 1  
+                    = 162 – 1  
+                    = 161 holes   1SF 
+1S 
+1A (3) 
+    
+3.1.4  SA = 2( 6,2 m x 3 m) + 2( 5,1 x 3 m) – (1,71  m2 + 4,875  m2)  
+      = 37,2 m2  + 30,6 m2 – 6,585  m2  
+      = 61,215  m2   
+1SF 
+1S 
+1A (3) 
+    
+3.1.5  1 ℓ = 6 m2 
+x  = 61,215  
+61,215 ÷6 =  x 
+              x = 10,2025   / 5  
+                = 2,0405               
+Therefore 3  (5 ℓ) tins of paint .  1M 
+ 
+1M 
+ 
+1A (3) 
+    
+3.2            
+          
+                           Penalise if units not written  
+ 
+= 34,26 kg/m2  
+Accept 114 kg (33,97  kg/m2) 1CV 
+1SF 
+1A 
+1U (4) 
+   [17] 
+   
+QUESTION 4    
+   
+4.1.1  C2  2RM  (2) 
+    
+4.1.2  Indian Ocean   2RM  (2) 
+    
+4.1.3  Swaziland   and Mozambique  2RM  (2) 
+    
+4.1.4  6,5 x 2  600 000 =16 900  000  
+16 900 000 ÷100 000  
+= 169 km   1M 
+1C 
+1A L3(3)  
+    
+4.1.5                                 .Big Bend  
+ 
+                       .Lavumisa  
+ 
+                     
+                    .Mkuze   
+ 
+                                  .Phinda  3RM  
+L1(3)  
+(NOVEMBER 2014)  MATHEMATICAL LITERACY P1  5 
+Copyright reserved   Please turn over   
+4.1.6  Kwazulu -Natal   2A (2) 
+    
+4.1.7  Qumbu   
+Mount Frere   2A 
+(2) 
+   [16] 
+   
+QUESTION 5:  DATA HANDLING    
+   
+5.1.1  Limpopo    2RT (2) 
+    
+5.1.2  Gauteng : Total number of babies  
+60 : 320   
+  :  .   …  
+1: 5   
+2CV 
+1A 
+1R (4) 
+    
+5.1.3  
+ 
+ 1 Mark per bar strictly accurate  (4) 
+(only the missing ones in the paper ) (4) 
+01020304050607080
+Eastern Cape Limpopo Mpumalanga Nothern Cape Western Cape Gauteng KwaZulu NatalNumber of births 
+ProvincesNumber of births as on 1 January 2014
+6 MATHEMATICAL LITERACY P1  (NOVEMBER 2014)  
+Copyright reserved   Please turn over   
+5.2.1         
+     
+ 
+= 5,45B 1 add 
+1M 
+ 
+1A (3) 
+    
+5.2.2  Median  = R2,76 +  R2,91)   
+         2 
+            =  (      
+   
+                  
+            = R2,84   1M 
+ 
+1S 
+ 
+1A 
+(3) 
+    
+5.2.3  Modal value  = R6,50   2A (2) 
+    
+5.2.4   
+    
+ 
+ 
+    1M 
+ 
+ 
+1A (2) 
+    
+5.2.5  Range = R3,36 – R2,16   
+           = R1,20   2A 
+(2) 
+    
+5.2.6  R1,39   2RB (2) 
+   [24] 
+    
+  TOTAL:  100 
+ 
+
+ 
+ 
+NATIONAL  
+SENIOR CERTIFICATE  
+ 
+ GRADE 1 1  
+ 
+NOVEMBER  2014 
+ 
+MATHEMATICAL LITERACY  P2 
+MEMORANDUM  
+ 
+MARKS:  100 
+  
+Symbol  Explanation  
+M  Method  
+MA  Method with accuracy  
+CA  Consistent accuracy  
+A  Accur acy/Answer  
+C  Conversion  
+S  Simplification  
+RT/RG /RM  Reading from a table/Reading from a graph /Read from map  
+F  Choosing the correct formula  
+SF  Substitution in a formula  
+J / O Justification  
+P  Penalty, e.g. for no units, incorrect rounding off etc.  
+R  Rounding Off/Reason  
+ 
+ 
+ This memorandum  consists of 7 pages.   
+  
+
+2 MATHEMATICAL LITERACY P2  (NOVEMBER 2014)  
+Copyright reserved   Please turn over   
+QUESTION 1    
+   
+QUESTION  SOLUTION    
+    
+1.1  1.1.1  2 litres  = 2 000 mℓ  
+ 
+No of cups = 2 000 mℓ 
+                       125 mℓ  
+                   = 16 cups  
+OR 
+125 mℓ = 0,125 ℓ  
+ 
+No of cups = 2 ℓ 
+                     0,125 ℓ 
+                   = 16 cups  1C Conversion to mℓ 
+OR l 
+ 
+1M divided by 125 OR 
+0,125  
+1CA 
+ 
+ 
+ 
+ 
+ (3)  
+     
+ 1.1.2  2 litres  = 2 000 mℓ 
+ 
+No of cups = 2 000 mℓ 
+                       250 mℓ  
+                   = 8 cups  
+OR 
+250 mℓ = 0,250 ℓ  
+ 
+No of cups = 2 ℓ 
+                     0,250 ℓ  
+                   = 8 cups  1C Conversion to mℓ 
+OR l 
+ 
+1M divided by 250 OR 
+0,250  
+1CA 
+ 
+ 
+ 
+ 
+ (3)  
+     
+ 1.1.3  Grade  12A 
+Profit = Income – Expenses  
+         = (16 x 2,00) – 8,99 
+         = 32 – 8,99  
+         = R23,01  
+ 
+ 
+Grade 12 B 
+Profit = Income – Expenses  
+         = (8 x 3,50) – 8,99  
+         = 28 – 8,99 
+         = R19,01  
+ 
+Disagree ,  Grade 12A makes R 4,00 more 
+profit (R23,01 – R19,01).  1CA multiplying 16 x 2 
+according to answer in 
+1.1.1  
+1CA difference 
+between income and 
+expenses  
+1CA 
+ 
+1CA multiplying 8 x 
+3,50  
+According to answer in 
+1.1.2  
+1CA difference 
+between income and 
+expenses  
+1CA 
+ 
+2CA Opinion  (8)  
+     
+ 1.1.4  Percentage profit = 23,01    x 100 
+                                 8,99        1      
+                             = 255,95 %  
+                             ≈ 260 %  1M concept of %  
+1A 
+1CA rounding to 
+nearest 10 (depending 
+on answer)  (3)  
+  
+(NOVEMBER 2014)  MATHEMATICAL LITERACY P2  3 
+Copyright reserved   Please turn over   
+1.2 1.2.1  Day 3  2RG (2)  
+     
+ 1.2.2  Difference   = 88  – 20  
+                   = 68 cups of cold drink  2RG correct values  
+1A (3) 
+     
+ 1.2.3  Day 4  2RG (2) 
+     
+ 1.2.4  60 cups of cold drinks  2RG (2) 
+     
+ 1.2.5  Grade 12 A 
+Average = 
+32+60+60+40+72+100+64+80+56+96   
+                              10  
+               = 660  
+                  10 
+               = 66 cups  
+ 
+Grade 12 B 
+Average = 
+20+40+60+ 56+44+88+52+60+44+76  
+                             10  
+               = 540  
+                  10 
+               = 54 cups  
+ 
+Agree with statement. Grade 12 A’s 
+average is greater than Grade 12B’s 
+average.  1M adding correct 
+values  
+1M divided by 10  
+ 
+ 
+1CA 
+ 
+ 
+1M adding correct 
+values  
+1M divided by 10  
+ 
+ 
+1CA 
+ 
+ 
+2J 
+ 
+ (8) 
+     
+ 1.2.6  32 : 20  
+8 : 5  1M writing as ratio  
+1A simplest form  (2) 
+    [36] 
+  
+4 MATHEMATICAL LITERACY P2  (NOVEMBER 2014)  
+Copyright reserved   Please turn over   
+QUESTION 2    
+   
+2.1  2.1.1  Number of tins across length  
+= 48 cm  
+   8,4 cm  
+= 5,714…  
+≈ 5 tins  1M using the correct 
+length  
+1A find diameter  
+1A 
+1R rounding down  (4)  
+     
+ 2.1.2  Number of tins across width  
+= 35 cm   
+   8,4 cm  
+= 4,166…  
+≈ 4 tins  1M using the correct 
+width  
+ 
+1A 
+1R rounding down  (3)  
+     
+ 2.1.3  Number of tins stacked on top of each other  
+= 15 cm   
+   3,8 cm  
+= 3,947…  
+≈ 3 tins  1M using the correct 
+values  
+1A 
+1R rounding down  (3)  
+     
+ 2.1.4  Number of tins that can go into the box  
+= 5 x 4 x 3  
+= 60 tins  
+ 
+Vuyo is correct, he will be able to pack more 
+than 50 tins into the box.  1M 
+1CA using values as in 
+2.1.1 – 2.1.3  
+ 
+1CA justification   (3)  
+    
+2.2 Cost of the trip = 7,6 x R 13,20  
+                         = R100,32  
+ 
+Post Office Services  
+ 
+1 tin tuna = 170 g 
+60 tins tuna = 60 x 170 g 
+                    = 10 200 g  
+                         1 000  
+                    = 10,2 kg  
+ 
+Rate = 35,10 + (4,70 x 10  kg)  
+         = 35,10 + 47,00  
+         = R82,10  
+ 
+He must make use of the Post Office Service s 
+because he will pay R18,22 (R100,32 – R82,10) 
+less.  1M  
+1A 
+ 
+ 
+ 
+ 
+1CA finding the mass 
+of 60 tins (depending 
+on answer in 2.1.4)  
+1A convert g to kg  
+ 
+1CA substitution in 
+formula  
+ 
+1CA  
+ 
+2CA choose most 
+economical option  (8)  
+   [21] 
+  
+(NOVEMBER 2014)  MATHEMATICAL LITERACY P2  5 
+Copyright reserved   Please turn over   
+QUESTION 3    
+   
+3.1 3.1.1  South  2A (2)  
+     
+ 3.1.2  One-way streets  2A (2)  
+     
+ 3.1.3  Girton/Park/Jorrisen/Juta/Bre ë/Smit / 
+Prospect/Olivia/ Park                    (Any 1)  2A (2)  
+     
+ 3.1.4  B1 OR 1B  2A (2)  
+     
+ 3.1.5  Up Harrison Street  right into Bre ë Street  
+ left into King George  
+(Accept any logical directions .)  3A  (3)  
+     
+ 3.1.6  Scale  
+2,5 cm = 500 m  
+2,5 cm = 500  x 100  
+2,5 cm = 50 000 cm  
+1 cm = 20 000 cm  
+1 : 20 000  
+OR 
+2,5 cm = 500 m  
+1 cm = 200 m  
+1 cm = 200 x 100 cm  
+1 cm = 20 000 cm  
+1 : 20 000  1A measuring scale on 
+map 
+ 
+1A converting 500 m to 
+cm 
+ 
+1A scale  
+ 
+ 
+ 
+ 
+ (3)  
+  
+6 MATHEMATICAL LITERACY P2  (NOVEMBER 2014)  
+Copyright reserved   Please turn over   
+ 3.1.7  Marcia  
+Scale = 1  : 20 000  
+Distance = 4,2 cm    (ACCEPT 4,1 – 4,3) 
+Distance in meters = 4,2 x 20 000   
+                                         100 
+                               = 840 m  
+OR 
+Distance in meters = 4,2 x 200 (ACCEPT 
+4,1 – 4,3) 
+                               = 840 m  
+ 
+Zoe 
+Scale = 1  : 20 000  
+Distance = 3,3 cm  
+Distance in meters = 3,3 x 20 000  (ACCEPT 
+3,2 – 3,4)                          100 
+                               = 660 m  
+OR 
+Distance in meters = 3,3  x 200 (ACCEPT 
+3,2 – 3,4) 
+                               = 660 m  
+ 
+Zoe’s  distance is 180 m (840 m – 660 m) 
+shorter than that of Marcia .   
+ 
+1A Measuring distance  
+ 
+1CA convert to meters  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1A Measuring distance  
+ 
+ 
+1CA convert to meters  
+ 
+ 
+ 
+ 
+1CA Identify shortest 
+distance  
+1CA difference in 
+distance  
+ 
+(CA mark applies for 
+scale calculated in 
+3.1.6)  (6)  
+     
+3.2 3.2.1  Number of cards in each suite = 52 
+                                                     4  
+                                                 = 13  1M 
+1A (2)  
+     
+ 3.2.2  Probability (black and  10) =   2   +  2  
+         26        26  
+    =   4  
+         26 
+    =   2 
+         13 OR 0,154  
+OR 15,4%  1A identifying both  
+1M adding  
+ 
+ 
+ 
+1A (3) 
+  [25] 
+  
+(NOVEMBER 2014)  MATHEMATICAL LITERACY P2  7 
+Copyright reserved   Please turn over   
+QUESTION 4    
+   
+4.1  4.1.1  Price before discount  = R3 999,90 + R900  
+ = R4 899,90  1M adding correct 
+values  
+1A (2)  
+     
+ 4.1.2  % discount =  900        x 100  
+                      4 899,90      1 
+                   = 18,36772179  
+                   = 18,4 %  1M concept of %  
+ 
+1A 
+1R rounding to 
+1dec. place  (3)  
+     
+ 4.1.3  The interest rate is not equal to 8,5 %, but 
+starts at 8,5%.  
+The repayment value is not equal to  
+R6 202,39, but starts at R6  202,39.   
+(Accept any other relevant explanation .) 1A: explanation  
+‘from 8,5%’  
+1A: explanation  
+‘from R 6 202,39  
+ (2)  
+     
+ 4.1.4  A = P(1  + ni) 
+   = 3 99 9,90 (1 + 0,085 x 2)  
+   = 3 990,90 (1,17)  
+   = R4 679,88  
+ 
+Final answer is not the same. The interest rate 
+for this purchase is not 8,5%.  1 SF substitute 
+correct values  
+1 S simplify bracket  
+1CA  
+ 
+ 
+2A opinion  (5)  
+     
+ 4.1.5   You pay much more due to interest 
+calculated.  
+OR 
+ Item only belongs to you when final 
+payment is made.  
+(Accept any relevant answer. ) 2A (2)  
+     
+4.2 4.2.1  Accept any suitable heading .  2A (2)  
+     
+ 4.2.2  Music ,  videos  and photos  
+(Accept any other usage not mention ed in the 
+pie chart .) 2A 1 mark per 
+usage  (2)  
+    [18] 
+     
+  TOTAL:  100 
+ 

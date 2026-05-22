@@ -1,0 +1,1876 @@
+Files:
+- C:\Users\umorrja\projects\testpapers\grade11_mathematical_literacy_papers\2012\MLIT-P2-GR11 2012 MEMO-AFR.pdf
+- C:\Users\umorrja\projects\testpapers\grade11_mathematical_literacy_papers\2012\MLIT-P2-GR11 2012 MEMO-ENG.pdf
+- C:\Users\umorrja\projects\testpapers\grade11_mathematical_literacy_papers\2012\MLIT-P2-GR11 2012-QP-Eng.pdf
+
+--- Summary ---
+ 
+  Province of the  
+EASTERN CAPE  
+EDUCATION  
+ 
+NASIONAL E 
+SENIOR SERTIFI KAAT 
+ 
+ GRA AD 11  
+ 
+NOV EMBER 201 2 
+ 
+WISKUNDIGE GELETTERDHEID V2 
+MEMORANDUM  
+ 
+PUNTE : 100 
+  
+ 
+Simbool  Verduideliking  
+M  Metod e  
+MA  Metode met akkuraatheid  
+CA  Voortgesette akkuraatheid  
+A  Akkuraatheid (Antwoord)  
+C  Omskakeling   
+S  Vereenvoudiging   
+RT/RG /RM  Lees van tabel/Lees van grafiek/Lees van kaart  
+F  Kies van korrekte formule  
+SF  Substitusie in formule  
+J/O  Mening  
+P  Penalisering vir geen eenhede, verkeerde afronding, ens.
+ 
+(5) 1:A 
+(radius)  
+1:SF  
+1:A 
+ 
+1:C (cm3 
+na l) 
+ 
+1:J 
+     
+1.4     
+LU1 
+AS 
+11.1.1 1.4.1  500 g = ½ kg 
+½ x R 67 = R 33,50  (1) 1:A 
+  
+(NOVEMBER 2012 ) WISKUNDIGE GELETTERDHEID V2  3 
+  
+LU1 
+AS 
+11.1.2 1.4.2  BTW bedrag = (R33,50 + R12,59)  x 0,14  
+                     = R 46,09 x 0,14  
+                     = R 6,45  
+(3) 1:M 
+(korrekte 
+waardes)  
+1:M  
+(x 14%)  
+1:A 
+     
+LU1 
+AS 
+11.1.3 1.4.3  Alhoewel nartjies vrugte is, is dit in hierdie geval  
+geprosesseer (geblik), terwyl die lemoene ŉ vars  
+produk is .
+ (2) 1:A 
+1:R 
+     
+LU4 
+AS 
+11.4.5 3.1.2  10  
+(2) 2:A 
+     
+LU4 
+AS 
+11.4.5 3.1.3  4  
+(2) 2:A 
+     
+LU4 
+AS 
+11.4.5 3.1.4  10  
+(2) 2:A 
+     
+LU4 
+AS 
+11.4.5 3.1.5  ¼         OF      0,25        OF       25%  
+(2) 1:A (teller)  
+1:A (noemer)  
+     
+LU4 
+AS 
+11.4.5 3.1.6  1/16       OF      0,063        OF       6,3%  
+(2) 1:A (teller)  
+1:A (noemer)  
+     
+3.2     
+LU2 
+AS 
+11.2.1 3.2.1  (a) s = 5t + 2 c + 3p   
+(3) 3:F 
+      
+LU2 
+AS 
+11.2.1  (b) s = 5t + 2 c + 3p   
+          = (5 x 6) + (2 x 5) + (3 x 3)   
+          = 30 + 10 + 9  
+          = 49  (2) 1:SF 
+(korrekte 
+waardes)  
+1:CA  
+     
+LU2 
+AS 
+11.2.1 3.2.2  Vir 1 strafskop  
+(1) 1:A 
+     
+3.3     
+LU1 
+AS 
+11.1.1 3.3.1  1 ZAR (Suid -Afrikaanse Rand) = 0,15761 NZD  
+Kategor ie B = 123 NZD  
+ 
+ZAR = 123 NZD/0,15761 NZD   
+        = 780,4073346  
+        = 780,41  (3) 1:RT (123)  
+ 
+1:M 
+ 
+1:A 
+     
+LU1 
+AS 
+11.1.1 3.3.2  1 NZD = R6,3450 ZAR  
+200 NZD  
+ZAR = 200 x 6 ,3450  
+        = R1 269  (2) 1:M 
+1A 
+   [23]  
+  
+(NOVEMBER 2012 ) WISKUNDIGE GELETTERDHEID V2  7 
+  
+VRAAG  4  
+  
+4.1    
+LU2 
+AS 
+11.2.3 4.1.1  Kosprys vir 1 CD  = (80 – 30)/10 OF Kosprys vir 1 CD  = (130 – 30)/20   
+                       = 50/10                                                             = 100/20 
+                       = R5                                       = R5   
+ 
+Kosprys vir 1 CD  = (180 – 30)/30 OF Kosprys vir 1 CD  = (230 – 30)/10   
+                       = 150/30                                                            = 200/40 
+                       = R5                                        = R5   
+ 
+Kosprys vir 1 CD  = (280 – 30)/50OF Kosprys vir 1 CD  = (330 – 30)/60   
+                       = 250/50                                                           = 300/60 
+                       = R5                                        = R5   
+ 
+Kosprys vir 1 CD  = (380 – 30)/70OF Kosprys vir 1 CD  = (430 – 30)/80   
+                        = 350/70                                                          = 400/80 
+                        = R5                                       = R5   
+ 
+Kosprys vir 1CD = (480 – 30)/90   
+                            = 450/90                                                                        
+                            = R 5                                              (2) 1:M 
+1:A 
+     
+LU2 
+AS 
+11.2.3 4.1.2  Verkoopprys van 1  CD = 60/10   OF  Verkoopprys van  = 120/20  
+                                               = R6                                   = R6   
+                                          
+Verkoopprys van 1  CD = 180/30 OF  Verkoopprys van 1  CD  = 240/40 
+ 
+                                               = R6                                          = R6  
+                                                  
+Verkoopprys van 1  CD = 300/50  OF Verkoopprys van 1  CD = 360/60  
+                             = R6                                          = R6  
+                                                                         
+Verkoopprys van 1 CD  = 420/70   OF  Verkoopprys van 1CD  = 480/80  
+                               = R 6                                         = R 6  
+                                                OF 
+Verkoopprys van 1CD = 540/90                                                 
+                                                      = R6  (2) 1:M 
+1:A 
+     
+LU2 
+AS 
+11.2.3 4.1.3  % Wins  = (Inkomste – Uitgawes) x 100  
+                               Uitgawes  
+              =  6 – 5  x 100  
+                      5  
+              = 1/5  x 100     
+              = 20%     (2) 1:M 
+1:A 
+     
+LU2 
+AS 
+11.2.1 4.1.4  30  ; 180     
+(2) 1:A 
+(30) 
+1:A 
+(180)  
+  
+8 WISKUNDIGE GELETTERDHEID V2  (NOVEMBER 2012 ) 
+  
+LU2 
+AS 
+11.2.1 4.1.5  Gelykbreekpunt  
+Vir 30 CD’s is die inkomste en uitgawes presies dieselfde  
+(R180) .
+van binnesirkel  
+                    =  r2 –  r2  
+                    = 3,14 x 5,9 cm x 5,9 cm – 3,14 x 0,75 cm x 0,75 cm  
+                    = 109,3034 cm2 – 1,76625 cm2  
+                    = 107,53715 cm2  
+                    = 107,54 cm2  (5) 1:C 
+(mm 
+na cm)  
+1:A 
+(vind r)  
+ 
+ 
+ 
+ 
+1:SF  
+1:S 
+1:CA  
+ 
+  [25]  
+    
+ TOTA AL: 100  
+ 
+
+ 
+  Province of the  
+EASTERN CAPE  
+EDUCATION  
+ 
+NATIONAL  
+SENIOR CERTIFICATE  
+ 
+ GRADE 1 1  
+ 
+NOV EMBER 201 2 
+ 
+MATHEMATICAL LITERACY  P2 
+MEMORANDUM  
+ 
+MARKS:  100 
+  
+Symbol  Explanation  
+M  Method  
+MA  Method with accuracy  
+CA  Consistent accuracy  
+A  Accuracy  
+C  Conversion  
+S  Simplification  
+RT/RG /RM  Reading from a table/Reading from a graph /Read from map  
+F  Choosing the correct formula  
+SF  Substitution in a formula  
+J  Justification  
+P  Penalty, e.g.
+ (2) 1:A 
+1:R 
+     
+2.3 
+LO4 
+AS 
+11.4.5  
+ 
+  P(silver) = 3/14  OR  0,214   OR  21,4%  
+(2) 1:A 
+(numerator)  
+1:A 
+(denominator)  
+   [21]  
+  
+6 MATHEMATICAL LITERACY P2  (NOVEMBER 2012 ) 
+  
+QUESTION 3   
+   
+3.1    
+LO4 
+AS 
+11.4.5 3.1.1  5  
+Teams cannot play against themselves  (2) 1:A 
+1:R 
+     
+LO4 
+AS 
+11.4.5 3.1.2  10  
+(2) 2:A 
+     
+LO4 
+AS 
+11.4.5 3.1.3  4  
+(2) 2:A 
+     
+LO4 
+AS 
+11.4.5 3.1.4  10  
+(2) 2:A 
+     
+LO4 
+AS 
+11.4.5 3.1.5  ¼         OR      0,25        OR       25%  
+(2) 1:A 
+(numerator)  
+1:A 
+(denominator)  
+     
+LO4 
+AS 
+11.4.5 3.1.6  1/16       OR      0,063        OR       6,3%  
+(2) 1:A 
+(numerator)  
+1:A 
+(denominator)  
+     
+3.2     
+LO2 
+AS 
+11.2.1 3.2.1  (a) s = 5t + 2 c + 3p   
+(3) 3:F 
+      
+LO2 
+AS 
+11.2.1  (b) s = 5t + 2 c + 3p   
+          = (5 x 6) + (2 x 5) + (3 x 3)   
+          = 30 + 10 + 9  
+          = 49  (2) 1:SF (correct 
+values)  
+1:CA  
+     
+LO2 
+AS 
+11.2.1 3.2.2  For 1 penalty  
+(1) 1:A 
+     
+3.3     
+LO1 
+AS 
+11.1.1 3.3.1  1 ZAR (South African Rand) = 0,15761 NZD  
+Category B = 123 NZD  
+ 
+ZAR = 123 NZD/0,15761 NZD   
+        = 780,4073346  
+        = 780,41  (3) 1:RT (123)  
+ 
+1:M 
+ 
+1:A 
+     
+LO1 
+AS 
+11.1.1 3.3.2  1 NZD = R6,3450 ZAR  
+200 NZD  
+ZAR = 200 x 6 ,3450  
+        = R1  269  (2) 1:M 
+1A 
+   [23]  
+  
+(NOVEMBER 2012 ) MATHEMATICAL LITERACY P2  7 
+  
+QUESTION 4   
+  
+4.1    
+LO2 
+AS 
+11.2.3 4.1.1  Cost price for 1 CD  = (80 – 30)/10 OR Cost price for 1  CD = (130 – 30)/20   
+                        = 50/10                                                            = 100/20 
+                        = R5                                        = R5   
+ 
+Cost price for 1 CD  = (180 – 30)/30 OR Cost price for 1  CD = (230 – 30)/10   
+                        = 150/30                                                             = 200/40 
+                        = R5                                         = R5   
+ 
+Cost price for 1 CD  = (280 – 30)/50OR Cost price for 1  CD = (330 – 30)/60   
+                        = 250/50                                                            = 300/60 
+                        = R5                                         = R5   
+ 
+Cost price for 1  CD = (380 – 30)/70OR Cost price for 1  CD = (430 – 30)/80   
+                        = 350/70                                                            = 400/80 
+                        = R5                                          = R5   
+ 
+Cost price for 1  CD = (480 – 30)/90   
+                                = 450/90 
+                                = R5  (2) 1:M 
+1:A 
+     
+ 4.1.2  Selling price of 1  CD =60/10   OR  Selling price of 1 CD  = 120/20  
+                                      = R6                                     = R6   
+                                          
+Selling price of 1 CD  = 180/30   OR    Selling price of 1 CD   = 240/40  
+                                      = R6                                        = R6 
+                                                  
+Selling price of 1 CD  = 300/50  OR    Selling price of 1  CD = 360/60  
+                          = R6                                     = R6  
+                                                                         
+Selling price of 1CD  = 420/70   OR      Selling price of 1CD  = 480/80  
+                         = R6                                       = R6  
+                                                OR 
+Selling price of 1CD = 540/90                                                 
+                                                 = R6  (2) 1:M 
+1:A 
+     
+LO2 
+AS 
+11.2.3 4.1.3  Percentage profit =  (Income – Expenses) x 100  
+                                             Expenses  
+                                =  6 – 5  x 100  
+                                       5  
+                   % profit = 1/5  x 100     
+                                = 20%     (2) 1:M 
+1:A 
+     
+LO2 
+AS 
+11.2.1 4.1.4  30  ; 180     
+(2) 1:A 
+(30) 
+1:A 
+(180)  
+  
+8 MATHEMATICAL LITERACY P2  (NOVEMBER 2012 ) 
+  
+LO2 
+AS 
+11.2.1 4.1.5  Break -even point  
+For 30 CD’s the income and expenses a re exactly the same 
+(R180).
+Serves 4 people  
+ 
+1 lb (pound) 2 oz (ounce) Ostrich Fillet  
+1½ tsp beef stock powder  
+Juice and grated peel of 1 large orange  
+60 mℓ vinegar  
+1 tbsp honey  
+2 tbsp olive oil  
+1 can naartjies  
+Salt and freshly ground pepper to taste  
+  
+   
+ 1.1.1  While Grecthen  is preparing the recipe, the only measuring 
+spoon that she has is a 5 mℓ teaspoon ( tsp).
+
+--- Full Combined Text ---
+ 
+  Province of the  
+EASTERN CAPE  
+EDUCATION  
+ 
+NASIONAL E 
+SENIOR SERTIFI KAAT 
+ 
+ GRA AD 11  
+ 
+NOV EMBER 201 2 
+ 
+WISKUNDIGE GELETTERDHEID V2 
+MEMORANDUM  
+ 
+PUNTE : 100 
+  
+ 
+Simbool  Verduideliking  
+M  Metod e  
+MA  Metode met akkuraatheid  
+CA  Voortgesette akkuraatheid  
+A  Akkuraatheid (Antwoord)  
+C  Omskakeling   
+S  Vereenvoudiging   
+RT/RG /RM  Lees van tabel/Lees van grafiek/Lees van kaart  
+F  Kies van korrekte formule  
+SF  Substitusie in formule  
+J/O  Mening  
+P  Penalisering vir geen eenhede, verkeerde afronding, ens.  
+R  (Afronding / Rede)  
+ 
+ 
+ Hierdie  memorandum  bestaan uit 8 bladsye .  
+  
+
+2 WISKUNDIGE GELETTERDHEID V2  (NOVEMBER 2012 ) 
+  
+VRAAG  1  
+  
+1.1   
+LU3 
+AS 
+11.3.2  1.1.1  1 tlp = 5 mℓ                                  OF          tsp = 15/5  
+1 etlp  = 15 mℓ                                                  = 3 tlp x 2 
+15 mℓ = 3 tlp                                                   = 6 tlp  
+Daarom is 30 ml = 3 tlp x 2  
+        = 6 tlp  (3) 1:C ( mℓ 
+na tlp) 
+1:M (x2)  
+1:A 
+ 
+     
+LU3 
+AS 
+11.3.2 1.1.2  1 blikkie = 4 mense  
+       20 mense   
+         4 mense  
+    = 5  
+Om 20 mense te bedien sal 5 blikkies nartjies benodig  
+word. (2) 1:M 
+(20/4)  
+1:A 
+ 
+     
+LU3 
+AS 
+11.3.2 1.1.3  ºF  = ºC x 1,8 + 32  
+      = 220º x 1,8 + 32  
+      = 396º  + 32 
+      = 428º  
+400º ≠ 430 º  
+Nee, Gretchen het die oond op die verkeerde temperatuur  
+ºC gestel .  (4) 1:SF  
+1:S  
+1:A  
+1:R (10º)  
+ 
+ 
+     
+1.2  
+LU 3 
+AS 
+11.3.2  1 lb (pond) 2 oz (onse) Volstruisfilet  
+1 lb  = 0,45359 kg 
+1 oz = 0,0625 lb 
+    
+0,0625 lb x 0,45359 = 0,028349375 kg x 2  
+                                 = 0,05669875 kg 
+Kilogram volstruisfilet = 1 lb + 2 oz 
+                                   = 0,45359 kg + 0,05669875 kg  
+                                   = 0,51028875 kg  
+                                   = 0,5 kg  (5) 1:C ( lb na 
+kg) 
+1: M (x2)  
+ 
+1:M 
+1:A 
+1:R 
+     
+1.3 
+LU3 
+AS 
+11.3.1  
+ 
+  Volume =  r2h 
+             = 3,14 x 11 cm x 11 cm x 9 cm  
+             = 3419,46 cm3  
+            
+As 1 000 cm3  = 1l dan is  
+3419,46 cm3/1 000 = 3,4 ℓ 
+Ja, die kastrol is groot genoeg vir die gekookte dis .  
+(5) 1:A 
+(radius)  
+1:SF  
+1:A 
+ 
+1:C (cm3 
+na l) 
+ 
+1:J 
+     
+1.4     
+LU1 
+AS 
+11.1.1 1.4.1  500 g = ½ kg 
+½ x R 67 = R 33,50  (1) 1:A 
+  
+(NOVEMBER 2012 ) WISKUNDIGE GELETTERDHEID V2  3 
+  
+LU1 
+AS 
+11.1.2 1.4.2  BTW bedrag = (R33,50 + R12,59)  x 0,14  
+                     = R 46,09 x 0,14  
+                     = R 6,45  
+(3) 1:M 
+(korrekte 
+waardes)  
+1:M  
+(x 14%)  
+1:A 
+     
+LU1 
+AS 
+11.1.3 1.4.3  Alhoewel nartjies vrugte is, is dit in hierdie geval  
+geprosesseer (geblik), terwyl die lemoene ŉ vars  
+produk is .  
+OF 
+Geen BTW is betaalbaar op vars produkte soos lemoene 
+nie, maar wanneer dit geblik word, is  belasbaar .  
+                        (Enige  ander relevante verduideliking .) (2) 2:A 
+     
+LU1 
+AS 
+11.1.3 1.4.4  Omdat 1 en 2 sent muntstukke nie meer in sirkulasie is 
+nie, word die finale bedrag afgerond tot die naaste 5  
+sent.  
+                        (Enige ander relevante verduideliking .) (2) 2:A 
+     
+LU1 
+AS 
+11.1.3 1.4.5  Geen kleingeld is aan Gretchen verskuldig nie,  
+omdat sy slegs die verskuldigde bedrag betaal .  (2) 2:A 
+     
+LU1 
+AS 
+11.1.1 1.4.6  Middag  16:42  
+(2) 2:A 
+   [31]  
+  
+4 WISKUNDIGE GELETTERDHEID V2  (NOVEMBER 2012 ) 
+  
+VRAAG 2  
+  
+2.1     
+LU1 
+AS 
+11.1.1 2.1.1  Waarde van deposito = R250  000 x 0,16  
+                                   = R40  000  (2) 1:M 
+1:A 
+     
+LU1 
+AS 
+11.1.1 2.1.2  P = R250  000 – R40 000 
+    = R210  000  
+n = 72 / 12  
+   = 6 jare  
+i  = 9,5 / 100  
+   = 0,095  
+           
+    = 210  000 (1 + 6 x 0,095)  
+    = 210 000 (1+ 0,57)  
+    = 210 000 (1,57)  
+    = R329 700  (5) 1:A (P - 
+waarde)  
+ 
+1:A (n - 
+waarde)  
+ 
+ 
+1:SF  
+ 
+1:S 
+1:A 
+     
+LU1 
+AS 
+11.1.1 2.1.3  I = A – P 
+  = R329 700 – R210 000  
+  = R119 700  (2) 1:M 
+1:CA  
+     
+2.2     
+LU2 
+AS 
+11.2.1 2.2.1            
+    = 250 000 (1 – 0,2)2  
+    = 250 00 (0,8)2 
+    = 250  000 (0,64)  
+    = R160 000  
+OF 
+          
+    = 200 000 (1 – 0,2)1  
+    = 200 000 (0,8)1 
+    = R160 000  (3) 1:SF  
+1:S 
+1:A 
+ 
+    
+LU1 
+AS 
+11.2.2 2.2.2  
+ 1 punt 
+vir elk  
+(0,250 
+000) 
+(1,200 
+000) 
+(2,160 
+000) 
+(3,128 
+000) 
+(4,102 
+400) 
+ 
+ 
+   (5)  
+  
+
+(NOVEMBER 2012 ) WISKUNDIGE GELETTERDHEID V2  5 
+  
+LU1 
+AS 
+11.2.3 2.2.3  Indirekte of Omgekeerde eweredigheid  
+Soos die jare toeneem, so neem die waardes van  
+die motor af .  (2) 1:A 
+1:R 
+     
+2.3 
+LU4 
+AS 
+11.4.5  
+  P (silwer) = 3/14  OF  0,214   OF   21,4%  
+(2) 1:A (teller)  
+1:A 
+(noemer)  
+   [21]  
+  
+6 WISKUNDIGE GELETTERDHEID V2  (NOVEMBER 2012 ) 
+  
+VRAAG  3  
+  
+3.1     
+LU4 
+AS 
+11.4.5 3.1.1  5  
+Spanne kan nie teen hulself speel nie .  (2) 1:A 
+1:R 
+     
+LU4 
+AS 
+11.4.5 3.1.2  10  
+(2) 2:A 
+     
+LU4 
+AS 
+11.4.5 3.1.3  4  
+(2) 2:A 
+     
+LU4 
+AS 
+11.4.5 3.1.4  10  
+(2) 2:A 
+     
+LU4 
+AS 
+11.4.5 3.1.5  ¼         OF      0,25        OF       25%  
+(2) 1:A (teller)  
+1:A (noemer)  
+     
+LU4 
+AS 
+11.4.5 3.1.6  1/16       OF      0,063        OF       6,3%  
+(2) 1:A (teller)  
+1:A (noemer)  
+     
+3.2     
+LU2 
+AS 
+11.2.1 3.2.1  (a) s = 5t + 2 c + 3p   
+(3) 3:F 
+      
+LU2 
+AS 
+11.2.1  (b) s = 5t + 2 c + 3p   
+          = (5 x 6) + (2 x 5) + (3 x 3)   
+          = 30 + 10 + 9  
+          = 49  (2) 1:SF 
+(korrekte 
+waardes)  
+1:CA  
+     
+LU2 
+AS 
+11.2.1 3.2.2  Vir 1 strafskop  
+(1) 1:A 
+     
+3.3     
+LU1 
+AS 
+11.1.1 3.3.1  1 ZAR (Suid -Afrikaanse Rand) = 0,15761 NZD  
+Kategor ie B = 123 NZD  
+ 
+ZAR = 123 NZD/0,15761 NZD   
+        = 780,4073346  
+        = 780,41  (3) 1:RT (123)  
+ 
+1:M 
+ 
+1:A 
+     
+LU1 
+AS 
+11.1.1 3.3.2  1 NZD = R6,3450 ZAR  
+200 NZD  
+ZAR = 200 x 6 ,3450  
+        = R1 269  (2) 1:M 
+1A 
+   [23]  
+  
+(NOVEMBER 2012 ) WISKUNDIGE GELETTERDHEID V2  7 
+  
+VRAAG  4  
+  
+4.1    
+LU2 
+AS 
+11.2.3 4.1.1  Kosprys vir 1 CD  = (80 – 30)/10 OF Kosprys vir 1 CD  = (130 – 30)/20   
+                       = 50/10                                                             = 100/20 
+                       = R5                                       = R5   
+ 
+Kosprys vir 1 CD  = (180 – 30)/30 OF Kosprys vir 1 CD  = (230 – 30)/10   
+                       = 150/30                                                            = 200/40 
+                       = R5                                        = R5   
+ 
+Kosprys vir 1 CD  = (280 – 30)/50OF Kosprys vir 1 CD  = (330 – 30)/60   
+                       = 250/50                                                           = 300/60 
+                       = R5                                        = R5   
+ 
+Kosprys vir 1 CD  = (380 – 30)/70OF Kosprys vir 1 CD  = (430 – 30)/80   
+                        = 350/70                                                          = 400/80 
+                        = R5                                       = R5   
+ 
+Kosprys vir 1CD = (480 – 30)/90   
+                            = 450/90                                                                        
+                            = R 5                                              (2) 1:M 
+1:A 
+     
+LU2 
+AS 
+11.2.3 4.1.2  Verkoopprys van 1  CD = 60/10   OF  Verkoopprys van  = 120/20  
+                                               = R6                                   = R6   
+                                          
+Verkoopprys van 1  CD = 180/30 OF  Verkoopprys van 1  CD  = 240/40 
+ 
+                                               = R6                                          = R6  
+                                                  
+Verkoopprys van 1  CD = 300/50  OF Verkoopprys van 1  CD = 360/60  
+                             = R6                                          = R6  
+                                                                         
+Verkoopprys van 1 CD  = 420/70   OF  Verkoopprys van 1CD  = 480/80  
+                               = R 6                                         = R 6  
+                                                OF 
+Verkoopprys van 1CD = 540/90                                                 
+                                                      = R6  (2) 1:M 
+1:A 
+     
+LU2 
+AS 
+11.2.3 4.1.3  % Wins  = (Inkomste – Uitgawes) x 100  
+                               Uitgawes  
+              =  6 – 5  x 100  
+                      5  
+              = 1/5  x 100     
+              = 20%     (2) 1:M 
+1:A 
+     
+LU2 
+AS 
+11.2.1 4.1.4  30  ; 180     
+(2) 1:A 
+(30) 
+1:A 
+(180)  
+  
+8 WISKUNDIGE GELETTERDHEID V2  (NOVEMBER 2012 ) 
+  
+LU2 
+AS 
+11.2.1 4.1.5  Gelykbreekpunt  
+Vir 30 CD’s is die inkomste en uitgawes presies dieselfde  
+(R180) .  (2) 1:A 
+1:R 
+     
+LU2 
+AS 
+11.2.3 4.1.6  Voor die gelykbreekpunt is die inkomste minder as die  
+uitgawes .  
+OF 
+Voor die gelykbreekpunt is die uitgawes meer as die  
+inkomste .  (2) 2:A 
+     
+LU2 
+AS 
+11.2.3 4.1.7  Daar is ŉ aanvangskoste van R30 (vervoerkoste) .  
+(2) 2:A 
+     
+4.2     
+LU4 
+AS 
+11.4.3 4.2.1  25% van die verkope was 15 en minder CD’s verkoop vir die 
+maand .  (2) 2:A 
+     
+LU4 
+AS 
+11.4.3  4.2.2  75% van die verkope was 37 en meer CD’s verkoop vir die  
+maand .  (2) 2:A 
+     
+LU4 
+AS 
+11.4.3  4.2.3  Ja  
+Meeste van die CD’s wat hy verkoop het, is meer as 15 
+(75%) .  (2) 1:A 
+1:R 
+    
+4.3 
+LU3 
+AS 
+11.3.1  
+11.3.2 Deursnit van buitesirkel = 118 mm = 11,8 cm  
+Radius van buitesirkel   = 5,9 cm  
+ 
+Radius van b innesirkel = 0,75 cm  
+ 
+Opp. van CD = Opp . van buitesirkel – Opp. van binnesirkel  
+                     =  r2 –  r2  
+                      = 3,14 x 5,92 – 3,14 x 0,752  
+                      = 109,30 cm2 – 1,77 cm2  
+                      = 107,53 cm2  
+OF 
+Opp van CD = Opp . van buitesirkel – Opp. van binnesirkel  
+                    =  r2 –  r2  
+                    = 3,14 x 5,9 cm x 5,9 cm – 3,14 x 0,75 cm x 0,75 cm  
+                    = 109,3034 cm2 – 1,76625 cm2  
+                    = 107,53715 cm2  
+                    = 107,54 cm2  (5) 1:C 
+(mm 
+na cm)  
+1:A 
+(vind r)  
+ 
+ 
+ 
+ 
+1:SF  
+1:S 
+1:CA  
+ 
+  [25]  
+    
+ TOTA AL: 100  
+ 
+
+ 
+  Province of the  
+EASTERN CAPE  
+EDUCATION  
+ 
+NATIONAL  
+SENIOR CERTIFICATE  
+ 
+ GRADE 1 1  
+ 
+NOV EMBER 201 2 
+ 
+MATHEMATICAL LITERACY  P2 
+MEMORANDUM  
+ 
+MARKS:  100 
+  
+Symbol  Explanation  
+M  Method  
+MA  Method with accuracy  
+CA  Consistent accuracy  
+A  Accuracy  
+C  Conversion  
+S  Simplification  
+RT/RG /RM  Reading from a table/Reading from a graph /Read from map  
+F  Choosing the correct formula  
+SF  Substitution in a formula  
+J  Justification  
+P  Penalty, e.g. for no units, incorrect rounding off etc.  
+R  Rounding Off/Reason  
+ 
+ 
+ This memorandum  consists of 8 pages.   
+  
+
+2 MATHEMATICAL LITERACY P2  (NOVEMBER 2012 ) 
+  
+QUESTION 1   
+  
+1.1    
+LO3 
+AS 
+11.3.2  1.1.1  1 tsp = 5 ml                                 OR         tsp = 15/5  
+1 tbsp = 15 ml                                                  = 3 tsp x 2 
+15 ml = 3 tsp                                                 = 6 tsp  
+Therefore 30 ml = 3 tsp x 2  
+      = 6 tsp  (3) 1:C ( mℓ to 
+tsp) 
+1:M (x2)  
+ 
+1:A 
+     
+LO3 
+AS 
+11.3.2 1.1.2  1 can = 4 people  
+       20 people   
+         4 people  
+        = 5  
+Therefore to serve 20 people, 5 cans of naartjies will be 
+used .   (2) 1:M (20/4) 
+1:A 
+ 
+ 
+     
+LO3 
+AS 
+11.3.2 1.1.3  ºF  = ºC x 1,8 + 32  
+      = 220º x 1,8 + 32  
+      = 396º  + 32 
+      = 428º  
+400º ≠ 430 º  
+No, Gretchen did not set the oven’s temperature in ºC  
+Correctly .  (4) 1:SF  
+1:S  
+1:A  
+1:R  
+ 
+     
+1.2  
+LO3 
+AS 
+11.3.2  1 lb (pound) 2 oz (ounce) Ostrich Fillet  
+1 lb  = 0,45359 kg 
+1 oz = 0,0625 lb 
+    
+0,0625 lb x 0,45359 = 0,028349375 kg x 2  
+                                 = 0,05669875 kg 
+Kilograms of ostrich fillet = 1 lb + 2 oz 
+                                        = 0,45359 kg + 0,05669875 kg  
+                                        = 0,51028875 kg  
+                                        = 0,5 kg  (5) 1:C ( lb to 
+kg) 
+1: M (x2)  
+ 
+1:M 
+1:A 
+1:R 
+     
+1.3 
+LO3 
+AS 
+11.3.1  
+ 
+  Volume =  r2h 
+             = 3,14 x 11 cm x 11 cm x 9 cm  
+             = 3 419,46 cm3  
+            
+If 1 000 cm3  = 1l then 
+3419,46 cm3/1 000 = 3,4 ℓ 
+Yes, the casserole dish will be big enough to transfer the 
+cooked meal .  
+(5) 1:A 
+(radius)  
+1:SF  
+1:A 
+ 
+1:C (cm3 to 
+l) 
+ 
+1:J 
+     
+1.4     
+LO1 
+AS 
+11.1.1 1.4.1  500 g = ½ kg 
+½ x R67 = R33,50  (1) 1:A 
+  
+(NOVEMBER 2012 ) MATHEMATICAL LITERACY P2  3 
+  
+LO1 
+AS 
+11.1.2 1.4.2 VAT amount = (R33,50 + R12,59)  x 0,14  
+                     = R46,09 x 0,14  
+                     = R6,45  
+(3) 1:M 
+(correct 
+values)  
+1:M  
+(x 14%)  
+1:A 
+     
+LO1 
+AS 
+11.1.3 1.4.3 Although naartjies are fruit, in this case it processed  
+(canned), while the oranges are fresh produce .  
+OR 
+No VAT is paid on fresh produce such as the oranges,  
+but when it is canned VAT will be paid .  
+                       (Accept any other relevant explanation .) (2) 2:A 
+     
+LO1 
+AS 
+11.1.3 1.4.4  As the 1 and 2 cent coins are no more in  circulation, the 
+final amount is rounded to the nearest 5 cent .  
+                       (Accept any other relevant explanation .) (2) 2:A 
+     
+LO1 
+AS 
+11.1.3 1.4.5  No change is due to Gretchen as she paid only the due 
+amount .  (2) 2:A 
+     
+LO1 
+AS 
+11.1.1 1.4.6  Afternoon  16:42  
+(2) 2:A 
+   [31]  
+  
+4 MATHEMATICAL LITERACY P2  (NOVEMBER 2012 ) 
+  
+QUESTION 2   
+   
+2.1     
+LO1 
+AS 
+11.1.1 2.1.1  Value of deposit = R250  000 x 0,16  
+                           = R40  000  (2) 1:M 
+1:A 
+     
+LO 1 
+AS 
+11.1.1 2.1.2  P = R250  000 – R40 000 
+   = R210  000  
+n = 72 / 12  
+   = 6 years  
+i  = 9.5 / 100  
+   = 0,095  
+           
+    = 210  000 (1 + 6 x 0,095)  
+    = 210 000 (1+ 0,57)  
+    = 210 000 (1,57)  
+    = R329 700  (5) 1:A (P -
+value)  
+ 
+1:A (n -
+value)  
+ 
+ 
+ 
+1:SF  
+1:S 
+1:A 
+     
+LO1 
+AS 
+11.1.1 2.1.3  I = A – P 
+  = R329 700 – R210 000  
+  = R119 700  (2) 1:M 
+1:CA  
+     
+2.2     
+LO2 
+AS 
+11.2.1 2.2.1            
+    = 250 000 (1 – 0,2)2  
+    = 250 00 (0,8)2 
+    = 250  000 (0,64)  
+    = R160 000  
+OR 
+          
+    = 200 000 (1 – 0,2)1  
+    = 200 000 (0,8)1 
+    = R160 000  (3) 1:SF  
+1:S 
+1:A 
+ 
+     
+LO1 
+AS 
+11.2.2 2.2.2  
+ 1 mark 
+for 
+each 
+for  
+(0,250 
+000) 
+(1,200 
+000) 
+(2,160 
+000) 
+(3,128 
+000) 
+(4,102 
+400) 
+ 
+ 
+   (5)    
+
+(NOVEMBER 2012 ) MATHEMATICAL LITERACY P2  5 
+  
+LO1 
+AS 
+11.2.3 2.2.3  Indirect or Inverse proportion  
+As the years increase, the values of the car 
+decrease .  (2) 1:A 
+1:R 
+     
+2.3 
+LO4 
+AS 
+11.4.5  
+ 
+  P(silver) = 3/14  OR  0,214   OR  21,4%  
+(2) 1:A 
+(numerator)  
+1:A 
+(denominator)  
+   [21]  
+  
+6 MATHEMATICAL LITERACY P2  (NOVEMBER 2012 ) 
+  
+QUESTION 3   
+   
+3.1    
+LO4 
+AS 
+11.4.5 3.1.1  5  
+Teams cannot play against themselves  (2) 1:A 
+1:R 
+     
+LO4 
+AS 
+11.4.5 3.1.2  10  
+(2) 2:A 
+     
+LO4 
+AS 
+11.4.5 3.1.3  4  
+(2) 2:A 
+     
+LO4 
+AS 
+11.4.5 3.1.4  10  
+(2) 2:A 
+     
+LO4 
+AS 
+11.4.5 3.1.5  ¼         OR      0,25        OR       25%  
+(2) 1:A 
+(numerator)  
+1:A 
+(denominator)  
+     
+LO4 
+AS 
+11.4.5 3.1.6  1/16       OR      0,063        OR       6,3%  
+(2) 1:A 
+(numerator)  
+1:A 
+(denominator)  
+     
+3.2     
+LO2 
+AS 
+11.2.1 3.2.1  (a) s = 5t + 2 c + 3p   
+(3) 3:F 
+      
+LO2 
+AS 
+11.2.1  (b) s = 5t + 2 c + 3p   
+          = (5 x 6) + (2 x 5) + (3 x 3)   
+          = 30 + 10 + 9  
+          = 49  (2) 1:SF (correct 
+values)  
+1:CA  
+     
+LO2 
+AS 
+11.2.1 3.2.2  For 1 penalty  
+(1) 1:A 
+     
+3.3     
+LO1 
+AS 
+11.1.1 3.3.1  1 ZAR (South African Rand) = 0,15761 NZD  
+Category B = 123 NZD  
+ 
+ZAR = 123 NZD/0,15761 NZD   
+        = 780,4073346  
+        = 780,41  (3) 1:RT (123)  
+ 
+1:M 
+ 
+1:A 
+     
+LO1 
+AS 
+11.1.1 3.3.2  1 NZD = R6,3450 ZAR  
+200 NZD  
+ZAR = 200 x 6 ,3450  
+        = R1  269  (2) 1:M 
+1A 
+   [23]  
+  
+(NOVEMBER 2012 ) MATHEMATICAL LITERACY P2  7 
+  
+QUESTION 4   
+  
+4.1    
+LO2 
+AS 
+11.2.3 4.1.1  Cost price for 1 CD  = (80 – 30)/10 OR Cost price for 1  CD = (130 – 30)/20   
+                        = 50/10                                                            = 100/20 
+                        = R5                                        = R5   
+ 
+Cost price for 1 CD  = (180 – 30)/30 OR Cost price for 1  CD = (230 – 30)/10   
+                        = 150/30                                                             = 200/40 
+                        = R5                                         = R5   
+ 
+Cost price for 1 CD  = (280 – 30)/50OR Cost price for 1  CD = (330 – 30)/60   
+                        = 250/50                                                            = 300/60 
+                        = R5                                         = R5   
+ 
+Cost price for 1  CD = (380 – 30)/70OR Cost price for 1  CD = (430 – 30)/80   
+                        = 350/70                                                            = 400/80 
+                        = R5                                          = R5   
+ 
+Cost price for 1  CD = (480 – 30)/90   
+                                = 450/90 
+                                = R5  (2) 1:M 
+1:A 
+     
+ 4.1.2  Selling price of 1  CD =60/10   OR  Selling price of 1 CD  = 120/20  
+                                      = R6                                     = R6   
+                                          
+Selling price of 1 CD  = 180/30   OR    Selling price of 1 CD   = 240/40  
+                                      = R6                                        = R6 
+                                                  
+Selling price of 1 CD  = 300/50  OR    Selling price of 1  CD = 360/60  
+                          = R6                                     = R6  
+                                                                         
+Selling price of 1CD  = 420/70   OR      Selling price of 1CD  = 480/80  
+                         = R6                                       = R6  
+                                                OR 
+Selling price of 1CD = 540/90                                                 
+                                                 = R6  (2) 1:M 
+1:A 
+     
+LO2 
+AS 
+11.2.3 4.1.3  Percentage profit =  (Income – Expenses) x 100  
+                                             Expenses  
+                                =  6 – 5  x 100  
+                                       5  
+                   % profit = 1/5  x 100     
+                                = 20%     (2) 1:M 
+1:A 
+     
+LO2 
+AS 
+11.2.1 4.1.4  30  ; 180     
+(2) 1:A 
+(30) 
+1:A 
+(180)  
+  
+8 MATHEMATICAL LITERACY P2  (NOVEMBER 2012 ) 
+  
+LO2 
+AS 
+11.2.1 4.1.5  Break -even point  
+For 30 CD’s the income and expenses a re exactly the same 
+(R180).  (2) 1:A 
+1:R 
+     
+LO2 
+AS 
+11.2.3 4.1.6  Before the breakeven point the income is less than the  
+expenses .  
+OR 
+Before the breakeven point the expenses is more than the 
+income  (2) 2:A 
+     
+LO2 
+AS 
+11.2.3 4.1.7  There is an initial cost of R30 (transport cost)  
+(2) 2:A 
+    
+4.2    
+LO4 
+AS 
+11.4.3 4.2.1  25% of the sales were 15 and less CD’s for the month  
+(2) 2:A 
+     
+LO4 
+AS 
+11.4.3  4.2.2  75% of the sales were 37 and more CD’s for the month  
+(2) 2:A 
+     
+LO4 
+AS 
+11.4.3  4.2.3  Yes.  
+Most of the CD’s he sold is above 15 (75%) .  (2) 1:A 
+1:R 
+    
+4.3 
+LO3 
+AS 
+11.3.1  
+11.3.2 Diameter of outer circle = 118 mm = 11,8 cm  
+Radius of outer circle = 5,9 cm  
+ 
+Radius of inner circle = 0,75 cm  
+ 
+Area of CD = Area of outer circle – Area of inner circle  
+                   =  r2 –  r2 
+                   = 3,14 x 5,92 – 3,14 x 0,752  
+                   = 109,30 cm2 – 1,77 cm2  
+                   = 107,53 cm2  
+OR 
+Area of CD = Area of outer circle – Area of inner circle  
+                   =  r2 –  r2 
+                   = 3,14 x 5,9 cm x 5,9 cm – 3,14 x 0,75 cm x 0,75 cm  
+                   = 109,3034 cm2 – 1,76625 cm2  
+                   = 107,53715 cm2  
+                   = 107,54 cm2  (5) 1:C (mm 
+to cm)  
+1:A 
+(finding 
+r) 
+ 
+ 
+ 
+ 
+1:SF  
+1:S 
+1:CA  
+ 
+  [25]  
+    
+ TOTAL:  100  
+ 
+
+ 
+  Province of the  
+EASTERN CAPE  
+EDUCATION  
+ 
+NATIONAL  
+SENIOR CERTIFICATE  
+ 
+ GRADE 1 1  
+ 
+NOV EMBER 201 2 
+ 
+MATHEMATICAL LITERACY  P2 
+ 
+MARKS:  100 
+  
+TIME:  2½ hours  
+ 
+ This question paper consists of 11 pages and 1 page annexure . 
+  
+  
+*MLITE2* 
+2 MATHEMATICAL LITERACY P2  (NOVEMBER 2012 ) 
+  
+INSTRUCTIONS AND INFORMATION   
+  
+Read the following instructions carefully before answering the questions.   
+  
+1. This question paper consists of FOUR questions.  Answer ALL the 
+questions.   
+   
+2. QUESTIONS 2. 2.2 must be answered on the attached  ANNEXURE A .  
+Write your name in the spaces provided and hand in the annexure with 
+the ANSWER BOOK.   
+   
+3. Number the questions correctly according to the numbering system used 
+in this question paper.   
+   
+4. An approved calculator (non -programmable and non -graphical) may be 
+used, unless stated otherwise.   
+   
+5. ALL calculations must be shown clearly.   
+   
+6. ALL the final answers must be rounded off to TWO decimal places, unless 
+stated otherwise.   
+   
+7. Start EACH question on a NEW page.   
+   
+8. Write neatly and legibly.   
+  
+(NOVEMBER 2012 ) MATHEMATICAL LITERACY P2  3 
+  
+QUESTION 1    
+  
+Gretchen has decided to eat healthier by substituting her red meat diet with that 
+of ostrich meat.  Ostrich meat is fat -free, low in calories and cholesterol, while 
+being rich in protein.    
+  
+1.1 Gretchen is collecting all the recipes for cooking with ostrich meat. The 
+following is a recipe for Ostrich Fillet in Naartjie Sauce .  
+   
+ Serves 4 people  
+ 
+1 lb (pound) 2 oz (ounce) Ostrich Fillet  
+1½ tsp beef stock powder  
+Juice and grated peel of 1 large orange  
+60 mℓ vinegar  
+1 tbsp honey  
+2 tbsp olive oil  
+1 can naartjies  
+Salt and freshly ground pepper to taste  
+  
+   
+ 1.1.1  While Grecthen  is preparing the recipe, the only measuring 
+spoon that she has is a 5 mℓ teaspoon ( tsp).  The recipe requires 
+2 tablespoons ( tbsp) of olive oil.   How many teaspoons of olive oil 
+will Grecthen use if               ? (3) 
+    
+ 1.1.2  How many cans of naartjie s will be used if Gretchen prepares the 
+recipe for 20 people?  (2) 
+    
+ 1.1.3  According to the recipe Gretchen has to preheat the oven to  
+400 ºF (Fahrenheit).  Her stove’s temperature is in degrees 
+Celsius (ºC) and she sets it to 220  ºC.  Show by  using the 
+formula below whether Gretchen used the correct temperature 
+setting in ºC.  
+ 
+Formula;                    
+ 
+Give your answer to the nearest 10º . (4) 
+   
+1.2 In South Africa meat is sold in kilograms ( kg).  Convert the ostrich fillet 
+needed for the recipe to determine how many kilograms of ostrich fillet 
+Gretchen has to buy.  Give your final answer to 1 decimal place.  
+ 
+Use the following information:  
+ 
+1 lb  = 0,45359 kg 
+1 oz = 0,0625 lb (5) 
+  
+4 MATHEMATICAL LITERACY P2  (NOVEMBER 2012 ) 
+  
+1.3 When the dish is completely cooked, it has a capacity of 1,5 litre. 
+Gretchen wants to transfer it to a round serving dish as illustrated in the 
+diagram below (not drawn to scale).   The diameter of the serving dish is 
+22 cm and the height is 9 cm.   
+   
+  
+ 
+ 
+ 
+ 
+ 
+ (5) 
+   
+ Use the following information to determine if the serving dish will be big 
+enough for the cooked meal.  Give your final answer to 1 decimal place.  
+               where           
+1 000 cm3 = 1 ℓ  
+   
+1.4 Gretchen received the following till slip for some of the items she bought 
+for the recipe from SAVE -A-LOT Supermarket.   
+   
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+   
+ 1.4.1  Determine why Gretchen only pa id R33,50 for the ostrich fillet. (1) 
+    
+ 1.4.2  Show how the Value Added Tax (VAT) of R 6,45 was calculated.  (3) 
+    
+ 1.4.3  The naartjies that Gretchen bought was taxed, but not the 
+oranges.  Give an explanation why the naartjies was taxed, but 
+not the oranges . (2)   
+22 cm  
+9 cm 
+SAVE -A-LOT Supermarket  
+Thank you for shopping with us  
+ 
+Ostrich fillet 500 g  
+@ 67,00/ kg    33,50  
+0,275 kg Oranges  
+@ 5,99/ kg #      1,65 
+Naartjies     12,59   
+ 
+ Due VAT incl.   52,54  
+           Cash                                   52,50  
+           Rounding                              0,04  
+           Items                   3  
+ 
+----------------- TAX INVOICE ------------------   
+VAT included   @ 14%   6,45 
+Non Taxable Items   #  
+---------- VAT REG NO. 123456789 --------  
+ 
+Please retain slip as your guarantee  
+ 
+12/09/2011                               16:42  
+(NOVEMBER 2012 ) MATHEMATICAL LITERACY P2  5 
+  
+ 1.4.4  Explain  what the meaning of rounding R 0,04 on the till slip is.  (2) 
+    
+ 1.4.5  Explain why the till slip does not show any change due to 
+Gretchen.  (2) 
+    
+ 1.4.6  What time of the day did Gretchen make the purchase?  Give 
+evidence from the till slip to justify your answer.  (2) 
+   [31] 
+  
+6 MATHEMATICAL LITERACY P2  (NOVEMBER 2012 ) 
+  
+QUESTION 2  
+  
+2.1 Mondo is driving a second hand car for the past four years.  Over these four 
+years he managed to save 16% as a deposit of the price of the brand new 
+car he wants to buy.  He is interested in buying a 2011 Chevrolet Orlando 
+1,8 model.    
+   
+ Mondo visited the Delta Motor Dealer to purchase the car.  The price of the 
+car is R250 000.  
+For the purpose of this we are going to focus on the price of the car only (no 
+other initial cost).   
+   
+ 2.1.1 Calculate the amount Mondo saved for the deposit.  (2) 
+    
+ 2.1.2  Mondo managed to get a loan from a bank for the outstanding 
+amount.  He will repay the loan over 72 months at 9,5% per 
+annum simple interest.  Calculate how much Mondo will pay if it 
+takes him exactly 72 months to repay the loan.  
+ 
+Use the formula:            where;  
+              , 
+             , 
+                      
+                   (5) 
+    
+ 2.1.3  How much interest will Mondo pay on the loan?   (2) 
+   
+2.2 When a new car is bought, the owner must be aware of the fact that the 
+value of the car depreciates.   As soon as you drive your brand new car out 
+of the showroom, it does not have the same value you bought it for.   
+   
+ Mondo learnt that the value of his car depreciates at a rate of 20% per 
+annum.  The following table shows the relationship between the value of the 
+car and the number of years.    
+   
+ Table 1  
+   
+ Year  0 1 2 3 4  
+ Value in 
+Rand  250 000  200 000  A 128 000  102 400   
+   
+ 2.2.1  Calculate the missing value (A) by using the formula;           
+where;  
+               
+                 
+                
+                  (3) 
+  
+(NOVEMBER 2012 ) MATHEMATICAL LITERACY P2  7 
+  
+ 2.2.2  Use the information in the table to draw a graph (ANNEXURE A) 
+that shows the relationship between the value of the car and the 
+number of years.  (5) 
+    
+ 2.2.3  What type of proportion is illustrated by the table or graph?  
+Give a reason for your answer.  (2) 
+   
+2.3 In the showroom there were different colours of the Chevrolet Orlando 
+that Mondo wants to buy (2 red, 3 silver, 4 grey and 5 black).  What is the 
+probability that Mondo will choose a silver Chevrolet Orlando ?   (2) 
+  [21] 
+  
+8 MATHEMATICAL LITERACY P2  (NOVEMBER 2012 ) 
+  
+QUESTION 3   
+  
+3.1 During the first round of the 2011 Rugby World Cup the competing 
+countries played in groups.   They played every other team in their group 
+only once.  One of the groups (GROUP D) in the table below shows the 
+possible games.  The teams in GROUP D were F iji (F), South Africa (SA), 
+Samo a (S), Wales (W) and Namibia (N).  Use the table to answer the 
+questions below.   
+   
+ Table 2  
+   
+ Teams  F SA S W N  
+ F FF FSA FS FW FN  
+ SA SAF SASA  SAS SAW  SAN  
+ S SF SSA SS SW SN  
+ W WF WSA  WS WW WN  
+ N NF NSA NS NW NN  
+   
+ 3.1.1 How many of the matches were not possible?  Explain your 
+answer.  (2) 
+    
+ 3.1.2  How many matches did not take place since the teams only played 
+each other once?  (2) 
+    
+ 3.1.3  How many matches did each team play?  (2) 
+    
+ 3.1.4  What is the total number of matches played during this group 
+stage of the Rugby World Cup?  (2) 
+    
+ 3.1.5  What is the probability that a team won at least ONE  of their 
+matches?  (2) 
+    
+ 3.1.6  Calculate the probability that a team  will win all their matches in 
+the group stage and proceed to the quarter finals .  Take into 
+consideration that not one of the matches ended in a draw.  (2) 
+   
+3.2 The final score of the match between South Africa and Fiji was  
+49 – 3 in favour of South Africa.  A try is worth 5 points, a conversion 2 
+points and a penalty 3 points.    
+   
+ 3.2.1  (a) Write down a formula to show how the final score of a rugby 
+match is calculated.  Use ( s) for final score, ( t) for tries, ( c) for 
+conversions and ( p) for penalties.  (3) 
+     
+  (b) Use your formula in QUESTION 3.2.1 (a) to show how South   
+Africa’s final score was calculated if they scored 6 tries,  
+5 conversions and 3 penalties.  (2) 
+    
+ 3.2.2  How did Fiji score their points?  (1) 
+  
+(NOVEMBER 2012 ) MATHEMATICAL LITERACY P2  9 
+  
+3.3 The match between South Africa and Fiji was played at Wellington 
+Regional Stadium in Wellington City, New Zealand.  The ticket prices for 
+this stadium for this specific match are listed in the table below in New 
+Zealand Dollar (NZD).   
+   
+ Table 3  
+   
+ Category A  Category B  Category C  Category D   
+ 153 NZD  123 NZD  97 NZD  66 NZD   
+   
+ 3.3.1  Trevor, a South African citizen, bought a Category B ticket via 
+the internet.  When the ticket was bought the exchange rate was  
+1 ZAR (South African Rand) = 0,15761 NZD.  
+ 
+Calculate how much he paid for this ticket in Rand (ZAR).  (3) 
+    
+ 3.3.2  When Trevor came back from New Zealand, he still had 200 
+NZD left and exchanges it to Rand (ZAR).  The exchange rate at 
+the time of exchanging was 1 NZD = R 6,3450 (ZAR).  What was 
+the value of 200 NZD in Rand (ZAR)?  (2) 
+   [23] 
+  
+10 MATHEMATICAL LITERACY P2  (NOVEMBER 2012 ) 
+  
+QUESTION 4   
+  
+4.1 Shameeg, a Grade 11 learner, decided to sell Compact Discs (CDs).  
+He wants to use the profit that he makes to fund his matric farewell costs.  
+He bought CDs with R500 he received for his birthday.  Take into 
+consideration that Shameeg spends R30 towards transport costs.   
+   
+ The following graph shows his expenses and income for the CDs.   
+   
+ 
+  
+   
+ 4.1.1  Calculate the cost of one CD.  (2) 
+    
+ 4.1.2  Calculate the selling price of one CD.  (2) 
+    
+ 4.1.3  With reference to your answers in QUESTIONS 4.1.1 and 4.1.2, 
+calculate the percentage profit he makes on one CD. 
+Use the formula:  
+                     (       –         )       
+           (2) 
+    
+ 4.1.4  Give the coordinates of the point where the two graphs intersect.  (2) 
+    
+ 4.1.5  Give a name for the point where the two graphs intersect and 
+explain what is meant by this intersection . (2) 
+    
+ 4.1.6  Explain what can be noticed before the point that you have 
+mentioned in QUESTION 4.1.5.  Your explanation must refer to 
+income and expenses.  (2) 
+  0100200300400500600
+0 10 20 30 40 50 60 70 80 90Amount in Rand  
+Number of CD's  Expenses and Income of CDs  
+Expenses
+Income
+(NOVEMBER 2012 ) MATHEMATICAL LITERACY P2  11 
+  
+ 4.1.7  The graph for expenses does not start at the origin (0;0).  Explain 
+why the graph does not start at the origin.  (2) 
+   
+4.2 Shameeg used the data of his sales for the month and drew the five -
+number summary below to analyse his sales of CDs during one month.  
+Use this five-number summary to answer the questions below.   
+   
+ Table 4  
+   
+ Minimum  5  
+ Quartile 1  15  
+ Quartile 2  24  
+ Quartile 3  37  
+ Maximum  42  
+   
+ 4.2.1  What can we deduce from the first quartile (15) on the sales of the 
+CDs?  (2) 
+    
+ 4.2.2  What can be deduced from the third quartile (37) on the sales of 
+the number of CDs?  (2) 
+    
+ 4.2.3  Would you say Shameeg had a good month with the sales of the 
+number of CDs?  Explain your answer.  (2) 
+   
+4.3 The following is a drawing of a CD (not drawn to scale).    
+   
+  
+ 
+                                                                                      118 mm  
+ 
+ 
+ 
+ 
+                                                                                 
+ 
+ 
+ 
+                                                                                   
+                                                                                 0,75 cm  
+ 
+ 
+   
+ Shameeg read an article which stated that the area of a CD is 107,53 cm2. 
+Use the diagram above where the diameter of outer circle is 118 mm and 
+the radius of the inner circle 0,75 cm to help Shameeg to see if the 
+statement is correct.  
+Use the formula;       where        .  
+Give you final answer in cm2. (5) 
+  [25] 
+   
+ TOTAL:  100   
+12 MATHEMATICAL LITERACY P2  (NOVEMBER 2012 ) 
+  
+ANNEXURE A   
+  
+QUESTION 2.2.2    
+  
+NAME:    
+  
+ 
+ 
+ 
+ 
+ 
+ 050 000100 000150 000200 000250 000
+0 1 2 3 4 5Value in Rand  
+Years  Value of car over years  
