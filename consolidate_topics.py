@@ -1,169 +1,136 @@
-#!/usr/bin/env python3
-"""Consolidate PDFs by topic using text extraction and simple clustering.
-
-Usage:
-  python consolidate_topics.py --manifest grade11_mathematical_literacy_papers/manifest.csv
-
-Notes:
-- If PDFs are text-based, PyPDF2 extracts text. If not, the script tries OCR via pytesseract.
-- Install Tesseract separately for OCR (not included in Python packages).
-"""
-import argparse
-import csv
 import os
-import math
-from pathlib import Path
-from collections import defaultdict
+import cv2
+import numpy as np
+import pytesseract
+import re
+from PIL import Image
+from pdf2image import convert_from_path
 
-try:
-    from PyPDF2 import PdfReader
-except Exception:
-    PdfReader = None
+# --- CONFIGURATION ---
+pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 
-try:
-    from pdf2image import convert_from_path
-    from PIL import Image
-    import pytesseract
-except Exception:
-    convert_from_path = None
-    pytesseract = None
+# Point this to your folder full of question papers
+INPUT_DIR = r'C:\Users\umorrja\projects\testpapers\Question Papers' 
+OUTPUT_DIR = r'C:\Users\umorrja\projects\testpapers\categorized_output'
 
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.cluster import KMeans
-import nltk
+TOPIC_KEYWORDS = {
+    "Finance": ["interest", "loan", "vat", "tax", "budget", "salary", "tariff"],
+    "Measurement": ["area", "volume", "perimeter", "distance", "cm", "litres", "capacity"],
+    "Maps_and_Plans": ["scale", "map", "elevation", "layout", "floor plan", "compass"],
+    "Data_Handling": ["mean", "median", "mode", "graph", "chart", "probability", "statistics"]
+}
 
+def deskew(image_cv):
+    """Deskews an OpenCV image."""
+    gray = cv2.cvtColor(image_cv, cv2.COLOR_BGR2GRAY)
+    gray = cv2.bitwise_not(gray)
+    coords = np.column_stack(np.where(gray > 0))
+    angle = cv2.minAreaRect(coords)[-1]
+    
+    if angle < -45:
+        angle = -(90 + angle)
+    else:
+        angle = -angle
 
-def read_manifest(manifest_path):
-    rows = []
-    with open(manifest_path, newline='', encoding='utf-8') as f:
-        reader = csv.DictReader(f)
-        for r in reader:
-            rows.append(r)
-    return rows
+    (h, w) = image_cv.shape[:2]
+    center = (w // 2, h // 2)
+    M = cv2.getRotationMatrix2D(center, angle, 1.0)
+    rotated = cv2.warpAffine(image_cv, M, (w, h), flags=cv2.INTER_CUBIC, borderMode=cv2.BORDER_REPLICATE)
+    return rotated
 
+def extract_topic(text):
+    """Determines the topic of the page based on keyword frequency."""
+    text = text.lower()
+    topic_scores = {topic: 0 for topic in TOPIC_KEYWORDS}
+    
+    for topic, keywords in TOPIC_KEYWORDS.items():
+        for keyword in keywords:
+            topic_scores[topic] += len(re.findall(rf'\b{keyword}\b', text))
+            
+    best_topic = max(topic_scores, key=topic_scores.get)
+    
+    if topic_scores[best_topic] == 0:
+        return "General_or_Unknown"
+    
+    return best_topic
 
-def extract_text_pypdf(path):
-    if PdfReader is None:
-        return ""
-    try:
-        reader = PdfReader(path)
-        texts = []
-        for p in reader.pages:
-            txt = p.extract_text()
-            if txt:
-                texts.append(txt)
-        return "\n".join(texts)
-    except Exception:
-        return ""
+def setup_directories():
+    """Creates the necessary output folders for temporary images."""
+    if not os.path.exists(OUTPUT_DIR):
+        os.makedirs(OUTPUT_DIR)
+        
+    topics = list(TOPIC_KEYWORDS.keys()) + ["General_or_Unknown"]
+    for topic in topics:
+        topic_path = os.path.join(OUTPUT_DIR, topic)
+        if not os.path.exists(topic_path):
+            os.makedirs(topic_path)
+    return topics
 
-
-def extract_text_ocr(path, dpi=200):
-    if convert_from_path is None or pytesseract is None:
-        return ""
-    try:
-        images = convert_from_path(path, dpi=dpi)
-        parts = []
-        for img in images:
-            parts.append(pytesseract.image_to_string(img))
-        return "\n".join(parts)
-    except Exception:
-        return ""
-
-
-def extract_text(path):
-    text = extract_text_pypdf(path)
-    if len(text.strip()) > 200:
-        return text
-    # fallback to OCR
-    ocr_text = extract_text_ocr(path)
-    return ocr_text if ocr_text and len(ocr_text.strip())>0 else text
-
-
-def cluster_texts(docs, n_clusters=None):
-    keys = list(docs.keys())
-    texts = [docs[k] for k in keys]
-    if len(texts) == 0:
-        return {}
-    if n_clusters is None:
-        n_clusters = max(2, int(math.sqrt(len(texts))))
-    vectorizer = TfidfVectorizer(max_df=0.8, min_df=1, stop_words='english')
-    X = vectorizer.fit_transform(texts)
-    km = KMeans(n_clusters=n_clusters, random_state=42, n_init=10)
-    labels = km.fit_predict(X)
-    clusters = defaultdict(list)
-    for k, lab in zip(keys, labels):
-        clusters[lab].append(k)
-    return clusters
-
-
-def summarize_text(text, top_n=5):
-    # sentence scoring via TF-IDF
-    nltk.download('punkt', quiet=True)
-    from nltk.tokenize import sent_tokenize
-    sents = sent_tokenize(text)
-    if not sents:
-        return ""
-    vec = TfidfVectorizer(stop_words='english')
-    X = vec.fit_transform(sents)
-    scores = X.sum(axis=1).A1
-    top_idx = sorted(range(len(scores)), key=lambda i: scores[i], reverse=True)[:top_n]
-    top_idx = sorted(top_idx)
-    return '\n'.join([sents[i] for i in top_idx])
-
-
-def save_output(outdir, clusters, docs):
-    os.makedirs(outdir, exist_ok=True)
-    report = []
-    for cid, files in clusters.items():
-        combined = "\n\n".join(docs[f] for f in files)
-        summary = summarize_text(combined, top_n=6)
-        fname = f"topic_{cid:02d}.txt"
-        p = Path(outdir) / fname
-        with open(p, 'w', encoding='utf-8') as f:
-            f.write(f"Files:\n")
-            for fpath in files:
-                f.write(f"- {fpath}\n")
-            f.write('\n--- Summary ---\n')
-            f.write(summary)
-            f.write('\n\n--- Full Combined Text ---\n')
-            f.write(combined)
-        report.append((cid, fname, len(files)))
-    # write simple index
-    with open(Path(outdir)/'index.txt', 'w', encoding='utf-8') as idx:
-        for cid, fname, count in sorted(report):
-            idx.write(f"topic {cid}: {fname} — {count} files\n")
-
+def compile_pdfs(topics):
+    """Combines the saved images in each topic folder into a single PDF."""
+    print("\n--- Compiling Final PDFs ---")
+    for topic in topics:
+        topic_dir = os.path.join(OUTPUT_DIR, topic)
+        image_files = [f for f in os.listdir(topic_dir) if f.endswith('.png')]
+        
+        if not image_files:
+            continue # Skip if no images were found for this topic
+            
+        print(f"Compiling {len(image_files)} pages for {topic}...")
+        
+        # Load all images for this topic
+        images = []
+        for img_file in image_files:
+            img_path = os.path.join(topic_dir, img_file)
+            images.append(Image.open(img_path).convert('RGB'))
+            
+        # Save as a single PDF
+        output_pdf_path = os.path.join(OUTPUT_DIR, f"COMPILED_{topic}_Questions.pdf")
+        images[0].save(output_pdf_path, save_all=True, append_images=images[1:])
+        print(f"Saved -> {output_pdf_path}")
 
 def main():
-    parser = argparse.ArgumentParser()
-    parser.add_argument('--manifest', default='grade11_mathematical_literacy_papers/manifest.csv')
-    parser.add_argument('--outdir', default='consolidated_output')
-    parser.add_argument('--n-clusters', type=int, default=None)
-    args = parser.parse_args()
+    topics = setup_directories()
+    
+    # Get all PDF files in the input directory
+    pdf_files = [f for f in os.listdir(INPUT_DIR) if f.endswith('.pdf')]
+    print(f"Found {len(pdf_files)} PDF files to process.\n")
 
-    manifest = read_manifest(args.manifest)
-    docs = {}
-    base = Path('.').resolve()
-    for row in manifest:
-        local = row.get('local_path') or row.get('localpath')
-        if not local:
+    for pdf_filename in pdf_files:
+        pdf_path = os.path.join(INPUT_DIR, pdf_filename)
+        print(f"--- Processing: {pdf_filename} ---")
+        
+        try:
+            pages = convert_from_path(pdf_path)
+        except Exception as e:
+            print(f"Error reading {pdf_filename}: {e}. Skipping.")
             continue
-        local = local.replace('\\', os.sep).replace('/', os.sep)
-        path = (base / local).resolve()
-        if not path.exists():
-            print(f"Warning: file not found: {path}")
-            continue
-        print(f"Extracting: {path}")
-        text = extract_text(str(path))
-        if not text:
-            print(f"  No text extracted for {path}")
-            continue
-        docs[str(path)] = text
+            
+        for i, page in enumerate(pages):
+            # 1. Convert to OpenCV
+            open_cv_image = np.array(page) 
+            open_cv_image = open_cv_image[:, :, ::-1].copy()
+            
+            # 2. Deskew
+            processed_cv_image = deskew(open_cv_image)
+            processed_pil_image = Image.fromarray(cv2.cvtColor(processed_cv_image, cv2.COLOR_BGR2RGB))
+            
+            # 3. Extract Text & Topic
+            page_text = pytesseract.image_to_string(processed_pil_image)
+            topic = extract_topic(page_text)
+            
+            # 4. Save to temporary topic folder immediately to save RAM
+            # Using the original filename + page number to keep things organized
+            clean_name = pdf_filename.replace('.pdf', '')
+            save_name = f"{clean_name}_Page_{i+1}.png"
+            save_path = os.path.join(OUTPUT_DIR, topic, save_name)
+            
+            processed_pil_image.save(save_path)
+            print(f"  Page {i + 1} -> {topic}")
 
-    clusters = cluster_texts(docs, n_clusters=args.n_clusters)
-    save_output(args.outdir, clusters, docs)
-    print(f"Done. Outputs in {args.outdir}")
+    # 5. Compile the saved images into final PDFs
+    compile_pdfs(topics)
+    print("\nBatch Processing Complete!")
 
-
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()
