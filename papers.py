@@ -11,7 +11,7 @@ import requests
 from bs4 import BeautifulSoup, Tag
 
 
-SOURCE_URL = "https://www.testpapers.co.za/gr11/mathematics-literature"
+SOURCE_URL = "https://www.testpapers.co.za/gr12-mathematics"
 OUTPUT_DIR = Path("grade11_mathematical_literacy_papers")
 MANIFEST_PATH = OUTPUT_DIR / "manifest.csv"
 
@@ -121,6 +121,18 @@ def scrape_drive_folder(session: requests.Session, folder_url: str) -> list[dict
             continue
 
         if file_id in seen:
+            continue
+
+        # Filter: skip Afrikaans files and keep only English / question-paper / memo files
+        lower_title = file_title.lower()
+        if "afrikaans" in lower_title:
+            # skip Afrikaans language files
+            continue
+
+        # Only include files that look like question papers or memos/answers or explicitly English
+        keywords = ["english", "memo", "mem", "answer", "ans", "question", "qp", "paper", "p1", "p2"]
+        if not any(k in lower_title for k in keywords):
+            # not a relevant paper (e.g., attachments, images, other docs)
             continue
 
         seen.add(file_id)
